@@ -1,0 +1,6792 @@
+{
+  "_works": {
+    "pramanasamuccayavrtti": {
+      "_bibs___modern-translation-of___works": [
+        "4997",
+        "5001",
+        "5002",
+        "5009",
+        "5010",
+        "5011",
+        "5015",
+        "5019",
+        "5025",
+        "5030",
+        "5034",
+        "5035",
+        "5037",
+        "5039",
+        "5040",
+        "5044",
+        "5054",
+        "5056",
+        "5057",
+        "5060",
+        "5061",
+        "5062",
+        "5063",
+        "5067",
+        "5071",
+        "5078",
+        "5090",
+        "5114",
+        "5119",
+        "5240",
+        "5459",
+        "5476",
+        "5833",
+        "5860"
+      ],
+      "_bibs___edition-of___works": [
+        "5030",
+        "5083",
+        "5091",
+        "5476"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "5047",
+        "5083",
+        "5090",
+        "5093",
+        "5094",
+        "5104"
+      ],
+      "_works___composed-by___persons": [
+        "dignaga"
+      ],
+      "_works___commentary-of___works": [
+        "pramanasamuccayatika-visalamalavati",
+        "pramanasamuccaya"
+      ],
+      "_works___translation-of___works": [
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa"
+      ]
+    },
+    "pramanasamuccaya": {
+      "_bibs___modern-translation-of___works": [
+        "4999",
+        "5037",
+        "5066",
+        "5072",
+        "5090",
+        "5240"
+      ],
+      "_bibs___edition-of___works": [
+        "5476"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "5069",
+        "5090",
+        "5952"
+      ],
+      "_works___composed-by___persons": [
+        "dignaga"
+      ],
+      "_works___commentary-of___works": [
+        "commentary-on-pramanasamuccaya-with-vrtti",
+        "pramanasamuccayavrtti"
+      ],
+      "_works___translation-of___works": [
+        "chinese-text-and-modern-chinese-translation-of-pramanasamuccaya",
+        "tshad-ma-kun-las-btus-pa"
+      ]
+    },
+    "alambanapariksa": {
+      "_bibs___modern-translation-of___works": [
+        "5002",
+        "5004",
+        "5008",
+        "5024",
+        "5028",
+        "5031",
+        "5079",
+        "5529"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "5014",
+        "5043",
+        "5529"
+      ],
+      "_works___composed-by___persons": [
+        "dignaga"
+      ],
+      "_works___commentary-of___works": [
+        "alambanapariksavrtti",
+        "commentary-on-alambanapariksa-and-vrtti"
+      ],
+      "_works___translation-of___works": [
+        "dmigs-pa-brtag-pa",
+        "guan-suo-yuan-yuan-lun-156"
+      ]
+    },
+    "alambanapariksavrtti": {
+      "_bibs___modern-translation-of___works": [
+        "5002",
+        "5004",
+        "5008",
+        "5024",
+        "5031",
+        "5079"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "5014",
+        "5043",
+        "5529"
+      ],
+      "_works___composed-by___persons": [
+        "dignaga"
+      ],
+      "_works___commentary-of___works": [
+        "alambanapariksatika",
+        "alambanapariksa"
+      ],
+      "_works___translation-of___works": [
+        "dmigs-pa-brtag-paqi-qgrel-pa",
+        "guan-suo-yuan-yuan-lun-vrtti"
+      ]
+    },
+    "nyayamukha": {
+      "_bibs___modern-translation-of___works": [
+        "5003",
+        "5055",
+        "5074",
+        "5490",
+        "5801",
+        "5825",
+        "5852",
+        "5858",
+        "5887",
+        "5892"
+      ],
+      "_works___composed-by___persons": [
+        "dignaga"
+      ],
+      "_works___commentary-of___works": [
+        "commentary-on-nyayamukha",
+        "nyayamukhatika"
+      ],
+      "_works___translation-of___works": [
+        "yin-ming-zheng-li-men-lun"
+      ]
+    },
+    "hetucakradamaru-a": {
+      "_bibs___modern-translation-of___works": [
+        "5006",
+        "5036",
+        "5049",
+        "5076",
+        "6011"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "5049",
+        "5496"
+      ],
+      "_works___composed-by___persons": [
+        "dignaga"
+      ],
+      "_works___translation-of___works": [
+        "gtan-tshigs-kyi-qkhor-lo-gtan-la-dbab"
+      ]
+    },
+    "tshad-ma-kun-las-btus-paqi-qgrel-pa": {
+      "_bibs___modern-translation-of___works": [
+        "5011",
+        "5030",
+        "5067",
+        "5500",
+        "5810",
+        "5844",
+        "5849"
+      ],
+      "_bibs___edition-of___works": [
+        "5005",
+        "5025",
+        "5030",
+        "5047",
+        "5088",
+        "5093",
+        "5094",
+        "5108",
+        "5110"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "tattvasangraha": {
+      "_bibs___modern-translation-of___works": [
+        "5014",
+        "5136",
+        "5142",
+        "5148",
+        "5155",
+        "5287",
+        "5301",
+        "5305",
+        "5306",
+        "5309",
+        "5310",
+        "5312",
+        "5313",
+        "5317",
+        "5319",
+        "5320",
+        "5321",
+        "5324",
+        "5328",
+        "5341",
+        "5343",
+        "5346",
+        "5351",
+        "5357",
+        "5364",
+        "5368",
+        "5370",
+        "5376",
+        "5377",
+        "5382",
+        "5383",
+        "5390",
+        "5391",
+        "5392",
+        "5396",
+        "5397",
+        "5400",
+        "5401",
+        "5405",
+        "5406",
+        "5412",
+        "5414",
+        "5415",
+        "5416",
+        "5419",
+        "5424",
+        "5427",
+        "5438"
+      ],
+      "_bibs___edition-of___works": [
+        "5014",
+        "5368",
+        "5397",
+        "5407",
+        "5417"
+      ],
+      "_works___composed-by___persons": [
+        "santaraksita"
+      ],
+      "_works___commentary-of___works": [
+        "commentary-on-tattvasangraha",
+        "tattvasangrahapanjika"
+      ],
+      "_works___translation-of___works": [
+        "de-kho-na-nyid-bsdus-paqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "tattvasangrahapanjika": {
+      "_bibs___modern-translation-of___works": [
+        "5014",
+        "5136",
+        "5142",
+        "5148",
+        "5155",
+        "5287",
+        "5301",
+        "5305",
+        "5306",
+        "5309",
+        "5310",
+        "5312",
+        "5313",
+        "5317",
+        "5319",
+        "5320",
+        "5321",
+        "5324",
+        "5328",
+        "5341",
+        "5343",
+        "5346",
+        "5351",
+        "5357",
+        "5364",
+        "5370",
+        "5376",
+        "5377",
+        "5382",
+        "5383",
+        "5390",
+        "5391",
+        "5392",
+        "5396",
+        "5397",
+        "5400",
+        "5401",
+        "5405",
+        "5406",
+        "5412",
+        "5414",
+        "5415",
+        "5416",
+        "5419",
+        "5424",
+        "5427",
+        "5438"
+      ],
+      "_bibs___edition-of___works": [
+        "5014",
+        "5368",
+        "5407",
+        "5417"
+      ],
+      "_works___composed-by___persons": [
+        "kamalasila"
+      ],
+      "_works___commentary-of___works": [
+        "tattvasangraha"
+      ],
+      "_works___translation-of___works": [
+        "de-kho-na-nyid-bsdus-paqi-dkaq-qgrel"
+      ]
+    },
+    "tarkarahasya": {
+      "_bibs___modern-translation-of___works": [
+        "5016",
+        "5451",
+        "5812"
+      ],
+      "_bibs___edition-of___works": [
+        "5016",
+        "5190",
+        "5193",
+        "5466"
+      ],
+      "_works___composed-by___persons": [
+        "anonymous"
+      ]
+    },
+    "commentary-on-alambanapariksa-and-vrtti": {
+      "_bibs___modern-translation-of___works": [
+        "5021",
+        "5079"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "5043"
+      ],
+      "_works___composed-by___persons": [
+        "dharmapala"
+      ],
+      "_works___commentary-of___works": [
+        "alambanapariksa"
+      ],
+      "_works___translation-of___works": [
+        "guan-suo-yuan-lun-shi"
+      ]
+    },
+    "alambanapariksatika": {
+      "_bibs___modern-translation-of___works": [
+        "5043",
+        "5529"
+      ],
+      "_works___composed-by___persons": [
+        "vinitadeva"
+      ],
+      "_works___commentary-of___works": [
+        "alambanapariksavrtti"
+      ],
+      "_works___translation-of___works": [
+        "dmigs-pa-brtag-paqi-qgrel-bshad"
+      ]
+    },
+    "hetucakradamaru-b": {
+      "_bibs___modern-translation-of___works": [
+        "5049"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "5049"
+      ],
+      "_works___composed-by___persons": [
+        "dignaga"
+      ],
+      "_works___translation-of___works": [
+        "tibetan-text-of-hetucakradamaru-b"
+      ]
+    },
+    "pramanavarttika": {
+      "_bibs___modern-translation-of___works": [
+        "5072",
+        "5077",
+        "5082",
+        "5087",
+        "5089",
+        "5095",
+        "5096",
+        "5097",
+        "5101",
+        "5115",
+        "5120",
+        "5121",
+        "5127",
+        "5129",
+        "5130",
+        "5133",
+        "5139",
+        "5141",
+        "5144",
+        "5147",
+        "5150",
+        "5156",
+        "5174",
+        "5183",
+        "5191",
+        "5204",
+        "5206",
+        "5221",
+        "5222",
+        "5228",
+        "5233",
+        "5236",
+        "5240",
+        "5245",
+        "5263",
+        "5267",
+        "5272",
+        "5285",
+        "5288",
+        "5300",
+        "5456",
+        "5794",
+        "5815",
+        "5832",
+        "5850",
+        "5895",
+        "5899",
+        "5900",
+        "6035"
+      ],
+      "_bibs___edition-of___works": [
+        "5014",
+        "5097",
+        "5101",
+        "5127",
+        "5170",
+        "5174",
+        "5179",
+        "5180",
+        "5206",
+        "5217",
+        "5238",
+        "5253",
+        "5271",
+        "5275",
+        "5288",
+        "5374",
+        "5487"
+      ],
+      "_works___composed-by___persons": [
+        "dharmakirti"
+      ],
+      "_works___commentary-of___works": [
+        "pramanavarttikalankara",
+        "pramanavarttikanusara",
+        "pramanavarttikapanjika",
+        "pramanavarttikavrtti-manorathanandin",
+        "pramanavarttikavrtti-ravigupta",
+        "tshad-ma-rnam-qgrel-gyi-rnam-par-bshad-pa-gnas-gsum-gsal-ba-gangs-can-gyi-rgyan"
+      ],
+      "_works___translation-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-tshig-lequr-byas-pa"
+      ]
+    },
+    "upadayaprajnaptiprakarana": {
+      "_bibs___modern-translation-of___works": [
+        "5073"
+      ],
+      "_works___composed-by___persons": [
+        "dignaga"
+      ],
+      "_works___translation-of___works": [
+        "qu-yin-jia-she-lun"
+      ]
+    },
+    "pramanaviniscaya": {
+      "_bibs___modern-translation-of___works": [
+        "5078",
+        "5135",
+        "5145",
+        "5167",
+        "5194",
+        "5218",
+        "5220",
+        "5237",
+        "5249",
+        "5280",
+        "5281",
+        "5282",
+        "5290",
+        "5295",
+        "5806",
+        "5823",
+        "5829",
+        "5834",
+        "5857",
+        "5901",
+        "6010",
+        "6013",
+        "6019",
+        "6021"
+      ],
+      "_bibs___edition-of___works": [
+        "5173"
+      ],
+      "_works___composed-by___persons": [
+        "dharmakirti"
+      ],
+      "_works___commentary-of___works": [
+        "pramanaviniscayatika-dharmottara",
+        "pramanaviniscayatika-jnanasribhadra",
+        "tshad-ma-rnam-par-nges-paqi-bsdus-don",
+        "tshad-ma-rnam-par-nges-paqi-dkaq-gnas-rnam-par-bshad-pa",
+        "tshad-ma-rnam-par-nges-paqi-qgrel-bshad-shes-rab-kyi-qod-zer"
+      ],
+      "_works___translation-of___works": [
+        "tshad-ma-rnam-par-nges-pa"
+      ]
+    },
+    "pramanavarttikavrtti-svavrtti": {
+      "_bibs___modern-translation-of___works": [
+        "5087",
+        "5096",
+        "5097",
+        "5121",
+        "5129",
+        "5130",
+        "5146",
+        "5150",
+        "5183",
+        "5184",
+        "5190",
+        "5191",
+        "5204",
+        "5263",
+        "5265",
+        "5287",
+        "5300",
+        "5791",
+        "5803",
+        "5804",
+        "5809",
+        "5813",
+        "5817",
+        "5821",
+        "5861",
+        "6159"
+      ],
+      "_bibs___edition-of___works": [
+        "5097",
+        "5180"
+      ],
+      "_works___composed-by___persons": [
+        "dharmakirti"
+      ],
+      "_works___commentary-of___works": [
+        "pramanavarttikatika",
+        "pramanavarttikavrttitika"
+      ],
+      "_works___translation-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4216"
+      ]
+    },
+    "pramanasamuccayatika-visalamalavati": {
+      "_bibs___modern-translation-of___works": [
+        "5090",
+        "5208",
+        "5240",
+        "6175"
+      ],
+      "_bibs___edition-of___works": [
+        "5429"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "5047",
+        "5093",
+        "5094"
+      ],
+      "_works___composed-by___persons": [
+        "jinendrabuddhi"
+      ],
+      "_works___commentary-of___works": [
+        "pramanasamuccayavrtti"
+      ],
+      "_works___translation-of___works": [
+        "yangs-ba-dang-dri-ma-med-pa-dang-ldang-pa"
+      ]
+    },
+    "nyayapravesakasutra": {
+      "_bibs___modern-translation-of___works": [
+        "5099",
+        "5118",
+        "5122",
+        "5124",
+        "5201",
+        "5458",
+        "5470",
+        "5514"
+      ],
+      "_bibs___edition-of___works": [
+        "5098",
+        "5099",
+        "5102",
+        "5112",
+        "5117",
+        "5118",
+        "5122",
+        "5124",
+        "5128",
+        "5496"
+      ],
+      "_works___composed-by___persons": [
+        "sankarasvamin"
+      ],
+      "_works___commentary-of___works": [
+        "nyayapravesatika-sisyahita"
+      ],
+      "_works___translation-of___works": [
+        "nyayapravesakasutra-mongolian",
+        "tshad-ma-rigs-par-qjug-paqi-sgo-zhes-bya-baqi-rab-tu-byed-pa",
+        "yin-ming-ru-zheng-li-lun"
+      ]
+    },
+    "nyayapravesavrttipanjika": {
+      "_bibs___modern-translation-of___works": [
+        "5118"
+      ],
+      "_bibs___edition-of___works": [
+        "5118"
+      ],
+      "_works___composed-by___persons": [
+        "candra-suri"
+      ],
+      "_works___commentary-of___works": [
+        "nyayapravesatika-sisyahita"
+      ]
+    },
+    "nyayapravesatika-sisyahita": {
+      "_bibs___modern-translation-of___works": [
+        "5118"
+      ],
+      "_bibs___edition-of___works": [
+        "5118"
+      ],
+      "_works___composed-by___persons": [
+        "haribhadra-suri"
+      ],
+      "_works___commentary-of___works": [
+        "nyayapravesakasutra",
+        "nyayapravesavrttipanjika"
+      ]
+    },
+    "bahyarthasiddhikarika": {
+      "_bibs___modern-translation-of___works": [
+        "5140",
+        "5188",
+        "5205",
+        "5209",
+        "5234",
+        "5241",
+        "5270",
+        "5483"
+      ],
+      "_works___composed-by___persons": [
+        "subhagupta"
+      ],
+      "_works___translation-of___works": [
+        "phyi-rol-gyi-don-grub-pa-zhes-bya-baqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "santanantarasiddhitika": {
+      "_bibs___modern-translation-of___works": [
+        "5149",
+        "5508"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "5231",
+        "5244"
+      ],
+      "_works___composed-by___persons": [
+        "vinitadeva"
+      ],
+      "_works___commentary-of___works": [
+        "santanantarasiddhi"
+      ],
+      "_works___translation-of___works": [
+        "rgyud-gzhan-grub-paqi-qgrel-bshad"
+      ]
+    },
+    "santanantarasiddhi": {
+      "_bibs___modern-translation-of___works": [
+        "5149",
+        "5202",
+        "5294",
+        "5299",
+        "5508"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "5231",
+        "5244"
+      ],
+      "_works___composed-by___persons": [
+        "dharmakirti"
+      ],
+      "_works___commentary-of___works": [
+        "santanantarasiddhitika"
+      ],
+      "_works___translation-of___works": [
+        "rgyud-gzhan-grub-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "anyapohavicarakarika": {
+      "_bibs___modern-translation-of___works": [
+        "5151"
+      ],
+      "_works___composed-by___persons": [
+        "subhagupta"
+      ],
+      "_works___translation-of___works": [
+        "gzhan-sel-brtag-paqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "nyayabindutika-dharmottara": {
+      "_bibs___modern-translation-of___works": [
+        "5159",
+        "5160",
+        "5196",
+        "5388",
+        "5410",
+        "5432",
+        "5449",
+        "5960"
+      ],
+      "_bibs___edition-of___works": [
+        "5186",
+        "5196",
+        "5207",
+        "5226",
+        "5246",
+        "5257",
+        "5492",
+        "5509",
+        "5960"
+      ],
+      "_works___composed-by___persons": [
+        "dharmottara"
+      ],
+      "_works___commentary-of___works": [
+        "dharmottarapradipa",
+        "dharmottaratikatippanaka",
+        "nyayabindu",
+        "nyayabindutikatippanaka-tatparyanibandhana",
+        "nyayabindutikatippani",
+        "rigs-thigs-qgrel-paqi-don-bsdus"
+      ],
+      "_works___translation-of___works": [
+        "rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4231"
+      ]
+    },
+    "nyayabindu": {
+      "_bibs___modern-translation-of___works": [
+        "5159",
+        "5160",
+        "5164",
+        "5196",
+        "5211",
+        "5223",
+        "5255",
+        "5445",
+        "5449"
+      ],
+      "_bibs___edition-of___works": [
+        "5186",
+        "5196",
+        "5198",
+        "5207",
+        "5223",
+        "5226",
+        "5246",
+        "5257",
+        "5509"
+      ],
+      "_works___composed-by___persons": [
+        "dharmakirti"
+      ],
+      "_works___commentary-of___works": [
+        "commentary-on-nyayabindu",
+        "nyayabindupindartha",
+        "nyayabindutika-dharmottara",
+        "nyayabindutika-vinitadeva",
+        "rigs-thigs-brjed-byang",
+        "tshad-ma-rigs-thigs-kyi-qgrel-pa-legs-bshad-snying-poqi-gter",
+        "tshad-ma-rigs-thigs-kyi-qgrel-pa-zur-bkol"
+      ],
+      "_works___translation-of___works": [
+        "rigs-paqi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4216": {
+      "_bibs___modern-translation-of___works": [
+        "5162"
+      ],
+      "_bibs___edition-of___works": [
+        "5130",
+        "5162",
+        "5181",
+        "5191",
+        "5292"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "vadanyaya": {
+      "_bibs___modern-translation-of___works": [
+        "5172",
+        "5175",
+        "5212",
+        "5214"
+      ],
+      "_bibs___edition-of___works": [
+        "5212",
+        "5214",
+        "5225",
+        "5274",
+        "5439"
+      ],
+      "_works___composed-by___persons": [
+        "dharmakirti"
+      ],
+      "_works___commentary-of___works": [
+        "commentary-on-vadanyaya",
+        "rtsod-paqi-rigs-pa-la-qbru-qjoms",
+        "rtsod-paqi-rigs-pa-rgyan-gyi-me-tog",
+        "rtsod-paqi-rigs-paqi-bsdus-don",
+        "vadanyayatika",
+        "vadanyayatika-vipancitartha"
+      ],
+      "_works___translation-of___works": [
+        "rtsod-paqi-rigs-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "hetubindu": {
+      "_bibs___modern-translation-of___works": [
+        "5177",
+        "5213",
+        "5283",
+        "5300"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "5254",
+        "5333"
+      ],
+      "_works___composed-by___persons": [
+        "dharmakirti"
+      ],
+      "_works___commentary-of___works": [
+        "hetubindutika-arcata"
+      ],
+      "_works___translation-of___works": [
+        "gtan-tshigs-kyi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "vadanyayatika-vipancitartha": {
+      "_bibs___modern-translation-of___works": [
+        "5212"
+      ],
+      "_bibs___edition-of___works": [
+        "5212",
+        "5274",
+        "5372",
+        "5385"
+      ],
+      "_works___composed-by___persons": [
+        "santaraksita"
+      ],
+      "_works___commentary-of___works": [
+        "vadanyaya"
+      ],
+      "_works___translation-of___works": [
+        "rtsod-paqi-rigs-paqi-qgrel-pa-don-rnam-par-qbyed-pa"
+      ]
+    },
+    "sambandhapariksa": {
+      "_bibs___modern-translation-of___works": [
+        "5219",
+        "5242",
+        "5252",
+        "5296"
+      ],
+      "_bibs___edition-of___works": [
+        "5170",
+        "5193",
+        "5242",
+        "5289"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "5289"
+      ],
+      "_works___composed-by___persons": [
+        "dharmakirti"
+      ],
+      "_works___commentary-of___works": [
+        "qbrel-ba-brtag-pa-rgyan-gyi-me-tog",
+        "qbrel-ba-brtag-paqi-rab-tu-qbyed-paqi-don-bsdus",
+        "qbrel-ba-brtag-paqi-rab-tu-qbyed-paqi-mchan",
+        "sambandhapariksanusara",
+        "sambandhapariksatika",
+        "sambandhapariksavrtti"
+      ],
+      "_works___translation-of___works": [
+        "qbrel-pa-brtag-paqi-rab-tu-byed-pa"
+      ]
+    },
+    "sambandhapariksavrtti": {
+      "_bibs___modern-translation-of___works": [
+        "5219"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "5289"
+      ],
+      "_works___composed-by___persons": [
+        "devendrabuddhi"
+      ],
+      "_works___commentary-of___works": [
+        "qbrel-ba-brtag-paqi-rnam-bshad-nyi-maqi-snying-po",
+        "sambandhapariksa"
+      ],
+      "_works___translation-of___works": [
+        "qbrel-pa-brtag-paqi-qgrel-pa"
+      ]
+    },
+    "nyayabindutika-vinitadeva": {
+      "_bibs___modern-translation-of___works": [
+        "5223",
+        "5255"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "5207",
+        "5223"
+      ],
+      "_works___composed-by___persons": [
+        "vinitadeva"
+      ],
+      "_works___commentary-of___works": [
+        "nyayabindu"
+      ],
+      "_works___translation-of___works": [
+        "rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4230"
+      ]
+    },
+    "nyayamukhatika": {
+      "_bibs___modern-translation-of___works": [
+        "5240",
+        "5968"
+      ],
+      "_works___composed-by___persons": [
+        "nyayamukhatikakara"
+      ],
+      "_works___commentary-of___works": [
+        "nyayamukha"
+      ]
+    },
+    "pramanavarttikavrttitika": {
+      "_bibs___modern-translation-of___works": [
+        "5249"
+      ],
+      "_bibs___edition-of___works": [
+        "5249"
+      ],
+      "_works___composed-by___persons": [
+        "karnakagomin"
+      ],
+      "_works___commentary-of___works": [
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "pramanavarttikatika": {
+      "_bibs___modern-translation-of___works": [
+        "5265",
+        "5293"
+      ],
+      "_works___composed-by___persons": [
+        "sakyabuddhi"
+      ],
+      "_works___commentary-of___works": [
+        "commentary-on-sakyabuddhiqs-pramanavarttikatika",
+        "pramanavarttikavrtti-svavrtti"
+      ],
+      "_works___translation-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-qgrel-bshad-derge4220"
+      ]
+    },
+    "sarvajnasiddhikarika-subhagupta": {
+      "_bibs___modern-translation-of___works": [
+        "5286"
+      ],
+      "_works___composed-by___persons": [
+        "subhagupta"
+      ],
+      "_works___translation-of___works": [
+        "thams-cad-mkhyen-pa-grub-paqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "pramanaviniscayatika-dharmottara": {
+      "_bibs___modern-translation-of___works": [
+        "5290",
+        "5355",
+        "5420"
+      ],
+      "_bibs___edition-of___works": [
+        "5193",
+        "5290"
+      ],
+      "_works___composed-by___persons": [
+        "dharmottara"
+      ],
+      "_works___commentary-of___works": [
+        "pramanaviniscaya"
+      ],
+      "_works___translation-of___works": [
+        "tshad-ma-rnam-par-nges-paqi-qgrel-bshad-derge4227"
+      ]
+    },
+    "pramanavarttikalankara": {
+      "_bibs___modern-translation-of___works": [
+        "5290",
+        "5344",
+        "5369",
+        "5433",
+        "5899",
+        "5958",
+        "6105"
+      ],
+      "_bibs___edition-of___works": [
+        "5221",
+        "5344",
+        "5369",
+        "5378",
+        "5433",
+        "5958",
+        "6089",
+        "6105"
+      ],
+      "_works___composed-by___persons": [
+        "prajnakaragupta"
+      ],
+      "_works___commentary-of___works": [
+        "pramanavarttika",
+        "pramanavarttikalankaratika",
+        "pramanavarttikalankaratika-suparisuddha"
+      ],
+      "_works___translation-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-rgyan"
+      ]
+    },
+    "pramanavarttikapanjika": {
+      "_bibs___modern-translation-of___works": [
+        "5300"
+      ],
+      "_works___composed-by___persons": [
+        "devendrabuddhi"
+      ],
+      "_works___commentary-of___works": [
+        "pramanavarttika"
+      ],
+      "_works___translation-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-dkaq-qgrel"
+      ]
+    },
+    "jatinirakrti": {
+      "_bibs___modern-translation-of___works": [
+        "5326"
+      ],
+      "_bibs___edition-of___works": [
+        "5311",
+        "5326",
+        "5373",
+        "5402",
+        "5450"
+      ],
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "sarvajnasiddhikarika-sankaranandana": {
+      "_bibs___modern-translation-of___works": [
+        "5330"
+      ],
+      "_bibs___edition-of___works": [
+        "5677"
+      ],
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ],
+      "_works___commentary-of___works": [
+        "commentary-on-sarvajnasiddhikarika"
+      ]
+    },
+    "apohaprakarana-jnanasrimitra": {
+      "_bibs___modern-translation-of___works": [
+        "5331"
+      ],
+      "_bibs___edition-of___works": [
+        "5436"
+      ],
+      "_works___composed-by___persons": [
+        "jnanasrimitra"
+      ]
+    },
+    "vijnaptimatratasiddhi-ratnakarasanti": {
+      "_bibs___modern-translation-of___works": [
+        "5332"
+      ],
+      "_works___composed-by___persons": [
+        "ratnakarasanti"
+      ],
+      "_works___translation-of___works": [
+        "rnam-par-rig-pa-tsam-nyid-du-grub-pa"
+      ]
+    },
+    "sahopalambhaniyamasiddhi": {
+      "_bibs___modern-translation-of___works": [
+        "5335"
+      ],
+      "_works___composed-by___persons": [
+        "prajnakaragupta"
+      ],
+      "_works___translation-of___works": [
+        "lhan-cig-dmigs-pa-nges-par-grub-pa"
+      ]
+    },
+    "pramanyapariksa-ii-laghupramanyapariksa": {
+      "_bibs___modern-translation-of___works": [
+        "5336"
+      ],
+      "_works___composed-by___persons": [
+        "dharmottara"
+      ],
+      "_works___translation-of___works": [
+        "tshad-ma-brtag-pa-chung-ba"
+      ]
+    },
+    "paralokasiddhi": {
+      "_bibs___modern-translation-of___works": [
+        "5337",
+        "5398"
+      ],
+      "_works___composed-by___persons": [
+        "dharmottara"
+      ],
+      "_works___translation-of___works": [
+        "qjig-rten-pha-rol-grub-pa"
+      ]
+    },
+    "antarvyaptisamarthana": {
+      "_bibs___modern-translation-of___works": [
+        "5340",
+        "5349",
+        "5418"
+      ],
+      "_bibs___edition-of___works": [
+        "5413"
+      ],
+      "_works___composed-by___persons": [
+        "ratnakarasanti"
+      ],
+      "_works___translation-of___works": [
+        "nang-gi-khyab-pa"
+      ]
+    },
+    "vyapticarca": {
+      "_bibs___modern-translation-of___works": [
+        "5348"
+      ],
+      "_bibs___edition-of___works": [
+        "5348",
+        "5436"
+      ],
+      "_works___composed-by___persons": [
+        "jnanasrimitra"
+      ]
+    },
+    "sakarasiddhisastra": {
+      "_bibs___modern-translation-of___works": [
+        "5360"
+      ],
+      "_bibs___edition-of___works": [
+        "5436"
+      ],
+      "_works___composed-by___persons": [
+        "jnanasrimitra"
+      ]
+    },
+    "apohaprakarana-dharmottara": {
+      "_bibs___modern-translation-of___works": [
+        "5361",
+        "5365"
+      ],
+      "_bibs___edition-of___works": [
+        "5361"
+      ],
+      "_works___composed-by___persons": [
+        "dharmottara"
+      ],
+      "_works___translation-of___works": [
+        "gzhan-sel-ba-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "balavataratarka": {
+      "_bibs___modern-translation-of___works": [
+        "5366"
+      ],
+      "_works___composed-by___persons": [
+        "jitari"
+      ],
+      "_works___translation-of___works": [
+        "byis-pa-qjug-paqi-rtog-ge"
+      ]
+    },
+    "ksanabhangadhyaya": {
+      "_bibs___modern-translation-of___works": [
+        "5367",
+        "5805",
+        "5816"
+      ],
+      "_bibs___edition-of___works": [
+        "5367",
+        "5436",
+        "5805",
+        "5816"
+      ],
+      "_works___composed-by___persons": [
+        "jnanasrimitra"
+      ]
+    },
+    "ksanabhangasiddhi-dharmottara": {
+      "_bibs___modern-translation-of___works": [
+        "5381"
+      ],
+      "_works___composed-by___persons": [
+        "dharmottara"
+      ],
+      "_works___translation-of___works": [
+        "skad-cig-ma-qjig-pa-grub-pa"
+      ]
+    },
+    "karyakaranabhavasiddhi": {
+      "_bibs___modern-translation-of___works": [
+        "5399"
+      ],
+      "_bibs___edition-of___works": [
+        "5436"
+      ],
+      "_works___composed-by___persons": [
+        "jnanasrimitra"
+      ],
+      "_works___translation-of___works": [
+        "rgyu-dang-qbras-buqi-ngo-bo-grub-pa"
+      ]
+    },
+    "digambaramatapariksa": {
+      "_bibs___modern-translation-of___works": [
+        "5402"
+      ],
+      "_bibs___edition-of___works": [
+        "5402",
+        "5450"
+      ],
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "tarkabhasa": {
+      "_bibs___modern-translation-of___works": [
+        "5402",
+        "5460",
+        "5479",
+        "5497"
+      ],
+      "_bibs___edition-of___works": [
+        "5402",
+        "5450",
+        "5460",
+        "5471"
+      ],
+      "_works___composed-by___persons": [
+        "moksakaragupta"
+      ],
+      "_works___translation-of___works": [
+        "rtog-geqi-skad"
+      ]
+    },
+    "hetutattvopadesa": {
+      "_bibs___modern-translation-of___works": [
+        "5423"
+      ],
+      "_bibs___edition-of___works": [
+        "5318",
+        "5478"
+      ],
+      "_works___composed-by___persons": [
+        "jitari"
+      ],
+      "_works___translation-of___works": [
+        "gtan-tshigs-kyi-de-kho-na-nyid-bstan-pa"
+      ]
+    },
+    "sarvajnasiddhi-ratnakirti": {
+      "_bibs___modern-translation-of___works": [
+        "5485",
+        "5527"
+      ],
+      "_bibs___edition-of___works": [
+        "5482",
+        "5485"
+      ],
+      "_works___composed-by___persons": [
+        "ratnakirti"
+      ]
+    },
+    "santanantaradusana": {
+      "_bibs___modern-translation-of___works": [
+        "5488",
+        "5522",
+        "6095"
+      ],
+      "_bibs___edition-of___works": [
+        "5482"
+      ],
+      "_works___composed-by___persons": [
+        "ratnakirti"
+      ]
+    },
+    "sthirasiddhidusana": {
+      "_bibs___modern-translation-of___works": [
+        "5489"
+      ],
+      "_bibs___edition-of___works": [
+        "5482",
+        "5489"
+      ],
+      "_works___composed-by___persons": [
+        "ratnakirti"
+      ]
+    },
+    "ksanabhangasiddhi-vyatirekatmika": {
+      "_bibs___modern-translation-of___works": [
+        "5503"
+      ],
+      "_bibs___edition-of___works": [
+        "5413",
+        "5482",
+        "5503"
+      ],
+      "_works___composed-by___persons": [
+        "ratnakirti"
+      ]
+    },
+    "apohasiddhi-ratnakirti": {
+      "_bibs___modern-translation-of___works": [
+        "5505"
+      ],
+      "_bibs___edition-of___works": [
+        "5413",
+        "5482",
+        "5505"
+      ],
+      "_works___composed-by___persons": [
+        "ratnakirti"
+      ]
+    },
+    "pramanavarttikalankaratika-suparisuddha": {
+      "_bibs___modern-translation-of___works": [
+        "5513"
+      ],
+      "_works___composed-by___persons": [
+        "yamari"
+      ],
+      "_works___commentary-of___works": [
+        "pramanavarttikalankara"
+      ],
+      "_works___translation-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-rgyan-gyi-qgrel-bshad-shin-tu-yongs-su-dag-pa"
+      ]
+    },
+    "vyaptinirnaya": {
+      "_bibs___modern-translation-of___works": [
+        "5523",
+        "5530"
+      ],
+      "_bibs___edition-of___works": [
+        "5482",
+        "5523",
+        "5530"
+      ],
+      "_works___composed-by___persons": [
+        "ratnakirti"
+      ]
+    },
+    "hetubindutika-arcata": {
+      "_bibs___modern-translation-of___works": [
+        "5524",
+        "5939",
+        "6001"
+      ],
+      "_bibs___edition-of___works": [
+        "5254"
+      ],
+      "_works___composed-by___persons": [
+        "arcata"
+      ],
+      "_works___commentary-of___works": [
+        "hetubindu",
+        "hetubindutikaloka"
+      ],
+      "_works___translation-of___works": [
+        "gtan-tshigs-kyi-thigs-paqi-qgrel-pa"
+      ]
+    },
+    "pramanavarttikavrtti-manorathanandin": {
+      "_bibs___modern-translation-of___works": [
+        "5947"
+      ],
+      "_bibs___edition-of___works": [
+        "5014",
+        "5217",
+        "5475"
+      ],
+      "_works___composed-by___persons": [
+        "manorathanandin"
+      ],
+      "_works___commentary-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "dharmottarapradipa": {
+      "_bibs___modern-translation-of___works": [
+        "5960"
+      ],
+      "_bibs___edition-of___works": [
+        "5246",
+        "5960"
+      ],
+      "_works___composed-by___persons": [
+        "durvekamisra"
+      ],
+      "_works___commentary-of___works": [
+        "nyayabindutika-dharmottara"
+      ]
+    },
+    "gtan-tshigs-kyi-qkhor-lo-gtan-la-dbab": {
+      "_bibs___modern-translation-of___works": [
+        "6011",
+        "6066"
+      ],
+      "_bibs___edition-of___works": [
+        "5032",
+        "5033",
+        "5049",
+        "5051",
+        "5484"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "hetucakradamaru-a"
+      ]
+    },
+    "isvarasadhanadusana": {
+      "_bibs___modern-translation-of___works": [
+        "6165"
+      ],
+      "_bibs___edition-of___works": [
+        "5482"
+      ],
+      "_works___composed-by___persons": [
+        "ratnakirti"
+      ]
+    },
+    "dmigs-pa-brtag-paqi-qgrel-pa": {
+      "_bibs___edition-of___works": [
+        "4998",
+        "5004",
+        "5008",
+        "5017",
+        "5043",
+        "5448",
+        "5484",
+        "5529"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "alambanapariksavrtti"
+      ]
+    },
+    "chinese-text-and-modern-chinese-translation-of-pramanasamuccaya": {
+      "_bibs___edition-of___works": [
+        "4999"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanasamuccaya"
+      ]
+    },
+    "tshad-ma-kun-las-btus-pa": {
+      "_bibs___edition-of___works": [
+        "5000",
+        "5024",
+        "5025",
+        "5059",
+        "5072",
+        "5088",
+        "5452",
+        "6118"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanasamuccaya"
+      ]
+    },
+    "yin-ming-zheng-li-men-lun": {
+      "_bibs___edition-of___works": [
+        "5003",
+        "5026",
+        "5055",
+        "5068",
+        "5801",
+        "5825",
+        "5852",
+        "5858",
+        "5887",
+        "5892"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "nyayamukha"
+      ]
+    },
+    "dmigs-pa-brtag-paqi-qgrel-bshad": {
+      "_bibs___edition-of___works": [
+        "5004",
+        "5273"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "alambanapariksatika"
+      ]
+    },
+    "guan-suo-yuan-yuan-lun-156": {
+      "_bibs___edition-of___works": [
+        "5004",
+        "5018",
+        "5029",
+        "5080"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "alambanapariksa"
+      ]
+    },
+    "dmigs-pa-brtag-pa": {
+      "_bibs___edition-of___works": [
+        "5004",
+        "5008",
+        "5013",
+        "5043",
+        "5448",
+        "5484",
+        "5529"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "alambanapariksa"
+      ]
+    },
+    "guan-suo-yuan-yuan-lun-vrtti": {
+      "_bibs___edition-of___works": [
+        "5004",
+        "5018",
+        "5029",
+        "5080"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "alambanapariksavrtti"
+      ]
+    },
+    "tibetan-text-of-hetucakradamaru-b": {
+      "_bibs___edition-of___works": [
+        "5007",
+        "5049",
+        "5484"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "hetucakradamaru-b"
+      ]
+    },
+    "samanyalaksanapariksa-old-chinese": {
+      "_bibs___edition-of___works": [
+        "5022"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "samanyalaksanapariksa"
+      ]
+    },
+    "guan-suo-yuan-lun-shi": {
+      "_bibs___edition-of___works": [
+        "5029"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "commentary-on-alambanapariksa-and-vrtti"
+      ]
+    },
+    "qu-yin-jia-she-lun": {
+      "_bibs___edition-of___works": [
+        "5038"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "upadayaprajnaptiprakarana"
+      ]
+    },
+    "yangs-ba-dang-dri-ma-med-pa-dang-ldang-pa": {
+      "_bibs___edition-of___works": [
+        "5047",
+        "5091",
+        "5093",
+        "5094",
+        "5403"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanasamuccayatika-visalamalavati"
+      ]
+    },
+    "tshad-ma-rigs-par-qjug-paqi-sgo-zhes-bya-baqi-rab-tu-byed-pa": {
+      "_bibs___edition-of___works": [
+        "5084",
+        "5102",
+        "5109",
+        "5126",
+        "5128",
+        "5358",
+        "5496"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "nyayapravesakasutra"
+      ]
+    },
+    "yin-ming-ru-zheng-li-lun": {
+      "_bibs___edition-of___works": [
+        "5122",
+        "5132"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "nyayapravesakasutra"
+      ]
+    },
+    "rtsod-paqi-rigs-paqi-qgrel-pa": {
+      "_bibs___edition-of___works": [
+        "5134"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "vadanyayatika"
+      ]
+    },
+    "tshad-ma-rnam-par-nges-pa": {
+      "_bibs___edition-of___works": [
+        "5135",
+        "5165",
+        "5169",
+        "5249",
+        "5258",
+        "5281",
+        "5290",
+        "5829",
+        "5834",
+        "5901",
+        "6010",
+        "6013",
+        "6019",
+        "6021"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "tshad-ma-rnam-qgrel-gyi-qgrel-bshad-derge4220": {
+      "_bibs___edition-of___works": [
+        "5137",
+        "5293",
+        "5443"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanavarttikatika"
+      ]
+    },
+    "thos-pa-brtag-paqi-tshig-lequr-byas-pa": {
+      "_bibs___edition-of___works": [
+        "5143"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "srutipariksakarika"
+      ]
+    },
+    "dbang-phyug-qjig-paqi-tshig-lequr-byas-pa": {
+      "_bibs___edition-of___works": [
+        "5148",
+        "5216"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "isvarabhangakarika"
+      ]
+    },
+    "rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4230": {
+      "_bibs___edition-of___works": [
+        "5152",
+        "5195",
+        "5223"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "nyayabindutika-vinitadeva"
+      ]
+    },
+    "rgyud-gzhan-grub-paqi-qgrel-bshad": {
+      "_bibs___edition-of___works": [
+        "5158",
+        "5231",
+        "5525"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "santanantarasiddhitika"
+      ]
+    },
+    "phyi-rol-gyi-don-grub-pa-zhes-bya-baqi-tshig-lequr-byas-pa": {
+      "_bibs___edition-of___works": [
+        "5163",
+        "5209",
+        "5210",
+        "5234"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "bahyarthasiddhikarika"
+      ]
+    },
+    "qbrel-pa-brtag-paqi-qgrel-pa": {
+      "_bibs___edition-of___works": [
+        "5168",
+        "5297"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "sambandhapariksavrtti"
+      ]
+    },
+    "rigs-paqi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa": {
+      "_bibs___edition-of___works": [
+        "5171",
+        "5195",
+        "5247",
+        "5257"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "nyayabindu"
+      ]
+    },
+    "rtsod-paqi-rigs-pa-zhes-bya-baqi-rab-tu-byed-pa": {
+      "_bibs___edition-of___works": [
+        "5182",
+        "5276"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "vadanyaya"
+      ]
+    },
+    "rgyud-gzhan-grub-pa-zhes-bya-baqi-rab-tu-byed-pa": {
+      "_bibs___edition-of___works": [
+        "5189",
+        "5231",
+        "5239",
+        "5244",
+        "5525"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "santanantarasiddhi"
+      ]
+    },
+    "dharmottaratikatippanaka": {
+      "_bibs___edition-of___works": [
+        "5190",
+        "6052",
+        "6068",
+        "6082"
+      ],
+      "_works___composed-by___persons": [
+        "mallavadin"
+      ],
+      "_works___commentary-of___works": [
+        "nyayabindutika-dharmottara"
+      ]
+    },
+    "gtan-tshigs-kyi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa": {
+      "_bibs___edition-of___works": [
+        "5197",
+        "5284"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "hetubindu"
+      ]
+    },
+    "tshad-ma-rnam-qgrel-gyi-dkaq-qgrel": {
+      "_bibs___edition-of___works": [
+        "5199"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanavarttikapanjika"
+      ]
+    },
+    "nyayabindutikatippani": {
+      "_bibs___edition-of___works": [
+        "5207"
+      ],
+      "_works___composed-by___persons": [
+        "anonymous"
+      ],
+      "_works___commentary-of___works": [
+        "nyayabindutika-dharmottara"
+      ]
+    },
+    "thams-cad-mkhyen-pa-grub-paqi-tshig-lequr-byas-pa": {
+      "_bibs___edition-of___works": [
+        "5215",
+        "5286"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "sarvajnasiddhikarika-subhagupta"
+      ]
+    },
+    "qbrel-pa-brtag-paqi-rgya-cher-bshad-pa": {
+      "_bibs___edition-of___works": [
+        "5219",
+        "5440"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "sambandhapariksatika"
+      ]
+    },
+    "qbrel-pa-brtag-paqi-rab-tu-byed-pa": {
+      "_bibs___edition-of___works": [
+        "5230",
+        "5268",
+        "5279",
+        "5289"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "sambandhapariksa"
+      ]
+    },
+    "tshad-ma-rnam-par-nges-paqi-qgrel-bshad-derge4227": {
+      "_bibs___edition-of___works": [
+        "5249",
+        "5315",
+        "5355"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanaviniscayatika-dharmottara"
+      ]
+    },
+    "hetubindutikaloka": {
+      "_bibs___edition-of___works": [
+        "5254"
+      ],
+      "_works___composed-by___persons": [
+        "durvekamisra"
+      ],
+      "_works___commentary-of___works": [
+        "hetubindutika-arcata"
+      ]
+    },
+    "tshad-ma-rnam-qgrel-gyi-tshig-lequr-byas-pa": {
+      "_bibs___edition-of___works": [
+        "5256",
+        "5261",
+        "5271",
+        "5553"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4231": {
+      "_bibs___edition-of___works": [
+        "5257",
+        "5387"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "nyayabindutika-dharmottara"
+      ]
+    },
+    "gzhan-sel-brtag-paqi-tshig-lequr-byas-pa": {
+      "_bibs___edition-of___works": [
+        "5266"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "anyapohavicarakarika"
+      ]
+    },
+    "gzhan-sel-ba-zhes-bya-baqi-rab-tu-byed-pa": {
+      "_bibs___edition-of___works": [
+        "5302",
+        "5365"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "apohaprakarana-dharmottara"
+      ]
+    },
+    "skad-cig-ma-qjig-pa-grub-paqi-rnam-par-qgrel-pa": {
+      "_bibs___edition-of___works": [
+        "5304"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "ksanabhangasiddhivivarana"
+      ]
+    },
+    "byis-pa-qjug-paqi-rtog-ge": {
+      "_bibs___edition-of___works": [
+        "5307",
+        "5325"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "balavataratarka"
+      ]
+    },
+    "rgyu-dang-qbras-buqi-ngo-bo-grub-pa": {
+      "_bibs___edition-of___works": [
+        "5314"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "karyakaranabhavasiddhi"
+      ]
+    },
+    "tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4224": {
+      "_bibs___edition-of___works": [
+        "5316"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanavarttikavrtti-ravigupta"
+      ]
+    },
+    "tarkasopana": {
+      "_bibs___edition-of___works": [
+        "5318",
+        "5491"
+      ],
+      "_works___composed-by___persons": [
+        "vidyakarasanti"
+      ]
+    },
+    "tshad-ma-rnam-qgrel-gyi-qgrel-bshad-derge4223": {
+      "_bibs___edition-of___works": [
+        "5322"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanavarttikanusara"
+      ]
+    },
+    "skad-cig-ma-qjig-pa-grub-pa": {
+      "_bibs___edition-of___works": [
+        "5323",
+        "5381"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "ksanabhangasiddhi-dharmottara"
+      ]
+    },
+    "avayavinirakarana-pandita-asoka": {
+      "_bibs___edition-of___works": [
+        "5327",
+        "5413"
+      ],
+      "_works___composed-by___persons": [
+        "pandita-asoka"
+      ]
+    },
+    "samanyadusana": {
+      "_bibs___edition-of___works": [
+        "5327",
+        "5413"
+      ],
+      "_works___composed-by___persons": [
+        "pandita-asoka"
+      ]
+    },
+    "qjig-rten-pha-rol-grub-pa": {
+      "_bibs___edition-of___works": [
+        "5329",
+        "5337"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "paralokasiddhi"
+      ]
+    },
+    "commentary-on-sarvajnasiddhikarika": {
+      "_bibs___edition-of___works": [
+        "5330"
+      ],
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ],
+      "_works___commentary-of___works": [
+        "sarvajnasiddhikarika-sankaranandana"
+      ]
+    },
+    "gtan-tshigs-kyi-thigs-paqi-qgrel-pa": {
+      "_bibs___edition-of___works": [
+        "5333",
+        "5354"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "hetubindutika-arcata"
+      ]
+    },
+    "lhan-cig-dmigs-pa-nges-par-grub-pa": {
+      "_bibs___edition-of___works": [
+        "5335",
+        "5356"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "sahopalambhaniyamasiddhi"
+      ]
+    },
+    "rnam-par-rig-pa-tsam-nyid-du-grub-pa": {
+      "_bibs___edition-of___works": [
+        "5339",
+        "5342"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "vijnaptimatratasiddhi-ratnakarasanti"
+      ]
+    },
+    "gtan-tshigs-kyi-de-kho-na-nyid-bstan-pa": {
+      "_bibs___edition-of___works": [
+        "5352",
+        "5358",
+        "5393"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "hetutattvopadesa"
+      ]
+    },
+    "rigs-pa-grub-paqi-sgron-ma": {
+      "_bibs___edition-of___works": [
+        "5362"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "nyayasiddhyaloka"
+      ]
+    },
+    "tshad-ma-brtag-pa-chung-ba": {
+      "_bibs___edition-of___works": [
+        "5363",
+        "5444"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanyapariksa-ii-laghupramanyapariksa"
+      ]
+    },
+    "sarvajnasiddhi-jitari": {
+      "_bibs___edition-of___works": [
+        "5373"
+      ],
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "nairatmyasiddhi-jitari": {
+      "_bibs___edition-of___works": [
+        "5373"
+      ],
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "isvaravadimatapariksa": {
+      "_bibs___edition-of___works": [
+        "5373"
+      ],
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "vedapramanyasiddhi": {
+      "_bibs___edition-of___works": [
+        "5373"
+      ],
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "nang-gi-khyab-pa": {
+      "_bibs___edition-of___works": [
+        "5379"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "antarvyaptisamarthana"
+      ]
+    },
+    "qbrel-pa-grub-pa": {
+      "_bibs___edition-of___works": [
+        "5380"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pratibandhasiddhikarika"
+      ]
+    },
+    "rigs-paqi-thigs-paqi-don-bsdus-pa": {
+      "_bibs___edition-of___works": [
+        "5384"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "nyayabindupindartha"
+      ]
+    },
+    "de-kho-na-nyid-bsdus-paqi-tshig-lequr-byas-pa": {
+      "_bibs___edition-of___works": [
+        "5389",
+        "5397",
+        "5404"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "tattvasangraha"
+      ]
+    },
+    "rtsod-paqi-rigs-paqi-qgrel-pa-don-rnam-par-qbyed-pa": {
+      "_bibs___edition-of___works": [
+        "5411"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "vadanyayatika-vipancitartha"
+      ]
+    },
+    "ksanabhangasiddhi-anvayatmika": {
+      "_bibs___edition-of___works": [
+        "5413",
+        "5482"
+      ],
+      "_works___composed-by___persons": [
+        "ratnakirti"
+      ]
+    },
+    "tshad-ma-rnam-qgrel-gyi-qgrel-pa-las-lequ-gsum-pa": {
+      "_bibs___edition-of___works": [
+        "5421"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanavarttikavrtti-ravigupta"
+      ]
+    },
+    "qbrel-pa-brtag-paqi-rjes-su-qbrang-ba": {
+      "_bibs___edition-of___works": [
+        "5425"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "sambandhapariksanusara"
+      ]
+    },
+    "chos-dang-chos-can-gtan-la-dbab-pa": {
+      "_bibs___edition-of___works": [
+        "5426"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "dharmadharmiviniscaya"
+      ]
+    },
+    "de-kho-na-nyid-bsdus-paqi-dkaq-qgrel": {
+      "_bibs___edition-of___works": [
+        "5430"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "tattvasangrahapanjika"
+      ]
+    },
+    "gzhan-sel-ba-grub-pa": {
+      "_bibs___edition-of___works": [
+        "5431"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "anyapohasiddhikarika"
+      ]
+    },
+    "tshad-ma-rnam-qgrel-gyi-rgyan": {
+      "_bibs___edition-of___works": [
+        "5434",
+        "6089"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanavarttikalankara"
+      ]
+    },
+    "advaitabinduprakarana": {
+      "_bibs___edition-of___works": [
+        "5436"
+      ],
+      "_works___composed-by___persons": [
+        "jnanasrimitra"
+      ]
+    },
+    "sakarasangrahasutra": {
+      "_bibs___edition-of___works": [
+        "5436"
+      ],
+      "_works___composed-by___persons": [
+        "jnanasrimitra"
+      ]
+    },
+    "bhedabhedapariksa": {
+      "_bibs___edition-of___works": [
+        "5436"
+      ],
+      "_works___composed-by___persons": [
+        "jnanasrimitra"
+      ]
+    },
+    "anupalabdhirahasya": {
+      "_bibs___edition-of___works": [
+        "5436"
+      ],
+      "_works___composed-by___persons": [
+        "jnanasrimitra"
+      ]
+    },
+    "sarvasabdabhavacarca": {
+      "_bibs___edition-of___works": [
+        "5436"
+      ],
+      "_works___composed-by___persons": [
+        "jnanasrimitra"
+      ]
+    },
+    "isvaravada": {
+      "_bibs___edition-of___works": [
+        "5436"
+      ],
+      "_works___composed-by___persons": [
+        "jnanasrimitra"
+      ]
+    },
+    "yoginirnayaprakarana": {
+      "_bibs___edition-of___works": [
+        "5436"
+      ],
+      "_works___composed-by___persons": [
+        "jnanasrimitra"
+      ]
+    },
+    "bdag-med-pa-grub-pa": {
+      "_bibs___edition-of___works": [
+        "5447"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "nairatmyasiddhi-subhagupta"
+      ]
+    },
+    "vadasthanani": {
+      "_bibs___edition-of___works": [
+        "5450"
+      ],
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "vadarahasya": {
+      "_bibs___edition-of___works": [
+        "5454"
+      ],
+      "_works___composed-by___persons": [
+        "anonymous"
+      ]
+    },
+    "tshad-ma-rnam-par-nges-paqi-qgrel-bshad-derge4228": {
+      "_bibs___edition-of___works": [
+        "5468"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanaviniscayatika-jnanasribhadra"
+      ]
+    },
+    "pramanantarbhava": {
+      "_bibs___edition-of___works": [
+        "5473"
+      ],
+      "_works___composed-by___persons": [
+        "anonymous"
+      ]
+    },
+    "pramanantarbhavaprakarana": {
+      "_bibs___edition-of___works": [
+        "5482"
+      ],
+      "_works___composed-by___persons": [
+        "ratnakirti"
+      ]
+    },
+    "citradvaitaprakasavada": {
+      "_bibs___edition-of___works": [
+        "5482"
+      ],
+      "_works___composed-by___persons": [
+        "ratnakirti"
+      ]
+    },
+    "tshad-ma-rnam-qgrel-gyi-rgyan-gyi-qgrel-bshad-shin-tu-yongs-su-dag-pa": {
+      "_bibs___edition-of___works": [
+        "5507"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanavarttikalankaratika-suparisuddha"
+      ]
+    },
+    "nyayapravesakasutra-mongolian": {
+      "_bibs___edition-of___works": [
+        "5516",
+        "5537"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "nyayapravesakasutra"
+      ]
+    },
+    "tshad-ma-rnam-qgrel-gyi-rgyan-gyi-qgrel-bshad": {
+      "_bibs___edition-of___works": [
+        "5534"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanavarttikalankaratika"
+      ]
+    },
+    "rtog-geqi-skad": {
+      "_bibs___edition-of___works": [
+        "5535"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "tarkabhasa"
+      ]
+    },
+    "tshad-ma-brtag-pa": {
+      "_bibs___edition-of___works": [
+        "5649"
+      ],
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "pramanyapariksa-i-brhatpramanyapariksa"
+      ]
+    },
+    "laghupratibandhasiddhikarika": {
+      "_bibs___edition-of___works": [
+        "5673"
+      ],
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ]
+    },
+    "sanksiptesvarapakaranakarika": {
+      "_bibs___edition-of___works": [
+        "5675"
+      ],
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ],
+      "_works___commentary-of___works": [
+        "commentary-on-sanksiptesvarapakaranakarika"
+      ]
+    },
+    "svalpasarvajnasiddhikarika": {
+      "_bibs___edition-of___works": [
+        "5676"
+      ],
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ],
+      "_works___commentary-of___works": [
+        "commentary-on-svalpasarvajnasiddhikarika"
+      ]
+    },
+    "pratibandhasiddhikarika": {
+      "_bibs___edition-of___works": [
+        "5678"
+      ],
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ],
+      "_works___translation-of___works": [
+        "qbrel-pa-grub-pa"
+      ]
+    },
+    "suksmapramanyakarika": {
+      "_bibs___edition-of___works": [
+        "5682"
+      ],
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ]
+    },
+    "prajnalankarakarika": {
+      "_bibs___edition-of___works": [
+        "5689"
+      ],
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ]
+    },
+    "isvarapakaranasanksepa": {
+      "_bibs___edition-of___works": [
+        "5693"
+      ],
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ]
+    },
+    "commentary-on-isvarapakaranasanksepa": {
+      "_bibs___edition-of___works": [
+        "5693"
+      ],
+      "_works___composed-by___persons": [
+        "anonymous"
+      ]
+    },
+    "isvarapakaranakarika": {
+      "_bibs___edition-of___works": [
+        "5697"
+      ],
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ],
+      "_works___commentary-of___works": [
+        "commentary-on-isvarapakaranakarika"
+      ]
+    },
+    "anyapohasiddhikarika": {
+      "_bibs___edition-of___works": [
+        "5698"
+      ],
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ],
+      "_works___translation-of___works": [
+        "gzhan-sel-ba-grub-pa"
+      ]
+    },
+    "brhatpramanyakarika": {
+      "_bibs___edition-of___works": [
+        "5699"
+      ],
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ]
+    },
+    "madhyapramanyakarika": {
+      "_bibs___edition-of___works": [
+        "5720"
+      ],
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ]
+    },
+    "agamasiddhikarika": {
+      "_bibs___edition-of___works": [
+        "5723"
+      ],
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ],
+      "_works___commentary-of___works": [
+        "commentary-on-agamasiddhikarika"
+      ]
+    },
+    "dharmalankarakarika": {
+      "_bibs___edition-of___works": [
+        "5881"
+      ],
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ]
+    },
+    "anekantacinta": {
+      "_works___composed-by___persons": [
+        "jnanasrimitra"
+      ]
+    },
+    "apohasiddhi-jitari": {
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "avayavinirakarana-jitari": {
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "bhavikaranavada": {
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "carakavyakhyana": {
+      "_works___composed-by___persons": [
+        "isvarasena"
+      ]
+    },
+    "catuhsati": {
+      "_works___composed-by___persons": [
+        "durvekamisra"
+      ]
+    },
+    "commentary-on-agamasiddhikarika": {
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ],
+      "_works___commentary-of___works": [
+        "agamasiddhikarika"
+      ]
+    },
+    "commentary-on-bahyarthasiddhikarika": {
+      "_works___composed-by___persons": [
+        "subhagupta"
+      ]
+    },
+    "commentary-on-isvarapakaranakarika": {
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ],
+      "_works___commentary-of___works": [
+        "isvarapakaranakarika"
+      ]
+    },
+    "commentary-on-nyayabindu": {
+      "_works___composed-by___persons": [
+        "santabhadra"
+      ],
+      "_works___commentary-of___works": [
+        "nyayabindu"
+      ]
+    },
+    "commentary-on-nyayamukha": {
+      "_works___composed-by___persons": [
+        "dharmapala"
+      ],
+      "_works___commentary-of___works": [
+        "nyayamukha"
+      ]
+    },
+    "commentary-on-pramanasamuccaya-with-vrtti": {
+      "_works___composed-by___persons": [
+        "isvarasena"
+      ],
+      "_works___commentary-of___works": [
+        "pramanasamuccaya"
+      ]
+    },
+    "commentary-on-sakyabuddhiqs-pramanavarttikatika": {
+      "_works___composed-by___persons": [
+        "kalyanacandra"
+      ],
+      "_works___commentary-of___works": [
+        "pramanavarttikatika"
+      ]
+    },
+    "commentary-on-sanksiptesvarapakaranakarika": {
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ],
+      "_works___commentary-of___works": [
+        "sanksiptesvarapakaranakarika"
+      ]
+    },
+    "commentary-on-svalpasarvajnasiddhikarika": {
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ],
+      "_works___commentary-of___works": [
+        "svalpasarvajnasiddhikarika"
+      ]
+    },
+    "commentary-on-tattvasangraha": {
+      "_works___composed-by___persons": [
+        "anonymous"
+      ],
+      "_works___commentary-of___works": [
+        "tattvasangraha"
+      ]
+    },
+    "commentary-on-vadanyaya": {
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ],
+      "_works___commentary-of___works": [
+        "vadanyaya"
+      ]
+    },
+    "dharmadharmiviniscaya": {
+      "_works___composed-by___persons": [
+        "jitari"
+      ],
+      "_works___translation-of___works": [
+        "chos-dang-chos-can-gtan-la-dbab-pa"
+      ]
+    },
+    "dvadasasatika": {
+      "_works___composed-by___persons": [
+        "dignaga"
+      ]
+    },
+    "dvijatidusana": {
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "fangbian-xin-lun": {
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "upayahrdayasastra-prayogasarasastra"
+      ]
+    },
+    "gtan-tshigs-kyi-thigs-paqi-rgya-cher-qgrel": {
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "hetubindutika-vinitadeva"
+      ]
+    },
+    "hetubindutika-vinitadeva": {
+      "_works___composed-by___persons": [
+        "vinitadeva"
+      ],
+      "_works___translation-of___works": [
+        "gtan-tshigs-kyi-thigs-paqi-rgya-cher-qgrel"
+      ]
+    },
+    "hetumukha": {
+      "_works___composed-by___persons": [
+        "dignaga"
+      ]
+    },
+    "hetvabhasamukha": {
+      "_works___composed-by___persons": [
+        "dignaga"
+      ]
+    },
+    "isvarabhangakarika": {
+      "_works___composed-by___persons": [
+        "subhagupta"
+      ],
+      "_works___translation-of___works": [
+        "dbang-phyug-qjig-paqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "jushih-lun": {
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "tarkasastra"
+      ]
+    },
+    "ksanabhanga-ms-ksanajabhangah": {
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "ksanabhangasiddhi-arcata": {
+      "_works___composed-by___persons": [
+        "arcata"
+      ]
+    },
+    "ksanabhangasiddhi-durvekamisra": {
+      "_works___composed-by___persons": [
+        "durvekamisra"
+      ]
+    },
+    "ksanabhangasiddhivivarana": {
+      "_works___composed-by___persons": [
+        "muktakalasa"
+      ],
+      "_works___translation-of___works": [
+        "skad-cig-ma-qjig-pa-grub-paqi-rnam-par-qgrel-pa"
+      ]
+    },
+    "nairatmyasiddhi-karnakagomin": {
+      "_works___composed-by___persons": [
+        "karnakagomin"
+      ]
+    },
+    "nairatmyasiddhi-subhagupta": {
+      "_works___composed-by___persons": [
+        "subhagupta"
+      ],
+      "_works___translation-of___works": [
+        "bdag-med-pa-grub-pa"
+      ]
+    },
+    "notes-appendix-to-manorathanandinqs-pramanavarttikavrtti": {
+      "_works___composed-by___persons": [
+        "vibhuticandra"
+      ]
+    },
+    "nyayabindupindartha": {
+      "_works___composed-by___persons": [
+        "jinamitra"
+      ],
+      "_works___commentary-of___works": [
+        "nyayabindu"
+      ],
+      "_works___translation-of___works": [
+        "rigs-paqi-thigs-paqi-don-bsdus-pa"
+      ]
+    },
+    "nyayabindupurvapaksasanksipta": {
+      "_works___composed-by___persons": [
+        "kamalasila"
+      ],
+      "_works___translation-of___works": [
+        "rigs-paqi-thigs-paqi-phyogs-snga-ma-mdor-bsdus-pa"
+      ]
+    },
+    "nyayabindutikatippanaka-tatparyanibandhana": {
+      "_works___composed-by___persons": [
+        "anonymous"
+      ],
+      "_works___commentary-of___works": [
+        "nyayabindutika-dharmottara"
+      ]
+    },
+    "nyayapariksa": {
+      "_works___composed-by___persons": [
+        "dignaga"
+      ]
+    },
+    "nyayasiddhyaloka": {
+      "_works___composed-by___persons": [
+        "candragomin"
+      ],
+      "_works___translation-of___works": [
+        "rigs-pa-grub-paqi-sgron-ma"
+      ]
+    },
+    "pramanadvitvasiddhi": {
+      "_works___composed-by___persons": [
+        "arcata"
+      ]
+    },
+    "pramanavarttikalankaratika": {
+      "_works___composed-by___persons": [
+        "jayanta"
+      ],
+      "_works___commentary-of___works": [
+        "pramanavarttikalankara"
+      ],
+      "_works___translation-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-rgyan-gyi-qgrel-bshad"
+      ]
+    },
+    "pramanavarttikanusara": {
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ],
+      "_works___commentary-of___works": [
+        "pramanavarttika"
+      ],
+      "_works___translation-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-qgrel-bshad-derge4223"
+      ]
+    },
+    "pramanavarttikavrtti-ravigupta": {
+      "_works___composed-by___persons": [
+        "ravigupta"
+      ],
+      "_works___commentary-of___works": [
+        "pramanavarttika"
+      ],
+      "_works___translation-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4224",
+        "tshad-ma-rnam-qgrel-gyi-qgrel-pa-las-lequ-gsum-pa"
+      ]
+    },
+    "pramanaviniscayanusarini": {
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ]
+    },
+    "pramanaviniscayatika-jnanasribhadra": {
+      "_works___composed-by___persons": [
+        "jnanasribhadra"
+      ],
+      "_works___commentary-of___works": [
+        "pramanaviniscaya"
+      ],
+      "_works___translation-of___works": [
+        "tshad-ma-rnam-par-nges-paqi-qgrel-bshad-derge4228"
+      ]
+    },
+    "pramanyapariksa-i-brhatpramanyapariksa": {
+      "_works___composed-by___persons": [
+        "dharmottara"
+      ],
+      "_works___translation-of___works": [
+        "tshad-ma-brtag-pa"
+      ]
+    },
+    "qbrel-ba-brtag-pa-rgyan-gyi-me-tog": {
+      "_works___composed-by___persons": [
+        "dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri"
+      ],
+      "_works___commentary-of___works": [
+        "sambandhapariksa"
+      ]
+    },
+    "qbrel-ba-brtag-paqi-rab-tu-qbyed-paqi-don-bsdus": {
+      "_works___composed-by___persons": [
+        "dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri"
+      ],
+      "_works___commentary-of___works": [
+        "sambandhapariksa"
+      ]
+    },
+    "qbrel-ba-brtag-paqi-rab-tu-qbyed-paqi-mchan": {
+      "_works___composed-by___persons": [
+        "dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri"
+      ],
+      "_works___commentary-of___works": [
+        "sambandhapariksa"
+      ]
+    },
+    "qbrel-ba-brtag-paqi-rnam-bshad-nyi-maqi-snying-po": {
+      "_works___composed-by___persons": [
+        "rgyal-tshab-dar-ma-rin-chen"
+      ],
+      "_works___commentary-of___works": [
+        "sambandhapariksavrtti"
+      ]
+    },
+    "refutation-of-the-pratyabhijna-system": {
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "rigs-paqi-thigs-paqi-phyogs-snga-ma-mdor-bsdus-pa": {
+      "_works___composed-by___persons": [
+        "unknown"
+      ],
+      "_works___translation-of___works": [
+        "nyayabindupurvapaksasanksipta"
+      ]
+    },
+    "rigs-thigs-brjed-byang": {
+      "_works___composed-by___persons": [
+        "anonymous"
+      ],
+      "_works___commentary-of___works": [
+        "nyayabindu"
+      ]
+    },
+    "rigs-thigs-qgrel-paqi-don-bsdus": {
+      "_works___composed-by___persons": [
+        "rngog-blo-ldan-shes-rab"
+      ],
+      "_works___commentary-of___works": [
+        "nyayabindutika-dharmottara"
+      ]
+    },
+    "rtsod-paqi-rigs-pa-la-qbru-qjoms": {
+      "_works___composed-by___persons": [
+        "dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri"
+      ],
+      "_works___commentary-of___works": [
+        "vadanyaya"
+      ]
+    },
+    "rtsod-paqi-rigs-pa-rgyan-gyi-me-tog": {
+      "_works___composed-by___persons": [
+        "dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri"
+      ],
+      "_works___commentary-of___works": [
+        "vadanyaya"
+      ]
+    },
+    "rtsod-paqi-rigs-paqi-bsdus-don": {
+      "_works___composed-by___persons": [
+        "dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri"
+      ],
+      "_works___commentary-of___works": [
+        "vadanyaya"
+      ]
+    },
+    "sahopalambha": {
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "samagribhanga": {
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "samanyalaksanapariksa": {
+      "_works___composed-by___persons": [
+        "dignaga"
+      ],
+      "_works___translation-of___works": [
+        "samanyalaksanapariksa-old-chinese"
+      ]
+    },
+    "samanyapariksa": {
+      "_works___composed-by___persons": [
+        "dignaga"
+      ]
+    },
+    "sambandhapariksanusara": {
+      "_works___composed-by___persons": [
+        "sankaranandana"
+      ],
+      "_works___commentary-of___works": [
+        "sambandhapariksa"
+      ],
+      "_works___translation-of___works": [
+        "qbrel-pa-brtag-paqi-rjes-su-qbrang-ba"
+      ]
+    },
+    "sambandhapariksatika": {
+      "_works___composed-by___persons": [
+        "vinitadeva"
+      ],
+      "_works___commentary-of___works": [
+        "sambandhapariksa"
+      ],
+      "_works___translation-of___works": [
+        "qbrel-pa-brtag-paqi-rgya-cher-bshad-pa"
+      ]
+    },
+    "sankhyapariksa": {
+      "_works___composed-by___persons": [
+        "dignaga"
+      ]
+    },
+    "sarvajnasiddhi-jnanasrimitra": {
+      "_works___composed-by___persons": [
+        "jnanasrimitra"
+      ]
+    },
+    "srutikartrsiddhi": {
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "srutipariksakarika": {
+      "_works___composed-by___persons": [
+        "subhagupta"
+      ],
+      "_works___translation-of___works": [
+        "thos-pa-brtag-paqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "svasamvedanasiddhi": {
+      "_works___composed-by___persons": [
+        "anonymous"
+      ]
+    },
+    "svayuthyavicara": {
+      "_works___composed-by___persons": [
+        "durvekamisra"
+      ]
+    },
+    "tarkasastra": {
+      "_works___composed-by___persons": [
+        "anonymous"
+      ],
+      "_works___translation-of___works": [
+        "jushih-lun"
+      ]
+    },
+    "tshad-ma-rigs-thigs-kyi-qgrel-pa-legs-bshad-snying-poqi-gter": {
+      "_works___composed-by___persons": [
+        "rgyal-tshab-dar-ma-rin-chen"
+      ],
+      "_works___commentary-of___works": [
+        "nyayabindu"
+      ]
+    },
+    "tshad-ma-rigs-thigs-kyi-qgrel-pa-zur-bkol": {
+      "_works___composed-by___persons": [
+        "karma-blo-gros-chos-dpal-bzang-po"
+      ],
+      "_works___commentary-of___works": [
+        "nyayabindu"
+      ]
+    },
+    "tshad-ma-rnam-nges-kyi-rnam-bshad-chen-po": {
+      "_works___composed-by___persons": [
+        "gro-lung-pa-blo-gros-qbyung-gnas"
+      ]
+    },
+    "tshad-ma-rnam-par-nges-paqi-bsdus-don": {
+      "_works___composed-by___persons": [
+        "phywa-pa-chos-kyi-seng-ge"
+      ],
+      "_works___commentary-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "tshad-ma-rnam-par-nges-paqi-dkaq-gnas-rnam-par-bshad-pa": {
+      "_works___composed-by___persons": [
+        "rngog-blo-ldan-shes-rab"
+      ],
+      "_works___commentary-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "tshad-ma-rnam-par-nges-paqi-qgrel-bshad-shes-rab-kyi-qod-zer": {
+      "_works___composed-by___persons": [
+        "phywa-pa-chos-kyi-seng-ge"
+      ],
+      "_works___commentary-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "tshad-ma-rnam-qgrel-gyi-rnam-par-bshad-pa-gnas-gsum-gsal-ba-gangs-can-gyi-rgyan": {
+      "_works___composed-by___persons": [
+        "btsun-pa-ston-gzhon"
+      ],
+      "_works___commentary-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "tshad-ma-yid-kyi-mun-sel": {
+      "_works___composed-by___persons": [
+        "phywa-pa-chos-kyi-seng-ge"
+      ]
+    },
+    "upayahrdayasastra-prayogasarasastra": {
+      "_works___composed-by___persons": [
+        "anonymous"
+      ],
+      "_works___translation-of___works": [
+        "fangbian-xin-lun"
+      ]
+    },
+    "vadanyayatika": {
+      "_works___composed-by___persons": [
+        "vinitadeva"
+      ],
+      "_works___commentary-of___works": [
+        "vadanyaya"
+      ],
+      "_works___translation-of___works": [
+        "rtsod-paqi-rigs-paqi-qgrel-pa"
+      ]
+    },
+    "vadasara-or-vadahrdaya": {
+      "_works___composed-by___persons": [
+        "vasubandhu-the-younger"
+      ]
+    },
+    "vadavidhana": {
+      "_works___composed-by___persons": [
+        "vasubandhu-the-younger"
+      ]
+    },
+    "vadavidhanatika": {
+      "_works___composed-by___persons": [
+        "dignaga"
+      ]
+    },
+    "vadavidhanavrtti": {
+      "_works___composed-by___persons": [
+        "vasubandhu-the-younger"
+      ]
+    },
+    "vadavidhi": {
+      "_works___composed-by___persons": [
+        "vasubandhu-the-younger"
+      ]
+    },
+    "vaisesikapariksa": {
+      "_works___composed-by___persons": [
+        "dignaga"
+      ]
+    },
+    "vijnaptimatratasiddhi-jitari": {
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    },
+    "visesakhyana": {
+      "_works___composed-by___persons": [
+        "durvekamisra"
+      ]
+    },
+    "vyapakanupalambha": {
+      "_works___composed-by___persons": [
+        "jitari"
+      ]
+    }
+  },
+  "_bibs": {
+    "4997": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "4999": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccaya"
+      ],
+      "_bibs___edition-of___works": [
+        "chinese-text-and-modern-chinese-translation-of-pramanasamuccaya"
+      ]
+    },
+    "5001": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5002": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti",
+        "alambanapariksa",
+        "alambanapariksavrtti"
+      ]
+    },
+    "5003": {
+      "_bibs___modern-translation-of___works": [
+        "nyayamukha"
+      ],
+      "_bibs___edition-of___works": [
+        "yin-ming-zheng-li-men-lun"
+      ]
+    },
+    "5004": {
+      "_bibs___modern-translation-of___works": [
+        "alambanapariksa",
+        "alambanapariksavrtti"
+      ],
+      "_bibs___edition-of___works": [
+        "dmigs-pa-brtag-paqi-qgrel-bshad",
+        "guan-suo-yuan-yuan-lun-156",
+        "dmigs-pa-brtag-pa",
+        "guan-suo-yuan-yuan-lun-vrtti",
+        "dmigs-pa-brtag-paqi-qgrel-pa"
+      ]
+    },
+    "5006": {
+      "_bibs___modern-translation-of___works": [
+        "hetucakradamaru-a"
+      ]
+    },
+    "5008": {
+      "_bibs___modern-translation-of___works": [
+        "alambanapariksa",
+        "alambanapariksavrtti"
+      ],
+      "_bibs___edition-of___works": [
+        "dmigs-pa-brtag-pa",
+        "dmigs-pa-brtag-paqi-qgrel-pa"
+      ]
+    },
+    "5009": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5010": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5011": {
+      "_bibs___modern-translation-of___works": [
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa",
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5014": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ],
+      "_bibs___edition-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika",
+        "pramanavarttikavrtti-manorathanandin",
+        "pramanavarttika"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "alambanapariksa",
+        "alambanapariksavrtti"
+      ]
+    },
+    "5015": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5016": {
+      "_bibs___modern-translation-of___works": [
+        "tarkarahasya"
+      ],
+      "_bibs___edition-of___works": [
+        "tarkarahasya"
+      ]
+    },
+    "5019": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5021": {
+      "_bibs___modern-translation-of___works": [
+        "commentary-on-alambanapariksa-and-vrtti"
+      ]
+    },
+    "5024": {
+      "_bibs___modern-translation-of___works": [
+        "alambanapariksa",
+        "alambanapariksavrtti"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-kun-las-btus-pa"
+      ]
+    },
+    "5025": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa",
+        "tshad-ma-kun-las-btus-pa"
+      ]
+    },
+    "5028": {
+      "_bibs___modern-translation-of___works": [
+        "alambanapariksa"
+      ]
+    },
+    "5030": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti",
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa"
+      ],
+      "_bibs___edition-of___works": [
+        "pramanasamuccayavrtti",
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa"
+      ]
+    },
+    "5031": {
+      "_bibs___modern-translation-of___works": [
+        "alambanapariksa",
+        "alambanapariksavrtti"
+      ]
+    },
+    "5034": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5035": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5036": {
+      "_bibs___modern-translation-of___works": [
+        "hetucakradamaru-a"
+      ]
+    },
+    "5037": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccaya",
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5039": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5040": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5043": {
+      "_bibs___modern-translation-of___works": [
+        "alambanapariksatika"
+      ],
+      "_bibs___edition-of___works": [
+        "dmigs-pa-brtag-pa",
+        "dmigs-pa-brtag-paqi-qgrel-pa"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "alambanapariksa",
+        "alambanapariksavrtti",
+        "commentary-on-alambanapariksa-and-vrtti"
+      ]
+    },
+    "5044": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5049": {
+      "_bibs___modern-translation-of___works": [
+        "hetucakradamaru-a",
+        "hetucakradamaru-b"
+      ],
+      "_bibs___edition-of___works": [
+        "gtan-tshigs-kyi-qkhor-lo-gtan-la-dbab",
+        "tibetan-text-of-hetucakradamaru-b"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "hetucakradamaru-a",
+        "hetucakradamaru-b"
+      ]
+    },
+    "5054": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5055": {
+      "_bibs___modern-translation-of___works": [
+        "nyayamukha"
+      ],
+      "_bibs___edition-of___works": [
+        "yin-ming-zheng-li-men-lun"
+      ]
+    },
+    "5056": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5057": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5060": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5061": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5062": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5063": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5066": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccaya"
+      ]
+    },
+    "5067": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti",
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa"
+      ]
+    },
+    "5071": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5072": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccaya",
+        "pramanavarttika"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-kun-las-btus-pa"
+      ]
+    },
+    "5073": {
+      "_bibs___modern-translation-of___works": [
+        "upadayaprajnaptiprakarana"
+      ]
+    },
+    "5074": {
+      "_bibs___modern-translation-of___works": [
+        "nyayamukha"
+      ]
+    },
+    "5076": {
+      "_bibs___modern-translation-of___works": [
+        "hetucakradamaru-a"
+      ]
+    },
+    "5077": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5078": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti",
+        "pramanaviniscaya"
+      ]
+    },
+    "5079": {
+      "_bibs___modern-translation-of___works": [
+        "alambanapariksa",
+        "alambanapariksavrtti",
+        "commentary-on-alambanapariksa-and-vrtti"
+      ]
+    },
+    "5082": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5087": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika",
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5089": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5090": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccaya",
+        "pramanasamuccayavrtti",
+        "pramanasamuccayatika-visalamalavati"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "pramanasamuccaya",
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5095": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5096": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika",
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5097": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika",
+        "pramanavarttikavrtti-svavrtti"
+      ],
+      "_bibs___edition-of___works": [
+        "pramanavarttika",
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5099": {
+      "_bibs___modern-translation-of___works": [
+        "nyayapravesakasutra"
+      ],
+      "_bibs___edition-of___works": [
+        "nyayapravesakasutra"
+      ]
+    },
+    "5101": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ],
+      "_bibs___edition-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5114": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5115": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5118": {
+      "_bibs___modern-translation-of___works": [
+        "nyayapravesakasutra",
+        "nyayapravesavrttipanjika",
+        "nyayapravesatika-sisyahita"
+      ],
+      "_bibs___edition-of___works": [
+        "nyayapravesakasutra",
+        "nyayapravesavrttipanjika",
+        "nyayapravesatika-sisyahita"
+      ]
+    },
+    "5119": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5120": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5121": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika",
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5122": {
+      "_bibs___modern-translation-of___works": [
+        "nyayapravesakasutra"
+      ],
+      "_bibs___edition-of___works": [
+        "yin-ming-ru-zheng-li-lun",
+        "nyayapravesakasutra"
+      ]
+    },
+    "5124": {
+      "_bibs___modern-translation-of___works": [
+        "nyayapravesakasutra"
+      ],
+      "_bibs___edition-of___works": [
+        "nyayapravesakasutra"
+      ]
+    },
+    "5127": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ],
+      "_bibs___edition-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5129": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika",
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5130": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika",
+        "pramanavarttikavrtti-svavrtti"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4216"
+      ]
+    },
+    "5133": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5135": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-par-nges-pa"
+      ]
+    },
+    "5136": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5139": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5140": {
+      "_bibs___modern-translation-of___works": [
+        "bahyarthasiddhikarika"
+      ]
+    },
+    "5141": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5142": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5144": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5145": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "5146": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5147": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5148": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ],
+      "_bibs___edition-of___works": [
+        "dbang-phyug-qjig-paqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5149": {
+      "_bibs___modern-translation-of___works": [
+        "santanantarasiddhitika",
+        "santanantarasiddhi"
+      ]
+    },
+    "5150": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika",
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5151": {
+      "_bibs___modern-translation-of___works": [
+        "anyapohavicarakarika"
+      ]
+    },
+    "5155": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5156": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5159": {
+      "_bibs___modern-translation-of___works": [
+        "nyayabindutika-dharmottara",
+        "nyayabindu"
+      ]
+    },
+    "5160": {
+      "_bibs___modern-translation-of___works": [
+        "nyayabindutika-dharmottara",
+        "nyayabindu"
+      ]
+    },
+    "5162": {
+      "_bibs___modern-translation-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4216"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4216"
+      ]
+    },
+    "5164": {
+      "_bibs___modern-translation-of___works": [
+        "nyayabindu"
+      ]
+    },
+    "5167": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "5172": {
+      "_bibs___modern-translation-of___works": [
+        "vadanyaya"
+      ]
+    },
+    "5174": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ],
+      "_bibs___edition-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5175": {
+      "_bibs___modern-translation-of___works": [
+        "vadanyaya"
+      ]
+    },
+    "5177": {
+      "_bibs___modern-translation-of___works": [
+        "hetubindu"
+      ]
+    },
+    "5183": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika",
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5184": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5188": {
+      "_bibs___modern-translation-of___works": [
+        "bahyarthasiddhikarika"
+      ]
+    },
+    "5190": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikavrtti-svavrtti"
+      ],
+      "_bibs___edition-of___works": [
+        "tarkarahasya",
+        "dharmottaratikatippanaka"
+      ]
+    },
+    "5191": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika",
+        "pramanavarttikavrtti-svavrtti"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4216"
+      ]
+    },
+    "5194": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "5196": {
+      "_bibs___modern-translation-of___works": [
+        "nyayabindutika-dharmottara",
+        "nyayabindu"
+      ],
+      "_bibs___edition-of___works": [
+        "nyayabindutika-dharmottara",
+        "nyayabindu"
+      ]
+    },
+    "5201": {
+      "_bibs___modern-translation-of___works": [
+        "nyayapravesakasutra"
+      ]
+    },
+    "5202": {
+      "_bibs___modern-translation-of___works": [
+        "santanantarasiddhi"
+      ]
+    },
+    "5204": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika",
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5205": {
+      "_bibs___modern-translation-of___works": [
+        "bahyarthasiddhikarika"
+      ]
+    },
+    "5206": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ],
+      "_bibs___edition-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5208": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayatika-visalamalavati"
+      ]
+    },
+    "5209": {
+      "_bibs___modern-translation-of___works": [
+        "bahyarthasiddhikarika"
+      ],
+      "_bibs___edition-of___works": [
+        "phyi-rol-gyi-don-grub-pa-zhes-bya-baqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5211": {
+      "_bibs___modern-translation-of___works": [
+        "nyayabindu"
+      ]
+    },
+    "5212": {
+      "_bibs___modern-translation-of___works": [
+        "vadanyayatika-vipancitartha",
+        "vadanyaya"
+      ],
+      "_bibs___edition-of___works": [
+        "vadanyayatika-vipancitartha",
+        "vadanyaya"
+      ]
+    },
+    "5213": {
+      "_bibs___modern-translation-of___works": [
+        "hetubindu"
+      ]
+    },
+    "5214": {
+      "_bibs___modern-translation-of___works": [
+        "vadanyaya"
+      ],
+      "_bibs___edition-of___works": [
+        "vadanyaya"
+      ]
+    },
+    "5218": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "5219": {
+      "_bibs___modern-translation-of___works": [
+        "sambandhapariksa",
+        "sambandhapariksavrtti"
+      ],
+      "_bibs___edition-of___works": [
+        "qbrel-pa-brtag-paqi-rgya-cher-bshad-pa"
+      ]
+    },
+    "5220": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "5221": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ],
+      "_bibs___edition-of___works": [
+        "pramanavarttikalankara"
+      ]
+    },
+    "5222": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5223": {
+      "_bibs___modern-translation-of___works": [
+        "nyayabindutika-vinitadeva",
+        "nyayabindu"
+      ],
+      "_bibs___edition-of___works": [
+        "rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4230",
+        "nyayabindu"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "nyayabindutika-vinitadeva"
+      ]
+    },
+    "5228": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5233": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5234": {
+      "_bibs___modern-translation-of___works": [
+        "bahyarthasiddhikarika"
+      ],
+      "_bibs___edition-of___works": [
+        "phyi-rol-gyi-don-grub-pa-zhes-bya-baqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5236": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5237": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "5240": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccaya",
+        "pramanasamuccayavrtti",
+        "pramanasamuccayatika-visalamalavati",
+        "nyayamukhatika",
+        "pramanavarttika"
+      ]
+    },
+    "5241": {
+      "_bibs___modern-translation-of___works": [
+        "bahyarthasiddhikarika"
+      ]
+    },
+    "5242": {
+      "_bibs___modern-translation-of___works": [
+        "sambandhapariksa"
+      ],
+      "_bibs___edition-of___works": [
+        "sambandhapariksa"
+      ]
+    },
+    "5245": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5249": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikavrttitika",
+        "pramanaviniscaya"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-par-nges-paqi-qgrel-bshad-derge4227",
+        "pramanavarttikavrttitika",
+        "tshad-ma-rnam-par-nges-pa"
+      ]
+    },
+    "5252": {
+      "_bibs___modern-translation-of___works": [
+        "sambandhapariksa"
+      ]
+    },
+    "5255": {
+      "_bibs___modern-translation-of___works": [
+        "nyayabindutika-vinitadeva",
+        "nyayabindu"
+      ]
+    },
+    "5263": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika",
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5265": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikavrtti-svavrtti",
+        "pramanavarttikatika"
+      ]
+    },
+    "5267": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5270": {
+      "_bibs___modern-translation-of___works": [
+        "bahyarthasiddhikarika"
+      ]
+    },
+    "5272": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5280": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "5281": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-par-nges-pa"
+      ]
+    },
+    "5282": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "5283": {
+      "_bibs___modern-translation-of___works": [
+        "hetubindu"
+      ]
+    },
+    "5285": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5286": {
+      "_bibs___modern-translation-of___works": [
+        "sarvajnasiddhikarika-subhagupta"
+      ],
+      "_bibs___edition-of___works": [
+        "thams-cad-mkhyen-pa-grub-paqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5287": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika",
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5288": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ],
+      "_bibs___edition-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5290": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscayatika-dharmottara",
+        "pramanavarttikalankara",
+        "pramanaviniscaya"
+      ],
+      "_bibs___edition-of___works": [
+        "pramanaviniscayatika-dharmottara",
+        "tshad-ma-rnam-par-nges-pa"
+      ]
+    },
+    "5293": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikatika"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-qgrel-bshad-derge4220"
+      ]
+    },
+    "5294": {
+      "_bibs___modern-translation-of___works": [
+        "santanantarasiddhi"
+      ]
+    },
+    "5295": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "5296": {
+      "_bibs___modern-translation-of___works": [
+        "sambandhapariksa"
+      ]
+    },
+    "5299": {
+      "_bibs___modern-translation-of___works": [
+        "santanantarasiddhi"
+      ]
+    },
+    "5300": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika",
+        "pramanavarttikavrtti-svavrtti",
+        "hetubindu",
+        "pramanavarttikapanjika"
+      ]
+    },
+    "5301": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5305": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5306": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5309": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5310": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5312": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5313": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5317": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5319": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5320": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5321": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5324": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5326": {
+      "_bibs___modern-translation-of___works": [
+        "jatinirakrti"
+      ],
+      "_bibs___edition-of___works": [
+        "jatinirakrti"
+      ]
+    },
+    "5328": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5330": {
+      "_bibs___modern-translation-of___works": [
+        "sarvajnasiddhikarika-sankaranandana"
+      ],
+      "_bibs___edition-of___works": [
+        "commentary-on-sarvajnasiddhikarika"
+      ]
+    },
+    "5331": {
+      "_bibs___modern-translation-of___works": [
+        "apohaprakarana-jnanasrimitra"
+      ]
+    },
+    "5332": {
+      "_bibs___modern-translation-of___works": [
+        "vijnaptimatratasiddhi-ratnakarasanti"
+      ]
+    },
+    "5335": {
+      "_bibs___modern-translation-of___works": [
+        "sahopalambhaniyamasiddhi"
+      ],
+      "_bibs___edition-of___works": [
+        "lhan-cig-dmigs-pa-nges-par-grub-pa"
+      ]
+    },
+    "5336": {
+      "_bibs___modern-translation-of___works": [
+        "pramanyapariksa-ii-laghupramanyapariksa"
+      ]
+    },
+    "5337": {
+      "_bibs___modern-translation-of___works": [
+        "paralokasiddhi"
+      ],
+      "_bibs___edition-of___works": [
+        "qjig-rten-pha-rol-grub-pa"
+      ]
+    },
+    "5340": {
+      "_bibs___modern-translation-of___works": [
+        "antarvyaptisamarthana"
+      ]
+    },
+    "5341": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5343": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5344": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikalankara"
+      ],
+      "_bibs___edition-of___works": [
+        "pramanavarttikalankara"
+      ]
+    },
+    "5346": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5348": {
+      "_bibs___modern-translation-of___works": [
+        "vyapticarca"
+      ],
+      "_bibs___edition-of___works": [
+        "vyapticarca"
+      ]
+    },
+    "5349": {
+      "_bibs___modern-translation-of___works": [
+        "antarvyaptisamarthana"
+      ]
+    },
+    "5351": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5355": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscayatika-dharmottara"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-par-nges-paqi-qgrel-bshad-derge4227"
+      ]
+    },
+    "5357": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5360": {
+      "_bibs___modern-translation-of___works": [
+        "sakarasiddhisastra"
+      ]
+    },
+    "5361": {
+      "_bibs___modern-translation-of___works": [
+        "apohaprakarana-dharmottara"
+      ],
+      "_bibs___edition-of___works": [
+        "apohaprakarana-dharmottara"
+      ]
+    },
+    "5364": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5365": {
+      "_bibs___modern-translation-of___works": [
+        "apohaprakarana-dharmottara"
+      ],
+      "_bibs___edition-of___works": [
+        "gzhan-sel-ba-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5366": {
+      "_bibs___modern-translation-of___works": [
+        "balavataratarka"
+      ]
+    },
+    "5367": {
+      "_bibs___modern-translation-of___works": [
+        "ksanabhangadhyaya"
+      ],
+      "_bibs___edition-of___works": [
+        "ksanabhangadhyaya"
+      ]
+    },
+    "5368": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha"
+      ],
+      "_bibs___edition-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5369": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikalankara"
+      ],
+      "_bibs___edition-of___works": [
+        "pramanavarttikalankara"
+      ]
+    },
+    "5370": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5376": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5377": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5381": {
+      "_bibs___modern-translation-of___works": [
+        "ksanabhangasiddhi-dharmottara"
+      ],
+      "_bibs___edition-of___works": [
+        "skad-cig-ma-qjig-pa-grub-pa"
+      ]
+    },
+    "5382": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5383": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5388": {
+      "_bibs___modern-translation-of___works": [
+        "nyayabindutika-dharmottara"
+      ]
+    },
+    "5390": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5391": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5392": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5396": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5397": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ],
+      "_bibs___edition-of___works": [
+        "tattvasangraha",
+        "de-kho-na-nyid-bsdus-paqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5398": {
+      "_bibs___modern-translation-of___works": [
+        "paralokasiddhi"
+      ]
+    },
+    "5399": {
+      "_bibs___modern-translation-of___works": [
+        "karyakaranabhavasiddhi"
+      ]
+    },
+    "5400": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5401": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5402": {
+      "_bibs___modern-translation-of___works": [
+        "digambaramatapariksa",
+        "tarkabhasa"
+      ],
+      "_bibs___edition-of___works": [
+        "jatinirakrti",
+        "digambaramatapariksa",
+        "tarkabhasa"
+      ]
+    },
+    "5405": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5406": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5410": {
+      "_bibs___modern-translation-of___works": [
+        "nyayabindutika-dharmottara"
+      ]
+    },
+    "5412": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5414": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5415": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5416": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5418": {
+      "_bibs___modern-translation-of___works": [
+        "antarvyaptisamarthana"
+      ]
+    },
+    "5419": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5420": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscayatika-dharmottara"
+      ]
+    },
+    "5423": {
+      "_bibs___modern-translation-of___works": [
+        "hetutattvopadesa"
+      ]
+    },
+    "5424": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5427": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5432": {
+      "_bibs___modern-translation-of___works": [
+        "nyayabindutika-dharmottara"
+      ]
+    },
+    "5433": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikalankara"
+      ],
+      "_bibs___edition-of___works": [
+        "pramanavarttikalankara"
+      ]
+    },
+    "5438": {
+      "_bibs___modern-translation-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5445": {
+      "_bibs___modern-translation-of___works": [
+        "nyayabindu"
+      ]
+    },
+    "5449": {
+      "_bibs___modern-translation-of___works": [
+        "nyayabindutika-dharmottara",
+        "nyayabindu"
+      ]
+    },
+    "5451": {
+      "_bibs___modern-translation-of___works": [
+        "tarkarahasya"
+      ]
+    },
+    "5456": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5458": {
+      "_bibs___modern-translation-of___works": [
+        "nyayapravesakasutra"
+      ]
+    },
+    "5459": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5460": {
+      "_bibs___modern-translation-of___works": [
+        "tarkabhasa"
+      ],
+      "_bibs___edition-of___works": [
+        "tarkabhasa"
+      ]
+    },
+    "5470": {
+      "_bibs___modern-translation-of___works": [
+        "nyayapravesakasutra"
+      ]
+    },
+    "5476": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ],
+      "_bibs___edition-of___works": [
+        "pramanasamuccaya",
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5479": {
+      "_bibs___modern-translation-of___works": [
+        "tarkabhasa"
+      ]
+    },
+    "5483": {
+      "_bibs___modern-translation-of___works": [
+        "bahyarthasiddhikarika"
+      ]
+    },
+    "5485": {
+      "_bibs___modern-translation-of___works": [
+        "sarvajnasiddhi-ratnakirti"
+      ],
+      "_bibs___edition-of___works": [
+        "sarvajnasiddhi-ratnakirti"
+      ]
+    },
+    "5488": {
+      "_bibs___modern-translation-of___works": [
+        "santanantaradusana"
+      ]
+    },
+    "5489": {
+      "_bibs___modern-translation-of___works": [
+        "sthirasiddhidusana"
+      ],
+      "_bibs___edition-of___works": [
+        "sthirasiddhidusana"
+      ]
+    },
+    "5490": {
+      "_bibs___modern-translation-of___works": [
+        "nyayamukha"
+      ]
+    },
+    "5497": {
+      "_bibs___modern-translation-of___works": [
+        "tarkabhasa"
+      ]
+    },
+    "5500": {
+      "_bibs___modern-translation-of___works": [
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa"
+      ]
+    },
+    "5503": {
+      "_bibs___modern-translation-of___works": [
+        "ksanabhangasiddhi-vyatirekatmika"
+      ],
+      "_bibs___edition-of___works": [
+        "ksanabhangasiddhi-vyatirekatmika"
+      ]
+    },
+    "5505": {
+      "_bibs___modern-translation-of___works": [
+        "apohasiddhi-ratnakirti"
+      ],
+      "_bibs___edition-of___works": [
+        "apohasiddhi-ratnakirti"
+      ]
+    },
+    "5508": {
+      "_bibs___modern-translation-of___works": [
+        "santanantarasiddhitika",
+        "santanantarasiddhi"
+      ]
+    },
+    "5513": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikalankaratika-suparisuddha"
+      ]
+    },
+    "5514": {
+      "_bibs___modern-translation-of___works": [
+        "nyayapravesakasutra"
+      ]
+    },
+    "5522": {
+      "_bibs___modern-translation-of___works": [
+        "santanantaradusana"
+      ]
+    },
+    "5523": {
+      "_bibs___modern-translation-of___works": [
+        "vyaptinirnaya"
+      ],
+      "_bibs___edition-of___works": [
+        "vyaptinirnaya"
+      ]
+    },
+    "5524": {
+      "_bibs___modern-translation-of___works": [
+        "hetubindutika-arcata"
+      ]
+    },
+    "5527": {
+      "_bibs___modern-translation-of___works": [
+        "sarvajnasiddhi-ratnakirti"
+      ]
+    },
+    "5529": {
+      "_bibs___modern-translation-of___works": [
+        "alambanapariksatika",
+        "alambanapariksa"
+      ],
+      "_bibs___edition-of___works": [
+        "dmigs-pa-brtag-pa",
+        "dmigs-pa-brtag-paqi-qgrel-pa"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "alambanapariksa",
+        "alambanapariksavrtti"
+      ]
+    },
+    "5530": {
+      "_bibs___modern-translation-of___works": [
+        "vyaptinirnaya"
+      ],
+      "_bibs___edition-of___works": [
+        "vyaptinirnaya"
+      ]
+    },
+    "5791": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5794": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5801": {
+      "_bibs___modern-translation-of___works": [
+        "nyayamukha"
+      ],
+      "_bibs___edition-of___works": [
+        "yin-ming-zheng-li-men-lun"
+      ]
+    },
+    "5803": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5804": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5805": {
+      "_bibs___modern-translation-of___works": [
+        "ksanabhangadhyaya"
+      ],
+      "_bibs___edition-of___works": [
+        "ksanabhangadhyaya"
+      ]
+    },
+    "5806": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "5809": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5810": {
+      "_bibs___modern-translation-of___works": [
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa"
+      ]
+    },
+    "5812": {
+      "_bibs___modern-translation-of___works": [
+        "tarkarahasya"
+      ]
+    },
+    "5813": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5815": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5816": {
+      "_bibs___modern-translation-of___works": [
+        "ksanabhangadhyaya"
+      ],
+      "_bibs___edition-of___works": [
+        "ksanabhangadhyaya"
+      ]
+    },
+    "5817": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5821": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5823": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "5825": {
+      "_bibs___modern-translation-of___works": [
+        "nyayamukha"
+      ],
+      "_bibs___edition-of___works": [
+        "yin-ming-zheng-li-men-lun"
+      ]
+    },
+    "5829": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-par-nges-pa"
+      ]
+    },
+    "5832": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5833": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5834": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-par-nges-pa"
+      ]
+    },
+    "5844": {
+      "_bibs___modern-translation-of___works": [
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa"
+      ]
+    },
+    "5849": {
+      "_bibs___modern-translation-of___works": [
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa"
+      ]
+    },
+    "5850": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5852": {
+      "_bibs___modern-translation-of___works": [
+        "nyayamukha"
+      ],
+      "_bibs___edition-of___works": [
+        "yin-ming-zheng-li-men-lun"
+      ]
+    },
+    "5857": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "5858": {
+      "_bibs___modern-translation-of___works": [
+        "nyayamukha"
+      ],
+      "_bibs___edition-of___works": [
+        "yin-ming-zheng-li-men-lun"
+      ]
+    },
+    "5860": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5861": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5887": {
+      "_bibs___modern-translation-of___works": [
+        "nyayamukha"
+      ],
+      "_bibs___edition-of___works": [
+        "yin-ming-zheng-li-men-lun"
+      ]
+    },
+    "5892": {
+      "_bibs___modern-translation-of___works": [
+        "nyayamukha"
+      ],
+      "_bibs___edition-of___works": [
+        "yin-ming-zheng-li-men-lun"
+      ]
+    },
+    "5895": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5899": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikalankara",
+        "pramanavarttika"
+      ]
+    },
+    "5900": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5901": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-par-nges-pa"
+      ]
+    },
+    "5939": {
+      "_bibs___modern-translation-of___works": [
+        "hetubindutika-arcata"
+      ]
+    },
+    "5947": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikavrtti-manorathanandin"
+      ]
+    },
+    "5958": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikalankara"
+      ],
+      "_bibs___edition-of___works": [
+        "pramanavarttikalankara"
+      ]
+    },
+    "5960": {
+      "_bibs___modern-translation-of___works": [
+        "nyayabindutika-dharmottara",
+        "dharmottarapradipa"
+      ],
+      "_bibs___edition-of___works": [
+        "nyayabindutika-dharmottara",
+        "dharmottarapradipa"
+      ]
+    },
+    "5968": {
+      "_bibs___modern-translation-of___works": [
+        "nyayamukhatika"
+      ]
+    },
+    "6001": {
+      "_bibs___modern-translation-of___works": [
+        "hetubindutika-arcata"
+      ]
+    },
+    "6010": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-par-nges-pa"
+      ]
+    },
+    "6011": {
+      "_bibs___modern-translation-of___works": [
+        "gtan-tshigs-kyi-qkhor-lo-gtan-la-dbab",
+        "hetucakradamaru-a"
+      ]
+    },
+    "6013": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-par-nges-pa"
+      ]
+    },
+    "6019": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-par-nges-pa"
+      ]
+    },
+    "6021": {
+      "_bibs___modern-translation-of___works": [
+        "pramanaviniscaya"
+      ],
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-par-nges-pa"
+      ]
+    },
+    "6035": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "6066": {
+      "_bibs___modern-translation-of___works": [
+        "gtan-tshigs-kyi-qkhor-lo-gtan-la-dbab"
+      ]
+    },
+    "6095": {
+      "_bibs___modern-translation-of___works": [
+        "santanantaradusana"
+      ]
+    },
+    "6105": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikalankara"
+      ],
+      "_bibs___edition-of___works": [
+        "pramanavarttikalankara"
+      ]
+    },
+    "6159": {
+      "_bibs___modern-translation-of___works": [
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "6165": {
+      "_bibs___modern-translation-of___works": [
+        "isvarasadhanadusana"
+      ]
+    },
+    "6175": {
+      "_bibs___modern-translation-of___works": [
+        "pramanasamuccayatika-visalamalavati"
+      ]
+    },
+    "4998": {
+      "_bibs___edition-of___works": [
+        "dmigs-pa-brtag-paqi-qgrel-pa"
+      ]
+    },
+    "5000": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-kun-las-btus-pa"
+      ]
+    },
+    "5005": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa"
+      ]
+    },
+    "5007": {
+      "_bibs___edition-of___works": [
+        "tibetan-text-of-hetucakradamaru-b"
+      ]
+    },
+    "5013": {
+      "_bibs___edition-of___works": [
+        "dmigs-pa-brtag-pa"
+      ]
+    },
+    "5017": {
+      "_bibs___edition-of___works": [
+        "dmigs-pa-brtag-paqi-qgrel-pa"
+      ]
+    },
+    "5018": {
+      "_bibs___edition-of___works": [
+        "guan-suo-yuan-yuan-lun-156",
+        "guan-suo-yuan-yuan-lun-vrtti"
+      ]
+    },
+    "5022": {
+      "_bibs___edition-of___works": [
+        "samanyalaksanapariksa-old-chinese"
+      ]
+    },
+    "5026": {
+      "_bibs___edition-of___works": [
+        "yin-ming-zheng-li-men-lun"
+      ]
+    },
+    "5029": {
+      "_bibs___edition-of___works": [
+        "guan-suo-yuan-yuan-lun-156",
+        "guan-suo-yuan-yuan-lun-vrtti",
+        "guan-suo-yuan-lun-shi"
+      ]
+    },
+    "5032": {
+      "_bibs___edition-of___works": [
+        "gtan-tshigs-kyi-qkhor-lo-gtan-la-dbab"
+      ]
+    },
+    "5033": {
+      "_bibs___edition-of___works": [
+        "gtan-tshigs-kyi-qkhor-lo-gtan-la-dbab"
+      ]
+    },
+    "5038": {
+      "_bibs___edition-of___works": [
+        "qu-yin-jia-she-lun"
+      ]
+    },
+    "5047": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa",
+        "yangs-ba-dang-dri-ma-med-pa-dang-ldang-pa"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "pramanasamuccayavrtti",
+        "pramanasamuccayatika-visalamalavati"
+      ]
+    },
+    "5051": {
+      "_bibs___edition-of___works": [
+        "gtan-tshigs-kyi-qkhor-lo-gtan-la-dbab"
+      ]
+    },
+    "5059": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-kun-las-btus-pa"
+      ]
+    },
+    "5068": {
+      "_bibs___edition-of___works": [
+        "yin-ming-zheng-li-men-lun"
+      ]
+    },
+    "5080": {
+      "_bibs___edition-of___works": [
+        "guan-suo-yuan-yuan-lun-156",
+        "guan-suo-yuan-yuan-lun-vrtti"
+      ]
+    },
+    "5083": {
+      "_bibs___edition-of___works": [
+        "pramanasamuccayavrtti"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5084": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rigs-par-qjug-paqi-sgo-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5088": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa",
+        "tshad-ma-kun-las-btus-pa"
+      ]
+    },
+    "5091": {
+      "_bibs___edition-of___works": [
+        "pramanasamuccayavrtti",
+        "yangs-ba-dang-dri-ma-med-pa-dang-ldang-pa"
+      ]
+    },
+    "5093": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa",
+        "yangs-ba-dang-dri-ma-med-pa-dang-ldang-pa"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "pramanasamuccayavrtti",
+        "pramanasamuccayatika-visalamalavati"
+      ]
+    },
+    "5094": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa",
+        "yangs-ba-dang-dri-ma-med-pa-dang-ldang-pa"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "pramanasamuccayavrtti",
+        "pramanasamuccayatika-visalamalavati"
+      ]
+    },
+    "5098": {
+      "_bibs___edition-of___works": [
+        "nyayapravesakasutra"
+      ]
+    },
+    "5102": {
+      "_bibs___edition-of___works": [
+        "nyayapravesakasutra",
+        "tshad-ma-rigs-par-qjug-paqi-sgo-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5108": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa"
+      ]
+    },
+    "5109": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rigs-par-qjug-paqi-sgo-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5110": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa"
+      ]
+    },
+    "5112": {
+      "_bibs___edition-of___works": [
+        "nyayapravesakasutra"
+      ]
+    },
+    "5117": {
+      "_bibs___edition-of___works": [
+        "nyayapravesakasutra"
+      ]
+    },
+    "5126": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rigs-par-qjug-paqi-sgo-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5128": {
+      "_bibs___edition-of___works": [
+        "nyayapravesakasutra",
+        "tshad-ma-rigs-par-qjug-paqi-sgo-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5132": {
+      "_bibs___edition-of___works": [
+        "yin-ming-ru-zheng-li-lun"
+      ]
+    },
+    "5134": {
+      "_bibs___edition-of___works": [
+        "rtsod-paqi-rigs-paqi-qgrel-pa"
+      ]
+    },
+    "5137": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-qgrel-bshad-derge4220"
+      ]
+    },
+    "5143": {
+      "_bibs___edition-of___works": [
+        "thos-pa-brtag-paqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5152": {
+      "_bibs___edition-of___works": [
+        "rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4230"
+      ]
+    },
+    "5158": {
+      "_bibs___edition-of___works": [
+        "rgyud-gzhan-grub-paqi-qgrel-bshad"
+      ]
+    },
+    "5163": {
+      "_bibs___edition-of___works": [
+        "phyi-rol-gyi-don-grub-pa-zhes-bya-baqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5165": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-par-nges-pa"
+      ]
+    },
+    "5168": {
+      "_bibs___edition-of___works": [
+        "qbrel-pa-brtag-paqi-qgrel-pa"
+      ]
+    },
+    "5169": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-par-nges-pa"
+      ]
+    },
+    "5170": {
+      "_bibs___edition-of___works": [
+        "pramanavarttika",
+        "sambandhapariksa"
+      ]
+    },
+    "5171": {
+      "_bibs___edition-of___works": [
+        "rigs-paqi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5173": {
+      "_bibs___edition-of___works": [
+        "pramanaviniscaya"
+      ]
+    },
+    "5179": {
+      "_bibs___edition-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5180": {
+      "_bibs___edition-of___works": [
+        "pramanavarttika",
+        "pramanavarttikavrtti-svavrtti"
+      ]
+    },
+    "5181": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4216"
+      ]
+    },
+    "5182": {
+      "_bibs___edition-of___works": [
+        "rtsod-paqi-rigs-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5186": {
+      "_bibs___edition-of___works": [
+        "nyayabindutika-dharmottara",
+        "nyayabindu"
+      ]
+    },
+    "5189": {
+      "_bibs___edition-of___works": [
+        "rgyud-gzhan-grub-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5193": {
+      "_bibs___edition-of___works": [
+        "pramanaviniscayatika-dharmottara",
+        "tarkarahasya",
+        "sambandhapariksa"
+      ]
+    },
+    "5195": {
+      "_bibs___edition-of___works": [
+        "rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4230",
+        "rigs-paqi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5197": {
+      "_bibs___edition-of___works": [
+        "gtan-tshigs-kyi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5198": {
+      "_bibs___edition-of___works": [
+        "nyayabindu"
+      ]
+    },
+    "5199": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-dkaq-qgrel"
+      ]
+    },
+    "5207": {
+      "_bibs___edition-of___works": [
+        "nyayabindutika-dharmottara",
+        "nyayabindutikatippani",
+        "nyayabindu"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "nyayabindutika-vinitadeva"
+      ]
+    },
+    "5210": {
+      "_bibs___edition-of___works": [
+        "phyi-rol-gyi-don-grub-pa-zhes-bya-baqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5215": {
+      "_bibs___edition-of___works": [
+        "thams-cad-mkhyen-pa-grub-paqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5216": {
+      "_bibs___edition-of___works": [
+        "dbang-phyug-qjig-paqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5217": {
+      "_bibs___edition-of___works": [
+        "pramanavarttikavrtti-manorathanandin",
+        "pramanavarttika"
+      ]
+    },
+    "5225": {
+      "_bibs___edition-of___works": [
+        "vadanyaya"
+      ]
+    },
+    "5226": {
+      "_bibs___edition-of___works": [
+        "nyayabindutika-dharmottara",
+        "nyayabindu"
+      ]
+    },
+    "5230": {
+      "_bibs___edition-of___works": [
+        "qbrel-pa-brtag-paqi-rab-tu-byed-pa"
+      ]
+    },
+    "5231": {
+      "_bibs___edition-of___works": [
+        "rgyud-gzhan-grub-paqi-qgrel-bshad",
+        "rgyud-gzhan-grub-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "santanantarasiddhitika",
+        "santanantarasiddhi"
+      ]
+    },
+    "5238": {
+      "_bibs___edition-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5239": {
+      "_bibs___edition-of___works": [
+        "rgyud-gzhan-grub-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5244": {
+      "_bibs___edition-of___works": [
+        "rgyud-gzhan-grub-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "santanantarasiddhitika",
+        "santanantarasiddhi"
+      ]
+    },
+    "5246": {
+      "_bibs___edition-of___works": [
+        "nyayabindutika-dharmottara",
+        "dharmottarapradipa",
+        "nyayabindu"
+      ]
+    },
+    "5247": {
+      "_bibs___edition-of___works": [
+        "rigs-paqi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5253": {
+      "_bibs___edition-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5254": {
+      "_bibs___edition-of___works": [
+        "hetubindutika-arcata",
+        "hetubindutikaloka"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "hetubindu"
+      ]
+    },
+    "5256": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5257": {
+      "_bibs___edition-of___works": [
+        "nyayabindutika-dharmottara",
+        "rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4231",
+        "nyayabindu",
+        "rigs-paqi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5258": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-par-nges-pa"
+      ]
+    },
+    "5261": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5266": {
+      "_bibs___edition-of___works": [
+        "gzhan-sel-brtag-paqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5268": {
+      "_bibs___edition-of___works": [
+        "qbrel-pa-brtag-paqi-rab-tu-byed-pa"
+      ]
+    },
+    "5271": {
+      "_bibs___edition-of___works": [
+        "pramanavarttika",
+        "tshad-ma-rnam-qgrel-gyi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5273": {
+      "_bibs___edition-of___works": [
+        "dmigs-pa-brtag-paqi-qgrel-bshad"
+      ]
+    },
+    "5274": {
+      "_bibs___edition-of___works": [
+        "vadanyayatika-vipancitartha",
+        "vadanyaya"
+      ]
+    },
+    "5275": {
+      "_bibs___edition-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5276": {
+      "_bibs___edition-of___works": [
+        "rtsod-paqi-rigs-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5279": {
+      "_bibs___edition-of___works": [
+        "qbrel-pa-brtag-paqi-rab-tu-byed-pa"
+      ]
+    },
+    "5284": {
+      "_bibs___edition-of___works": [
+        "gtan-tshigs-kyi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5289": {
+      "_bibs___edition-of___works": [
+        "sambandhapariksa",
+        "qbrel-pa-brtag-paqi-rab-tu-byed-pa"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "sambandhapariksavrtti",
+        "sambandhapariksa"
+      ]
+    },
+    "5292": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4216"
+      ]
+    },
+    "5297": {
+      "_bibs___edition-of___works": [
+        "qbrel-pa-brtag-paqi-qgrel-pa"
+      ]
+    },
+    "5302": {
+      "_bibs___edition-of___works": [
+        "gzhan-sel-ba-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5304": {
+      "_bibs___edition-of___works": [
+        "skad-cig-ma-qjig-pa-grub-paqi-rnam-par-qgrel-pa"
+      ]
+    },
+    "5307": {
+      "_bibs___edition-of___works": [
+        "byis-pa-qjug-paqi-rtog-ge"
+      ]
+    },
+    "5311": {
+      "_bibs___edition-of___works": [
+        "jatinirakrti"
+      ]
+    },
+    "5314": {
+      "_bibs___edition-of___works": [
+        "rgyu-dang-qbras-buqi-ngo-bo-grub-pa"
+      ]
+    },
+    "5315": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-par-nges-paqi-qgrel-bshad-derge4227"
+      ]
+    },
+    "5316": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4224"
+      ]
+    },
+    "5318": {
+      "_bibs___edition-of___works": [
+        "hetutattvopadesa",
+        "tarkasopana"
+      ]
+    },
+    "5322": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-qgrel-bshad-derge4223"
+      ]
+    },
+    "5323": {
+      "_bibs___edition-of___works": [
+        "skad-cig-ma-qjig-pa-grub-pa"
+      ]
+    },
+    "5325": {
+      "_bibs___edition-of___works": [
+        "byis-pa-qjug-paqi-rtog-ge"
+      ]
+    },
+    "5327": {
+      "_bibs___edition-of___works": [
+        "avayavinirakarana-pandita-asoka",
+        "samanyadusana"
+      ]
+    },
+    "5329": {
+      "_bibs___edition-of___works": [
+        "qjig-rten-pha-rol-grub-pa"
+      ]
+    },
+    "5333": {
+      "_bibs___edition-of___works": [
+        "gtan-tshigs-kyi-thigs-paqi-qgrel-pa"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "hetubindu"
+      ]
+    },
+    "5339": {
+      "_bibs___edition-of___works": [
+        "rnam-par-rig-pa-tsam-nyid-du-grub-pa"
+      ]
+    },
+    "5342": {
+      "_bibs___edition-of___works": [
+        "rnam-par-rig-pa-tsam-nyid-du-grub-pa"
+      ]
+    },
+    "5352": {
+      "_bibs___edition-of___works": [
+        "gtan-tshigs-kyi-de-kho-na-nyid-bstan-pa"
+      ]
+    },
+    "5354": {
+      "_bibs___edition-of___works": [
+        "gtan-tshigs-kyi-thigs-paqi-qgrel-pa"
+      ]
+    },
+    "5356": {
+      "_bibs___edition-of___works": [
+        "lhan-cig-dmigs-pa-nges-par-grub-pa"
+      ]
+    },
+    "5358": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rigs-par-qjug-paqi-sgo-zhes-bya-baqi-rab-tu-byed-pa",
+        "gtan-tshigs-kyi-de-kho-na-nyid-bstan-pa"
+      ]
+    },
+    "5362": {
+      "_bibs___edition-of___works": [
+        "rigs-pa-grub-paqi-sgron-ma"
+      ]
+    },
+    "5363": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-brtag-pa-chung-ba"
+      ]
+    },
+    "5372": {
+      "_bibs___edition-of___works": [
+        "vadanyayatika-vipancitartha"
+      ]
+    },
+    "5373": {
+      "_bibs___edition-of___works": [
+        "sarvajnasiddhi-jitari",
+        "nairatmyasiddhi-jitari",
+        "jatinirakrti",
+        "isvaravadimatapariksa",
+        "vedapramanyasiddhi"
+      ]
+    },
+    "5374": {
+      "_bibs___edition-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5378": {
+      "_bibs___edition-of___works": [
+        "pramanavarttikalankara"
+      ]
+    },
+    "5379": {
+      "_bibs___edition-of___works": [
+        "nang-gi-khyab-pa"
+      ]
+    },
+    "5380": {
+      "_bibs___edition-of___works": [
+        "qbrel-pa-grub-pa"
+      ]
+    },
+    "5384": {
+      "_bibs___edition-of___works": [
+        "rigs-paqi-thigs-paqi-don-bsdus-pa"
+      ]
+    },
+    "5385": {
+      "_bibs___edition-of___works": [
+        "vadanyayatika-vipancitartha"
+      ]
+    },
+    "5387": {
+      "_bibs___edition-of___works": [
+        "rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4231"
+      ]
+    },
+    "5389": {
+      "_bibs___edition-of___works": [
+        "de-kho-na-nyid-bsdus-paqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5393": {
+      "_bibs___edition-of___works": [
+        "gtan-tshigs-kyi-de-kho-na-nyid-bstan-pa"
+      ]
+    },
+    "5403": {
+      "_bibs___edition-of___works": [
+        "yangs-ba-dang-dri-ma-med-pa-dang-ldang-pa"
+      ]
+    },
+    "5404": {
+      "_bibs___edition-of___works": [
+        "de-kho-na-nyid-bsdus-paqi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5407": {
+      "_bibs___edition-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5411": {
+      "_bibs___edition-of___works": [
+        "rtsod-paqi-rigs-paqi-qgrel-pa-don-rnam-par-qbyed-pa"
+      ]
+    },
+    "5413": {
+      "_bibs___edition-of___works": [
+        "antarvyaptisamarthana",
+        "avayavinirakarana-pandita-asoka",
+        "samanyadusana",
+        "apohasiddhi-ratnakirti",
+        "ksanabhangasiddhi-anvayatmika",
+        "ksanabhangasiddhi-vyatirekatmika"
+      ]
+    },
+    "5417": {
+      "_bibs___edition-of___works": [
+        "tattvasangraha",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "5421": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-qgrel-pa-las-lequ-gsum-pa"
+      ]
+    },
+    "5425": {
+      "_bibs___edition-of___works": [
+        "qbrel-pa-brtag-paqi-rjes-su-qbrang-ba"
+      ]
+    },
+    "5426": {
+      "_bibs___edition-of___works": [
+        "chos-dang-chos-can-gtan-la-dbab-pa"
+      ]
+    },
+    "5429": {
+      "_bibs___edition-of___works": [
+        "pramanasamuccayatika-visalamalavati"
+      ]
+    },
+    "5430": {
+      "_bibs___edition-of___works": [
+        "de-kho-na-nyid-bsdus-paqi-dkaq-qgrel"
+      ]
+    },
+    "5431": {
+      "_bibs___edition-of___works": [
+        "gzhan-sel-ba-grub-pa"
+      ]
+    },
+    "5434": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-rgyan"
+      ]
+    },
+    "5436": {
+      "_bibs___edition-of___works": [
+        "advaitabinduprakarana",
+        "sakarasiddhisastra",
+        "sakarasangrahasutra",
+        "ksanabhangadhyaya",
+        "vyapticarca",
+        "bhedabhedapariksa",
+        "anupalabdhirahasya",
+        "sarvasabdabhavacarca",
+        "apohaprakarana-jnanasrimitra",
+        "isvaravada",
+        "karyakaranabhavasiddhi",
+        "yoginirnayaprakarana"
+      ]
+    },
+    "5439": {
+      "_bibs___edition-of___works": [
+        "vadanyaya"
+      ]
+    },
+    "5440": {
+      "_bibs___edition-of___works": [
+        "qbrel-pa-brtag-paqi-rgya-cher-bshad-pa"
+      ]
+    },
+    "5443": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-qgrel-bshad-derge4220"
+      ]
+    },
+    "5444": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-brtag-pa-chung-ba"
+      ]
+    },
+    "5447": {
+      "_bibs___edition-of___works": [
+        "bdag-med-pa-grub-pa"
+      ]
+    },
+    "5448": {
+      "_bibs___edition-of___works": [
+        "dmigs-pa-brtag-pa",
+        "dmigs-pa-brtag-paqi-qgrel-pa"
+      ]
+    },
+    "5450": {
+      "_bibs___edition-of___works": [
+        "vadasthanani",
+        "jatinirakrti",
+        "digambaramatapariksa",
+        "tarkabhasa"
+      ]
+    },
+    "5452": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-kun-las-btus-pa"
+      ]
+    },
+    "5454": {
+      "_bibs___edition-of___works": [
+        "vadarahasya"
+      ]
+    },
+    "5466": {
+      "_bibs___edition-of___works": [
+        "tarkarahasya"
+      ]
+    },
+    "5468": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-par-nges-paqi-qgrel-bshad-derge4228"
+      ]
+    },
+    "5471": {
+      "_bibs___edition-of___works": [
+        "tarkabhasa"
+      ]
+    },
+    "5473": {
+      "_bibs___edition-of___works": [
+        "pramanantarbhava"
+      ]
+    },
+    "5475": {
+      "_bibs___edition-of___works": [
+        "pramanavarttikavrtti-manorathanandin"
+      ]
+    },
+    "5478": {
+      "_bibs___edition-of___works": [
+        "hetutattvopadesa"
+      ]
+    },
+    "5482": {
+      "_bibs___edition-of___works": [
+        "sarvajnasiddhi-ratnakirti",
+        "isvarasadhanadusana",
+        "apohasiddhi-ratnakirti",
+        "ksanabhangasiddhi-anvayatmika",
+        "ksanabhangasiddhi-vyatirekatmika",
+        "pramanantarbhavaprakarana",
+        "vyaptinirnaya",
+        "sthirasiddhidusana",
+        "citradvaitaprakasavada",
+        "santanantaradusana"
+      ]
+    },
+    "5484": {
+      "_bibs___edition-of___works": [
+        "dmigs-pa-brtag-pa",
+        "dmigs-pa-brtag-paqi-qgrel-pa",
+        "gtan-tshigs-kyi-qkhor-lo-gtan-la-dbab",
+        "tibetan-text-of-hetucakradamaru-b"
+      ]
+    },
+    "5487": {
+      "_bibs___edition-of___works": [
+        "pramanavarttika"
+      ]
+    },
+    "5491": {
+      "_bibs___edition-of___works": [
+        "tarkasopana"
+      ]
+    },
+    "5492": {
+      "_bibs___edition-of___works": [
+        "nyayabindutika-dharmottara"
+      ]
+    },
+    "5496": {
+      "_bibs___edition-of___works": [
+        "nyayapravesakasutra",
+        "tshad-ma-rigs-par-qjug-paqi-sgo-zhes-bya-baqi-rab-tu-byed-pa"
+      ],
+      "_bibs___reconstruction-of___works": [
+        "hetucakradamaru-a"
+      ]
+    },
+    "5507": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-rgyan-gyi-qgrel-bshad-shin-tu-yongs-su-dag-pa"
+      ]
+    },
+    "5509": {
+      "_bibs___edition-of___works": [
+        "nyayabindutika-dharmottara",
+        "nyayabindu"
+      ]
+    },
+    "5516": {
+      "_bibs___edition-of___works": [
+        "nyayapravesakasutra-mongolian"
+      ]
+    },
+    "5525": {
+      "_bibs___edition-of___works": [
+        "rgyud-gzhan-grub-paqi-qgrel-bshad",
+        "rgyud-gzhan-grub-pa-zhes-bya-baqi-rab-tu-byed-pa"
+      ]
+    },
+    "5534": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-rgyan-gyi-qgrel-bshad"
+      ]
+    },
+    "5535": {
+      "_bibs___edition-of___works": [
+        "rtog-geqi-skad"
+      ]
+    },
+    "5537": {
+      "_bibs___edition-of___works": [
+        "nyayapravesakasutra-mongolian"
+      ]
+    },
+    "5553": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-tshig-lequr-byas-pa"
+      ]
+    },
+    "5649": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-brtag-pa"
+      ]
+    },
+    "5673": {
+      "_bibs___edition-of___works": [
+        "laghupratibandhasiddhikarika"
+      ]
+    },
+    "5675": {
+      "_bibs___edition-of___works": [
+        "sanksiptesvarapakaranakarika"
+      ]
+    },
+    "5676": {
+      "_bibs___edition-of___works": [
+        "svalpasarvajnasiddhikarika"
+      ]
+    },
+    "5677": {
+      "_bibs___edition-of___works": [
+        "sarvajnasiddhikarika-sankaranandana"
+      ]
+    },
+    "5678": {
+      "_bibs___edition-of___works": [
+        "pratibandhasiddhikarika"
+      ]
+    },
+    "5682": {
+      "_bibs___edition-of___works": [
+        "suksmapramanyakarika"
+      ]
+    },
+    "5689": {
+      "_bibs___edition-of___works": [
+        "prajnalankarakarika"
+      ]
+    },
+    "5693": {
+      "_bibs___edition-of___works": [
+        "isvarapakaranasanksepa",
+        "commentary-on-isvarapakaranasanksepa"
+      ]
+    },
+    "5697": {
+      "_bibs___edition-of___works": [
+        "isvarapakaranakarika"
+      ]
+    },
+    "5698": {
+      "_bibs___edition-of___works": [
+        "anyapohasiddhikarika"
+      ]
+    },
+    "5699": {
+      "_bibs___edition-of___works": [
+        "brhatpramanyakarika"
+      ]
+    },
+    "5720": {
+      "_bibs___edition-of___works": [
+        "madhyapramanyakarika"
+      ]
+    },
+    "5723": {
+      "_bibs___edition-of___works": [
+        "agamasiddhikarika"
+      ]
+    },
+    "5881": {
+      "_bibs___edition-of___works": [
+        "dharmalankarakarika"
+      ]
+    },
+    "6052": {
+      "_bibs___edition-of___works": [
+        "dharmottaratikatippanaka"
+      ]
+    },
+    "6068": {
+      "_bibs___edition-of___works": [
+        "dharmottaratikatippanaka"
+      ]
+    },
+    "6082": {
+      "_bibs___edition-of___works": [
+        "dharmottaratikatippanaka"
+      ]
+    },
+    "6089": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-rnam-qgrel-gyi-rgyan",
+        "pramanavarttikalankara"
+      ]
+    },
+    "6118": {
+      "_bibs___edition-of___works": [
+        "tshad-ma-kun-las-btus-pa"
+      ]
+    },
+    "5069": {
+      "_bibs___reconstruction-of___works": [
+        "pramanasamuccaya"
+      ]
+    },
+    "5104": {
+      "_bibs___reconstruction-of___works": [
+        "pramanasamuccayavrtti"
+      ]
+    },
+    "5952": {
+      "_bibs___reconstruction-of___works": [
+        "pramanasamuccaya"
+      ]
+    }
+  },
+  "_persons": {
+    "jnanasrimitra": {
+      "_works___composed-by___persons": [
+        "advaitabinduprakarana",
+        "anekantacinta",
+        "anupalabdhirahasya",
+        "apohaprakarana-jnanasrimitra",
+        "bhedabhedapariksa",
+        "isvaravada",
+        "karyakaranabhavasiddhi",
+        "ksanabhangadhyaya",
+        "sakarasangrahasutra",
+        "sakarasiddhisastra",
+        "sarvajnasiddhi-jnanasrimitra",
+        "sarvasabdabhavacarca",
+        "vyapticarca",
+        "yoginirnayaprakarana"
+      ]
+    },
+    "sankaranandana": {
+      "_works___composed-by___persons": [
+        "agamasiddhikarika",
+        "anyapohasiddhikarika",
+        "brhatpramanyakarika",
+        "commentary-on-agamasiddhikarika",
+        "commentary-on-isvarapakaranakarika",
+        "commentary-on-sanksiptesvarapakaranakarika",
+        "commentary-on-sarvajnasiddhikarika",
+        "commentary-on-svalpasarvajnasiddhikarika",
+        "commentary-on-vadanyaya",
+        "dharmalankarakarika",
+        "isvarapakaranakarika",
+        "isvarapakaranasanksepa",
+        "laghupratibandhasiddhikarika",
+        "madhyapramanyakarika",
+        "prajnalankarakarika",
+        "pramanavarttikanusara",
+        "pramanaviniscayanusarini",
+        "pratibandhasiddhikarika",
+        "sambandhapariksanusara",
+        "sanksiptesvarapakaranakarika",
+        "sarvajnasiddhikarika-sankaranandana",
+        "suksmapramanyakarika",
+        "svalpasarvajnasiddhikarika"
+      ]
+    },
+    "dignaga": {
+      "_works___composed-by___persons": [
+        "alambanapariksa",
+        "alambanapariksavrtti",
+        "dvadasasatika",
+        "hetucakradamaru-a",
+        "hetucakradamaru-b",
+        "hetumukha",
+        "hetvabhasamukha",
+        "nyayamukha",
+        "nyayapariksa",
+        "pramanasamuccaya",
+        "pramanasamuccayavrtti",
+        "samanyalaksanapariksa",
+        "samanyapariksa",
+        "sankhyapariksa",
+        "upadayaprajnaptiprakarana",
+        "vadavidhanatika",
+        "vaisesikapariksa"
+      ]
+    },
+    "vinitadeva": {
+      "_works___composed-by___persons": [
+        "alambanapariksatika",
+        "hetubindutika-vinitadeva",
+        "nyayabindutika-vinitadeva",
+        "sambandhapariksatika",
+        "santanantarasiddhitika",
+        "vadanyayatika"
+      ]
+    },
+    "ratnakarasanti": {
+      "_works___composed-by___persons": [
+        "antarvyaptisamarthana",
+        "vijnaptimatratasiddhi-ratnakarasanti"
+      ]
+    },
+    "subhagupta": {
+      "_works___composed-by___persons": [
+        "anyapohavicarakarika",
+        "bahyarthasiddhikarika",
+        "commentary-on-bahyarthasiddhikarika",
+        "isvarabhangakarika",
+        "nairatmyasiddhi-subhagupta",
+        "sarvajnasiddhikarika-subhagupta",
+        "srutipariksakarika"
+      ]
+    },
+    "dharmottara": {
+      "_works___composed-by___persons": [
+        "apohaprakarana-dharmottara",
+        "ksanabhangasiddhi-dharmottara",
+        "nyayabindutika-dharmottara",
+        "paralokasiddhi",
+        "pramanaviniscayatika-dharmottara",
+        "pramanyapariksa-i-brhatpramanyapariksa",
+        "pramanyapariksa-ii-laghupramanyapariksa"
+      ]
+    },
+    "jitari": {
+      "_works___composed-by___persons": [
+        "apohasiddhi-jitari",
+        "avayavinirakarana-jitari",
+        "balavataratarka",
+        "bhavikaranavada",
+        "dharmadharmiviniscaya",
+        "digambaramatapariksa",
+        "dvijatidusana",
+        "hetutattvopadesa",
+        "isvaravadimatapariksa",
+        "jatinirakrti",
+        "ksanabhanga-ms-ksanajabhangah",
+        "nairatmyasiddhi-jitari",
+        "refutation-of-the-pratyabhijna-system",
+        "sahopalambha",
+        "samagribhanga",
+        "sarvajnasiddhi-jitari",
+        "srutikartrsiddhi",
+        "vadasthanani",
+        "vedapramanyasiddhi",
+        "vijnaptimatratasiddhi-jitari",
+        "vyapakanupalambha"
+      ]
+    },
+    "ratnakirti": {
+      "_works___composed-by___persons": [
+        "apohasiddhi-ratnakirti",
+        "citradvaitaprakasavada",
+        "isvarasadhanadusana",
+        "ksanabhangasiddhi-anvayatmika",
+        "ksanabhangasiddhi-vyatirekatmika",
+        "pramanantarbhavaprakarana",
+        "santanantaradusana",
+        "sarvajnasiddhi-ratnakirti",
+        "sthirasiddhidusana",
+        "vyaptinirnaya"
+      ]
+    },
+    "pandita-asoka": {
+      "_works___composed-by___persons": [
+        "avayavinirakarana-pandita-asoka",
+        "samanyadusana"
+      ]
+    },
+    "unknown": {
+      "_works___composed-by___persons": [
+        "bdag-med-pa-grub-pa",
+        "byis-pa-qjug-paqi-rtog-ge",
+        "chinese-text-and-modern-chinese-translation-of-pramanasamuccaya",
+        "chos-dang-chos-can-gtan-la-dbab-pa",
+        "dbang-phyug-qjig-paqi-tshig-lequr-byas-pa",
+        "de-kho-na-nyid-bsdus-paqi-dkaq-qgrel",
+        "de-kho-na-nyid-bsdus-paqi-tshig-lequr-byas-pa",
+        "dmigs-pa-brtag-pa",
+        "dmigs-pa-brtag-paqi-qgrel-bshad",
+        "dmigs-pa-brtag-paqi-qgrel-pa",
+        "fangbian-xin-lun",
+        "gtan-tshigs-kyi-de-kho-na-nyid-bstan-pa",
+        "gtan-tshigs-kyi-qkhor-lo-gtan-la-dbab",
+        "gtan-tshigs-kyi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa",
+        "gtan-tshigs-kyi-thigs-paqi-qgrel-pa",
+        "gtan-tshigs-kyi-thigs-paqi-rgya-cher-qgrel",
+        "guan-suo-yuan-lun-shi",
+        "guan-suo-yuan-yuan-lun-156",
+        "guan-suo-yuan-yuan-lun-vrtti",
+        "gzhan-sel-ba-grub-pa",
+        "gzhan-sel-ba-zhes-bya-baqi-rab-tu-byed-pa",
+        "gzhan-sel-brtag-paqi-tshig-lequr-byas-pa",
+        "jushih-lun",
+        "lhan-cig-dmigs-pa-nges-par-grub-pa",
+        "nang-gi-khyab-pa",
+        "nyayapravesakasutra-mongolian",
+        "phyi-rol-gyi-don-grub-pa-zhes-bya-baqi-tshig-lequr-byas-pa",
+        "qbrel-pa-brtag-paqi-qgrel-pa",
+        "qbrel-pa-brtag-paqi-rab-tu-byed-pa",
+        "qbrel-pa-brtag-paqi-rgya-cher-bshad-pa",
+        "qbrel-pa-brtag-paqi-rjes-su-qbrang-ba",
+        "qbrel-pa-grub-pa",
+        "qjig-rten-pha-rol-grub-pa",
+        "qu-yin-jia-she-lun",
+        "rgyu-dang-qbras-buqi-ngo-bo-grub-pa",
+        "rgyud-gzhan-grub-pa-zhes-bya-baqi-rab-tu-byed-pa",
+        "rgyud-gzhan-grub-paqi-qgrel-bshad",
+        "rigs-pa-grub-paqi-sgron-ma",
+        "rigs-paqi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa",
+        "rigs-paqi-thigs-paqi-don-bsdus-pa",
+        "rigs-paqi-thigs-paqi-phyogs-snga-ma-mdor-bsdus-pa",
+        "rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4230",
+        "rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4231",
+        "rnam-par-rig-pa-tsam-nyid-du-grub-pa",
+        "rtog-geqi-skad",
+        "rtsod-paqi-rigs-pa-zhes-bya-baqi-rab-tu-byed-pa",
+        "rtsod-paqi-rigs-paqi-qgrel-pa",
+        "rtsod-paqi-rigs-paqi-qgrel-pa-don-rnam-par-qbyed-pa",
+        "samanyalaksanapariksa-old-chinese",
+        "skad-cig-ma-qjig-pa-grub-pa",
+        "skad-cig-ma-qjig-pa-grub-paqi-rnam-par-qgrel-pa",
+        "thams-cad-mkhyen-pa-grub-paqi-tshig-lequr-byas-pa",
+        "thos-pa-brtag-paqi-tshig-lequr-byas-pa",
+        "tibetan-text-of-hetucakradamaru-b",
+        "tshad-ma-brtag-pa",
+        "tshad-ma-brtag-pa-chung-ba",
+        "tshad-ma-kun-las-btus-pa",
+        "tshad-ma-kun-las-btus-paqi-qgrel-pa",
+        "tshad-ma-rigs-par-qjug-paqi-sgo-zhes-bya-baqi-rab-tu-byed-pa",
+        "tshad-ma-rnam-par-nges-pa",
+        "tshad-ma-rnam-par-nges-paqi-qgrel-bshad-derge4227",
+        "tshad-ma-rnam-par-nges-paqi-qgrel-bshad-derge4228",
+        "tshad-ma-rnam-qgrel-gyi-dkaq-qgrel",
+        "tshad-ma-rnam-qgrel-gyi-qgrel-bshad-derge4220",
+        "tshad-ma-rnam-qgrel-gyi-qgrel-bshad-derge4223",
+        "tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4216",
+        "tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4224",
+        "tshad-ma-rnam-qgrel-gyi-qgrel-pa-las-lequ-gsum-pa",
+        "tshad-ma-rnam-qgrel-gyi-rgyan",
+        "tshad-ma-rnam-qgrel-gyi-rgyan-gyi-qgrel-bshad",
+        "tshad-ma-rnam-qgrel-gyi-rgyan-gyi-qgrel-bshad-shin-tu-yongs-su-dag-pa",
+        "tshad-ma-rnam-qgrel-gyi-tshig-lequr-byas-pa",
+        "yangs-ba-dang-dri-ma-med-pa-dang-ldang-pa",
+        "yin-ming-ru-zheng-li-lun",
+        "yin-ming-zheng-li-men-lun"
+      ]
+    },
+    "isvarasena": {
+      "_works___composed-by___persons": [
+        "carakavyakhyana",
+        "commentary-on-pramanasamuccaya-with-vrtti"
+      ]
+    },
+    "durvekamisra": {
+      "_works___composed-by___persons": [
+        "catuhsati",
+        "dharmottarapradipa",
+        "hetubindutikaloka",
+        "ksanabhangasiddhi-durvekamisra",
+        "svayuthyavicara",
+        "visesakhyana"
+      ]
+    },
+    "dharmapala": {
+      "_works___composed-by___persons": [
+        "commentary-on-alambanapariksa-and-vrtti",
+        "commentary-on-nyayamukha"
+      ]
+    },
+    "anonymous": {
+      "_works___composed-by___persons": [
+        "commentary-on-isvarapakaranasanksepa",
+        "commentary-on-tattvasangraha",
+        "nyayabindutikatippanaka-tatparyanibandhana",
+        "nyayabindutikatippani",
+        "pramanantarbhava",
+        "rigs-thigs-brjed-byang",
+        "svasamvedanasiddhi",
+        "tarkarahasya",
+        "tarkasastra",
+        "upayahrdayasastra-prayogasarasastra",
+        "vadarahasya"
+      ]
+    },
+    "santabhadra": {
+      "_works___composed-by___persons": [
+        "commentary-on-nyayabindu"
+      ]
+    },
+    "kalyanacandra": {
+      "_works___composed-by___persons": [
+        "commentary-on-sakyabuddhiqs-pramanavarttikatika"
+      ]
+    },
+    "mallavadin": {
+      "_works___composed-by___persons": [
+        "dharmottaratikatippanaka"
+      ]
+    },
+    "dharmakirti": {
+      "_works___composed-by___persons": [
+        "hetubindu",
+        "nyayabindu",
+        "pramanavarttika",
+        "pramanavarttikavrtti-svavrtti",
+        "pramanaviniscaya",
+        "sambandhapariksa",
+        "santanantarasiddhi",
+        "vadanyaya"
+      ]
+    },
+    "arcata": {
+      "_works___composed-by___persons": [
+        "hetubindutika-arcata",
+        "ksanabhangasiddhi-arcata",
+        "pramanadvitvasiddhi"
+      ]
+    },
+    "muktakalasa": {
+      "_works___composed-by___persons": [
+        "ksanabhangasiddhivivarana"
+      ]
+    },
+    "karnakagomin": {
+      "_works___composed-by___persons": [
+        "nairatmyasiddhi-karnakagomin",
+        "pramanavarttikavrttitika"
+      ]
+    },
+    "vibhuticandra": {
+      "_works___composed-by___persons": [
+        "notes-appendix-to-manorathanandinqs-pramanavarttikavrtti"
+      ]
+    },
+    "jinamitra": {
+      "_works___composed-by___persons": [
+        "nyayabindupindartha"
+      ]
+    },
+    "kamalasila": {
+      "_works___composed-by___persons": [
+        "nyayabindupurvapaksasanksipta",
+        "tattvasangrahapanjika"
+      ]
+    },
+    "nyayamukhatikakara": {
+      "_works___composed-by___persons": [
+        "nyayamukhatika"
+      ]
+    },
+    "sankarasvamin": {
+      "_works___composed-by___persons": [
+        "nyayapravesakasutra"
+      ]
+    },
+    "haribhadra-suri": {
+      "_works___composed-by___persons": [
+        "nyayapravesatika-sisyahita"
+      ]
+    },
+    "candra-suri": {
+      "_works___composed-by___persons": [
+        "nyayapravesavrttipanjika"
+      ]
+    },
+    "candragomin": {
+      "_works___composed-by___persons": [
+        "nyayasiddhyaloka"
+      ]
+    },
+    "jinendrabuddhi": {
+      "_works___composed-by___persons": [
+        "pramanasamuccayatika-visalamalavati"
+      ]
+    },
+    "prajnakaragupta": {
+      "_works___composed-by___persons": [
+        "pramanavarttikalankara",
+        "sahopalambhaniyamasiddhi"
+      ]
+    },
+    "jayanta": {
+      "_works___composed-by___persons": [
+        "pramanavarttikalankaratika"
+      ]
+    },
+    "yamari": {
+      "_works___composed-by___persons": [
+        "pramanavarttikalankaratika-suparisuddha"
+      ]
+    },
+    "devendrabuddhi": {
+      "_works___composed-by___persons": [
+        "pramanavarttikapanjika",
+        "sambandhapariksavrtti"
+      ]
+    },
+    "sakyabuddhi": {
+      "_works___composed-by___persons": [
+        "pramanavarttikatika"
+      ]
+    },
+    "manorathanandin": {
+      "_works___composed-by___persons": [
+        "pramanavarttikavrtti-manorathanandin"
+      ]
+    },
+    "ravigupta": {
+      "_works___composed-by___persons": [
+        "pramanavarttikavrtti-ravigupta"
+      ]
+    },
+    "jnanasribhadra": {
+      "_works___composed-by___persons": [
+        "pramanaviniscayatika-jnanasribhadra"
+      ]
+    },
+    "dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri": {
+      "_works___composed-by___persons": [
+        "qbrel-ba-brtag-pa-rgyan-gyi-me-tog",
+        "qbrel-ba-brtag-paqi-rab-tu-qbyed-paqi-don-bsdus",
+        "qbrel-ba-brtag-paqi-rab-tu-qbyed-paqi-mchan",
+        "rtsod-paqi-rigs-pa-la-qbru-qjoms",
+        "rtsod-paqi-rigs-pa-rgyan-gyi-me-tog",
+        "rtsod-paqi-rigs-paqi-bsdus-don"
+      ]
+    },
+    "rgyal-tshab-dar-ma-rin-chen": {
+      "_works___composed-by___persons": [
+        "qbrel-ba-brtag-paqi-rnam-bshad-nyi-maqi-snying-po",
+        "tshad-ma-rigs-thigs-kyi-qgrel-pa-legs-bshad-snying-poqi-gter"
+      ]
+    },
+    "rngog-blo-ldan-shes-rab": {
+      "_works___composed-by___persons": [
+        "rigs-thigs-qgrel-paqi-don-bsdus",
+        "tshad-ma-rnam-par-nges-paqi-dkaq-gnas-rnam-par-bshad-pa"
+      ]
+    },
+    "moksakaragupta": {
+      "_works___composed-by___persons": [
+        "tarkabhasa"
+      ]
+    },
+    "vidyakarasanti": {
+      "_works___composed-by___persons": [
+        "tarkasopana"
+      ]
+    },
+    "santaraksita": {
+      "_works___composed-by___persons": [
+        "tattvasangraha",
+        "vadanyayatika-vipancitartha"
+      ]
+    },
+    "karma-blo-gros-chos-dpal-bzang-po": {
+      "_works___composed-by___persons": [
+        "tshad-ma-rigs-thigs-kyi-qgrel-pa-zur-bkol"
+      ]
+    },
+    "gro-lung-pa-blo-gros-qbyung-gnas": {
+      "_works___composed-by___persons": [
+        "tshad-ma-rnam-nges-kyi-rnam-bshad-chen-po"
+      ]
+    },
+    "phywa-pa-chos-kyi-seng-ge": {
+      "_works___composed-by___persons": [
+        "tshad-ma-rnam-par-nges-paqi-bsdus-don",
+        "tshad-ma-rnam-par-nges-paqi-qgrel-bshad-shes-rab-kyi-qod-zer",
+        "tshad-ma-yid-kyi-mun-sel"
+      ]
+    },
+    "btsun-pa-ston-gzhon": {
+      "_works___composed-by___persons": [
+        "tshad-ma-rnam-qgrel-gyi-rnam-par-bshad-pa-gnas-gsum-gsal-ba-gangs-can-gyi-rgyan"
+      ]
+    },
+    "vasubandhu-the-younger": {
+      "_works___composed-by___persons": [
+        "vadasara-or-vadahrdaya",
+        "vadavidhana",
+        "vadavidhanavrtti",
+        "vadavidhi"
+      ]
+    }
+  }
+}
