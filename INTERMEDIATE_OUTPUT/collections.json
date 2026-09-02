@@ -25042,7 +25042,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jnanasrimitra/advaitabinduprakarana_fake-2a8b7.txt",
+            "_works/jnanasrimitra/advaitabinduprakarana_fake-ed658.xml"
+          ]
         },
         {
           "id": "agamasiddhikarika",
@@ -25071,7 +25074,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/agamasiddhikarika_fake-19246.xml",
+            "_works/sankaranandana/agamasiddhikarika_fake-3248c.txt"
+          ]
         },
         {
           "id": "alambanapariksa",
@@ -25100,7 +25106,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/alambanapariksa_fake-464fd.xml",
+            "_works/dignaga/alambanapariksa_fake-4fe73.txt"
+          ]
         },
         {
           "id": "alambanapariksatika",
@@ -25130,7 +25139,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/vinitadeva/alambanapariksatika_fake-1fb97.xml",
+            "_works/vinitadeva/alambanapariksatika_fake-6861f.txt"
+          ]
         },
         {
           "id": "alambanapariksavrtti",
@@ -25160,7 +25172,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/alambanapariksavrtti_fake-253f5.txt",
+            "_works/dignaga/alambanapariksavrtti_fake-3eb74.xml"
+          ]
         },
         {
           "id": "anekantacinta",
@@ -25189,7 +25204,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jnanasrimitra/anekantacinta_fake-2c3f3.txt",
+            "_works/jnanasrimitra/anekantacinta_fake-c4f58.xml"
+          ]
         },
         {
           "id": "antarvyaptisamarthana",
@@ -25212,7 +25230,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/ratnakarasanti/antarvyaptisamarthana_fake-32c0b.txt",
+            "_works/ratnakarasanti/antarvyaptisamarthana_fake-aa496.xml"
+          ]
         },
         {
           "id": "anupalabdhirahasya",
@@ -25235,7 +25256,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jnanasrimitra/anupalabdhirahasya_fake-2c12f.xml",
+            "_works/jnanasrimitra/anupalabdhirahasya_fake-b6e22.txt"
+          ]
         },
         {
           "id": "anyapohasiddhikarika",
@@ -25258,7 +25282,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/anyapohasiddhikarika_fake-4f9ec.txt",
+            "_works/sankaranandana/anyapohasiddhikarika_fake-93cef.xml"
+          ]
         },
         {
           "id": "anyapohavicarakarika",
@@ -25281,7 +25308,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/subhagupta/anyapohavicarakarika_fake-a070d.xml",
+            "_works/subhagupta/anyapohavicarakarika_fake-bd21a.txt"
+          ]
         },
         {
           "id": "apohaprakarana-dharmottara",
@@ -25304,7 +25334,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmottara/apohaprakarana-dharmottara_fake-60d03.txt",
+            "_works/dharmottara/apohaprakarana-dharmottara_fake-b7233.xml"
+          ]
         },
         {
           "id": "apohaprakarana-jnanasrimitra",
@@ -25327,7 +25360,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jnanasrimitra/apohaprakarana-jnanasrimitra_fake-ba303.xml",
+            "_works/jnanasrimitra/apohaprakarana-jnanasrimitra_fake-f6a0a.txt"
+          ]
         },
         {
           "id": "apohasiddhi-jitari",
@@ -25350,7 +25386,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/apohasiddhi-jitari_fake-6b696.xml",
+            "_works/jitari/apohasiddhi-jitari_fake-b19c0.txt"
+          ]
         },
         {
           "id": "apohasiddhi-ratnakirti",
@@ -25373,7 +25412,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/ratnakirti/apohasiddhi-ratnakirti_fake-3e546.xml",
+            "_works/ratnakirti/apohasiddhi-ratnakirti_fake-91991.txt"
+          ]
         },
         {
           "id": "avayavinirakarana-jitari",
@@ -25396,7 +25438,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/avayavinirakarana-jitari_fake-23f42.txt",
+            "_works/jitari/avayavinirakarana-jitari_fake-83751.xml"
+          ]
         },
         {
           "id": "avayavinirakarana-pandita-asoka",
@@ -25419,7 +25464,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/pandita-asoka/avayavinirakarana-pandita-asoka_fake-8f048.xml",
+            "_works/pandita-asoka/avayavinirakarana-pandita-asoka_fake-d9820.txt"
+          ]
         },
         {
           "id": "bahyarthasiddhikarika",
@@ -25442,7 +25490,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/subhagupta/bahyarthasiddhikarika_fake-2685d.xml",
+            "_works/subhagupta/bahyarthasiddhikarika_fake-31b5c.txt"
+          ]
         },
         {
           "id": "balavataratarka",
@@ -25465,7 +25516,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/balavataratarka_fake-3f5b6.xml",
+            "_works/jitari/balavataratarka_fake-4f96d.txt"
+          ]
         },
         {
           "id": "bdag-med-pa-grub-pa",
@@ -25495,7 +25549,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/bdag-med-pa-grub-pa_fake-289a2.xml",
+            "_works/translations/tibetan/bdag-med-pa-grub-pa_fake-329cc.txt"
+          ]
         },
         {
           "id": "bhavikaranavada",
@@ -25518,7 +25575,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/bhavikaranavada_fake-ae3e8.txt",
+            "_works/jitari/bhavikaranavada_fake-bdb00.xml"
+          ]
         },
         {
           "id": "bhedabhedapariksa",
@@ -25541,7 +25601,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jnanasrimitra/bhedabhedapariksa_fake-1ce93.xml",
+            "_works/jnanasrimitra/bhedabhedapariksa_fake-e0b8b.txt"
+          ]
         },
         {
           "id": "brhatpramanyakarika",
@@ -25564,7 +25627,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/brhatpramanyakarika_fake-0faf8.xml",
+            "_works/sankaranandana/brhatpramanyakarika_fake-870d0.txt"
+          ]
         },
         {
           "id": "byis-pa-qjug-paqi-rtog-ge",
@@ -25594,7 +25660,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/byis-pa-qjug-paqi-rtog-ge_fake-346ff.txt",
+            "_works/translations/tibetan/byis-pa-qjug-paqi-rtog-ge_fake-5a8ff.xml"
+          ]
         },
         {
           "id": "carakavyakhyana",
@@ -25623,7 +25692,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/isvarasena/carakavyakhyana_fake-13c1c.xml",
+            "_works/isvarasena/carakavyakhyana_fake-f99d2.txt"
+          ]
         },
         {
           "id": "catuhsati",
@@ -25652,7 +25724,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/durvekamisra/catuhsati_fake-3b50f.xml",
+            "_works/durvekamisra/catuhsati_fake-4937e.txt"
+          ]
         },
         {
           "id": "chinese-text-and-modern-chinese-translation-of-pramanasamuccaya",
@@ -25682,7 +25757,10 @@
               "chinese"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/chinese/chinese-text-and-modern-chinese-translation-of-pramanasamuccaya_fake-28e8c.xml",
+            "_works/translations/chinese/chinese-text-and-modern-chinese-translation-of-pramanasamuccaya_fake-95b1f.txt"
+          ]
         },
         {
           "id": "chos-dang-chos-can-gtan-la-dbab-pa",
@@ -25712,7 +25790,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/chos-dang-chos-can-gtan-la-dbab-pa_fake-349e0.xml",
+            "_works/translations/tibetan/chos-dang-chos-can-gtan-la-dbab-pa_fake-8b206.txt"
+          ]
         },
         {
           "id": "citradvaitaprakasavada",
@@ -25735,7 +25816,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/ratnakirti/citradvaitaprakasavada_fake-08efe.xml",
+            "_works/ratnakirti/citradvaitaprakasavada_fake-570b3.txt"
+          ]
         },
         {
           "id": "commentary-on-agamasiddhikarika",
@@ -25771,7 +25855,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/commentary-on-agamasiddhikarika_fake-3ae3a.txt",
+            "_works/sankaranandana/commentary-on-agamasiddhikarika_fake-aaaab.xml"
+          ]
         },
         {
           "id": "commentary-on-alambanapariksa-and-vrtti",
@@ -25801,7 +25888,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmapala/commentary-on-alambanapariksa-and-vrtti_fake-1f192.xml",
+            "_works/dharmapala/commentary-on-alambanapariksa-and-vrtti_fake-30cde.txt"
+          ]
         },
         {
           "id": "commentary-on-bahyarthasiddhikarika",
@@ -25830,7 +25920,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/subhagupta/commentary-on-bahyarthasiddhikarika_fake-19965.txt",
+            "_works/subhagupta/commentary-on-bahyarthasiddhikarika_fake-74b30.xml"
+          ]
         },
         {
           "id": "commentary-on-isvarapakaranakarika",
@@ -25866,7 +25959,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/commentary-on-isvarapakaranakarika_fake-8ede3.xml",
+            "_works/sankaranandana/commentary-on-isvarapakaranakarika_fake-9663c.txt"
+          ]
         },
         {
           "id": "commentary-on-isvarapakaranasanksepa",
@@ -25895,7 +25991,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/anonymous/commentary-on-isvarapakaranasanksepa_fake-ba7fa.xml",
+            "_works/anonymous/commentary-on-isvarapakaranasanksepa_fake-f6089.txt"
+          ]
         },
         {
           "id": "commentary-on-nyayabindu",
@@ -25931,7 +26030,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/santabhadra/commentary-on-nyayabindu_fake-05805.xml",
+            "_works/santabhadra/commentary-on-nyayabindu_fake-3b50d.txt"
+          ]
         },
         {
           "id": "commentary-on-nyayamukha",
@@ -25967,7 +26069,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmapala/commentary-on-nyayamukha_fake-1a8d5.xml",
+            "_works/dharmapala/commentary-on-nyayamukha_fake-43123.txt"
+          ]
         },
         {
           "id": "commentary-on-pramanasamuccaya-with-vrtti",
@@ -26003,7 +26108,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/isvarasena/commentary-on-pramanasamuccaya-with-vrtti_fake-624fb.xml",
+            "_works/isvarasena/commentary-on-pramanasamuccaya-with-vrtti_fake-c6066.txt"
+          ]
         },
         {
           "id": "commentary-on-sakyabuddhiqs-pramanavarttikatika",
@@ -26033,7 +26141,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/kalyanacandra/commentary-on-sakyabuddhiqs-pramanavarttikatika_fake-4bd8f.xml",
+            "_works/kalyanacandra/commentary-on-sakyabuddhiqs-pramanavarttikatika_fake-f2b14.txt"
+          ]
         },
         {
           "id": "commentary-on-sanksiptesvarapakaranakarika",
@@ -26069,7 +26180,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/commentary-on-sanksiptesvarapakaranakarika_fake-9a9a5.xml",
+            "_works/sankaranandana/commentary-on-sanksiptesvarapakaranakarika_fake-fdb27.txt"
+          ]
         },
         {
           "id": "commentary-on-sarvajnasiddhikarika",
@@ -26105,7 +26219,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/commentary-on-sarvajnasiddhikarika_fake-cca17.txt",
+            "_works/sankaranandana/commentary-on-sarvajnasiddhikarika_fake-d90d4.xml"
+          ]
         },
         {
           "id": "commentary-on-svalpasarvajnasiddhikarika",
@@ -26141,7 +26258,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/commentary-on-svalpasarvajnasiddhikarika_fake-48e85.txt",
+            "_works/sankaranandana/commentary-on-svalpasarvajnasiddhikarika_fake-4e186.xml"
+          ]
         },
         {
           "id": "commentary-on-tattvasangraha",
@@ -26177,7 +26297,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/anonymous/commentary-on-tattvasangraha_fake-6a204.xml",
+            "_works/anonymous/commentary-on-tattvasangraha_fake-72a2d.txt"
+          ]
         },
         {
           "id": "commentary-on-vadanyaya",
@@ -26213,7 +26336,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/commentary-on-vadanyaya_fake-81830.xml",
+            "_works/sankaranandana/commentary-on-vadanyaya_fake-b3759.txt"
+          ]
         },
         {
           "id": "dbang-phyug-qjig-paqi-tshig-lequr-byas-pa",
@@ -26243,7 +26369,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/dbang-phyug-qjig-paqi-tshig-lequr-byas-pa_fake-39286.txt",
+            "_works/translations/tibetan/dbang-phyug-qjig-paqi-tshig-lequr-byas-pa_fake-88b46.xml"
+          ]
         },
         {
           "id": "de-kho-na-nyid-bsdus-paqi-dkaq-qgrel",
@@ -26273,7 +26402,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/de-kho-na-nyid-bsdus-paqi-dkaq-qgrel_fake-7d73a.xml",
+            "_works/translations/tibetan/de-kho-na-nyid-bsdus-paqi-dkaq-qgrel_fake-c27e8.txt"
+          ]
         },
         {
           "id": "de-kho-na-nyid-bsdus-paqi-tshig-lequr-byas-pa",
@@ -26303,7 +26435,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/de-kho-na-nyid-bsdus-paqi-tshig-lequr-byas-pa_fake-684d5.xml",
+            "_works/translations/tibetan/de-kho-na-nyid-bsdus-paqi-tshig-lequr-byas-pa_fake-b9615.txt"
+          ]
         },
         {
           "id": "dharmadharmiviniscaya",
@@ -26326,7 +26461,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/dharmadharmiviniscaya_fake-d4e72.xml",
+            "_works/jitari/dharmadharmiviniscaya_fake-ea7b1.txt"
+          ]
         },
         {
           "id": "dharmalankarakarika",
@@ -26349,7 +26487,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/dharmalankarakarika_fake-30f67.xml",
+            "_works/sankaranandana/dharmalankarakarika_fake-3adbd.txt"
+          ]
         },
         {
           "id": "dharmottarapradipa",
@@ -26379,7 +26520,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/durvekamisra/dharmottarapradipa_fake-5913f.xml",
+            "_works/durvekamisra/dharmottarapradipa_fake-80c57.txt"
+          ]
         },
         {
           "id": "dharmottaratikatippanaka",
@@ -26415,7 +26559,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/mallavadin/dharmottaratikatippanaka_fake-59d67.txt",
+            "_works/mallavadin/dharmottaratikatippanaka_fake-673f8.xml"
+          ]
         },
         {
           "id": "digambaramatapariksa",
@@ -26444,7 +26591,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/digambaramatapariksa_fake-1a5a0.xml",
+            "_works/jitari/digambaramatapariksa_fake-cab91.txt"
+          ]
         },
         {
           "id": "dmigs-pa-brtag-pa",
@@ -26474,7 +26624,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/dmigs-pa-brtag-pa_fake-3e115.xml",
+            "_works/translations/tibetan/dmigs-pa-brtag-pa_fake-83080.txt"
+          ]
         },
         {
           "id": "dmigs-pa-brtag-paqi-qgrel-bshad",
@@ -26504,7 +26657,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/dmigs-pa-brtag-paqi-qgrel-bshad_fake-34280.txt",
+            "_works/translations/tibetan/dmigs-pa-brtag-paqi-qgrel-bshad_fake-80a5f.xml"
+          ]
         },
         {
           "id": "dmigs-pa-brtag-paqi-qgrel-pa",
@@ -26534,7 +26690,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/dmigs-pa-brtag-paqi-qgrel-pa_fake-4ab9f.xml",
+            "_works/translations/tibetan/dmigs-pa-brtag-paqi-qgrel-pa_fake-9e80a.txt"
+          ]
         },
         {
           "id": "dvadasasatika",
@@ -26563,7 +26722,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/dvadasasatika_fake-372b0.txt",
+            "_works/dignaga/dvadasasatika_fake-bc64f.xml"
+          ]
         },
         {
           "id": "dvijatidusana",
@@ -26586,7 +26748,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/dvijatidusana_fake-15f61.xml",
+            "_works/jitari/dvijatidusana_fake-1c24f.txt"
+          ]
         },
         {
           "id": "fangbian-xin-lun",
@@ -26616,7 +26781,10 @@
               "chinese"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/chinese/fangbian-xin-lun_fake-a5d4e.xml",
+            "_works/translations/chinese/fangbian-xin-lun_fake-ce579.txt"
+          ]
         },
         {
           "id": "gtan-tshigs-kyi-de-kho-na-nyid-bstan-pa",
@@ -26646,7 +26814,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/gtan-tshigs-kyi-de-kho-na-nyid-bstan-pa_fake-55664.txt",
+            "_works/translations/tibetan/gtan-tshigs-kyi-de-kho-na-nyid-bstan-pa_fake-6eb9b.xml"
+          ]
         },
         {
           "id": "gtan-tshigs-kyi-qkhor-lo-gtan-la-dbab",
@@ -26676,7 +26847,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/gtan-tshigs-kyi-qkhor-lo-gtan-la-dbab_fake-3392f.txt",
+            "_works/translations/tibetan/gtan-tshigs-kyi-qkhor-lo-gtan-la-dbab_fake-455a7.xml"
+          ]
         },
         {
           "id": "gtan-tshigs-kyi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa",
@@ -26706,7 +26880,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/gtan-tshigs-kyi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa_fake-2553f.txt",
+            "_works/translations/tibetan/gtan-tshigs-kyi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa_fake-fe2cc.xml"
+          ]
         },
         {
           "id": "gtan-tshigs-kyi-thigs-paqi-qgrel-pa",
@@ -26736,7 +26913,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/gtan-tshigs-kyi-thigs-paqi-qgrel-pa_fake-9c3c0.txt",
+            "_works/translations/tibetan/gtan-tshigs-kyi-thigs-paqi-qgrel-pa_fake-fcc20.xml"
+          ]
         },
         {
           "id": "gtan-tshigs-kyi-thigs-paqi-rgya-cher-qgrel",
@@ -26766,7 +26946,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/gtan-tshigs-kyi-thigs-paqi-rgya-cher-qgrel_fake-e2ac5.xml",
+            "_works/translations/tibetan/gtan-tshigs-kyi-thigs-paqi-rgya-cher-qgrel_fake-ed196.txt"
+          ]
         },
         {
           "id": "guan-suo-yuan-lun-shi",
@@ -26796,7 +26979,10 @@
               "chinese"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/chinese/guan-suo-yuan-lun-shi_fake-4972f.xml",
+            "_works/translations/chinese/guan-suo-yuan-lun-shi_fake-8f20b.txt"
+          ]
         },
         {
           "id": "guan-suo-yuan-yuan-lun-156",
@@ -26826,7 +27012,10 @@
               "chinese"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/chinese/guan-suo-yuan-yuan-lun-156_fake-40586.txt",
+            "_works/translations/chinese/guan-suo-yuan-yuan-lun-156_fake-7fcf3.xml"
+          ]
         },
         {
           "id": "guan-suo-yuan-yuan-lun-vrtti",
@@ -26856,7 +27045,10 @@
               "chinese"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/chinese/guan-suo-yuan-yuan-lun-vrtti_fake-27dec.txt",
+            "_works/translations/chinese/guan-suo-yuan-yuan-lun-vrtti_fake-5c235.xml"
+          ]
         },
         {
           "id": "gzhan-sel-ba-grub-pa",
@@ -26886,7 +27078,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/gzhan-sel-ba-grub-pa_fake-1205f.txt",
+            "_works/translations/tibetan/gzhan-sel-ba-grub-pa_fake-1ccc2.xml"
+          ]
         },
         {
           "id": "gzhan-sel-ba-zhes-bya-baqi-rab-tu-byed-pa",
@@ -26916,7 +27111,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/gzhan-sel-ba-zhes-bya-baqi-rab-tu-byed-pa_fake-6bfcc.txt",
+            "_works/translations/tibetan/gzhan-sel-ba-zhes-bya-baqi-rab-tu-byed-pa_fake-bb4c4.xml"
+          ]
         },
         {
           "id": "gzhan-sel-brtag-paqi-tshig-lequr-byas-pa",
@@ -26946,7 +27144,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/gzhan-sel-brtag-paqi-tshig-lequr-byas-pa_fake-93752.txt",
+            "_works/translations/tibetan/gzhan-sel-brtag-paqi-tshig-lequr-byas-pa_fake-a8522.xml"
+          ]
         },
         {
           "id": "hetubindu",
@@ -26969,7 +27170,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmakirti/hetubindu_fake-21d90.txt",
+            "_works/dharmakirti/hetubindu_fake-a6df5.xml"
+          ]
         },
         {
           "id": "hetubindutika-arcata",
@@ -27005,7 +27209,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/arcata/hetubindutika-arcata_fake-688de.xml",
+            "_works/arcata/hetubindutika-arcata_fake-aeefe.txt"
+          ]
         },
         {
           "id": "hetubindutika-vinitadeva",
@@ -27028,7 +27235,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/vinitadeva/hetubindutika-vinitadeva_fake-94fbb.xml",
+            "_works/vinitadeva/hetubindutika-vinitadeva_fake-a6c0e.txt"
+          ]
         },
         {
           "id": "hetubindutikaloka",
@@ -27064,7 +27274,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/durvekamisra/hetubindutikaloka_fake-9c786.txt",
+            "_works/durvekamisra/hetubindutikaloka_fake-e5a3d.xml"
+          ]
         },
         {
           "id": "hetucakradamaru-a",
@@ -27093,7 +27306,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/hetucakradamaru-a_fake-5944b.xml",
+            "_works/dignaga/hetucakradamaru-a_fake-6f81d.txt"
+          ]
         },
         {
           "id": "hetucakradamaru-b",
@@ -27122,7 +27338,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/hetucakradamaru-b_fake-97d3c.xml",
+            "_works/dignaga/hetucakradamaru-b_fake-c191b.txt"
+          ]
         },
         {
           "id": "hetumukha",
@@ -27151,7 +27370,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/hetumukha_fake-c79cb.xml",
+            "_works/dignaga/hetumukha_fake-d0f0d.txt"
+          ]
         },
         {
           "id": "hetutattvopadesa",
@@ -27174,7 +27396,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/hetutattvopadesa_fake-55c47.xml",
+            "_works/jitari/hetutattvopadesa_fake-aaa8e.txt"
+          ]
         },
         {
           "id": "hetvabhasamukha",
@@ -27203,7 +27428,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/hetvabhasamukha_fake-3eeee.txt",
+            "_works/dignaga/hetvabhasamukha_fake-a90fa.xml"
+          ]
         },
         {
           "id": "isvarabhangakarika",
@@ -27226,7 +27454,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/subhagupta/isvarabhangakarika_fake-1c06b.xml",
+            "_works/subhagupta/isvarabhangakarika_fake-aec3d.txt"
+          ]
         },
         {
           "id": "isvarapakaranakarika",
@@ -27255,7 +27486,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/isvarapakaranakarika_fake-54a63.xml",
+            "_works/sankaranandana/isvarapakaranakarika_fake-72aa8.txt"
+          ]
         },
         {
           "id": "isvarapakaranasanksepa",
@@ -27284,7 +27518,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/isvarapakaranasanksepa_fake-0a114.xml",
+            "_works/sankaranandana/isvarapakaranasanksepa_fake-29490.txt"
+          ]
         },
         {
           "id": "isvarasadhanadusana",
@@ -27307,7 +27544,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/ratnakirti/isvarasadhanadusana_fake-4e281.xml",
+            "_works/ratnakirti/isvarasadhanadusana_fake-98417.txt"
+          ]
         },
         {
           "id": "isvaravada",
@@ -27330,7 +27570,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jnanasrimitra/isvaravada_fake-27d56.txt",
+            "_works/jnanasrimitra/isvaravada_fake-34321.xml"
+          ]
         },
         {
           "id": "isvaravadimatapariksa",
@@ -27353,7 +27596,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/isvaravadimatapariksa_fake-5d64a.xml",
+            "_works/jitari/isvaravadimatapariksa_fake-8e65a.txt"
+          ]
         },
         {
           "id": "jatinirakrti",
@@ -27376,7 +27622,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/jatinirakrti_fake-4f2d0.xml",
+            "_works/jitari/jatinirakrti_fake-ad121.txt"
+          ]
         },
         {
           "id": "jushih-lun",
@@ -27406,7 +27655,10 @@
               "chinese"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/chinese/jushih-lun_fake-0fff4.xml",
+            "_works/translations/chinese/jushih-lun_fake-3cfed.txt"
+          ]
         },
         {
           "id": "karyakaranabhavasiddhi",
@@ -27429,7 +27681,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jnanasrimitra/karyakaranabhavasiddhi_fake-2b7e6.txt",
+            "_works/jnanasrimitra/karyakaranabhavasiddhi_fake-d8e7a.xml"
+          ]
         },
         {
           "id": "ksanabhanga-ms-ksanajabhangah",
@@ -27452,7 +27707,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/ksanabhanga-ms-ksanajabhangah_fake-88aa2.txt",
+            "_works/jitari/ksanabhanga-ms-ksanajabhangah_fake-d518a.xml"
+          ]
         },
         {
           "id": "ksanabhangadhyaya",
@@ -27475,7 +27733,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jnanasrimitra/ksanabhangadhyaya_fake-a5d42.txt",
+            "_works/jnanasrimitra/ksanabhangadhyaya_fake-c6fb7.xml"
+          ]
         },
         {
           "id": "ksanabhangasiddhi-anvayatmika",
@@ -27498,7 +27759,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/ratnakirti/ksanabhangasiddhi-anvayatmika_fake-4f884.xml",
+            "_works/ratnakirti/ksanabhangasiddhi-anvayatmika_fake-ddc91.txt"
+          ]
         },
         {
           "id": "ksanabhangasiddhi-arcata",
@@ -27527,7 +27791,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/arcata/ksanabhangasiddhi-arcata_fake-3858d.txt",
+            "_works/arcata/ksanabhangasiddhi-arcata_fake-cbbc0.xml"
+          ]
         },
         {
           "id": "ksanabhangasiddhi-dharmottara",
@@ -27550,7 +27817,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmottara/ksanabhangasiddhi-dharmottara_fake-d81de.txt",
+            "_works/dharmottara/ksanabhangasiddhi-dharmottara_fake-ede49.xml"
+          ]
         },
         {
           "id": "ksanabhangasiddhi-durvekamisra",
@@ -27579,7 +27849,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/durvekamisra/ksanabhangasiddhi-durvekamisra_fake-21361.txt",
+            "_works/durvekamisra/ksanabhangasiddhi-durvekamisra_fake-fa10d.xml"
+          ]
         },
         {
           "id": "ksanabhangasiddhi-vyatirekatmika",
@@ -27602,7 +27875,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/ratnakirti/ksanabhangasiddhi-vyatirekatmika_fake-1e5ca.txt",
+            "_works/ratnakirti/ksanabhangasiddhi-vyatirekatmika_fake-8cd15.xml"
+          ]
         },
         {
           "id": "ksanabhangasiddhivivarana",
@@ -27625,7 +27901,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/muktakalasa/ksanabhangasiddhivivarana_fake-641f0.txt",
+            "_works/muktakalasa/ksanabhangasiddhivivarana_fake-9a38b.xml"
+          ]
         },
         {
           "id": "laghupratibandhasiddhikarika",
@@ -27648,7 +27927,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/laghupratibandhasiddhikarika_fake-3de36.txt",
+            "_works/sankaranandana/laghupratibandhasiddhikarika_fake-40d21.xml"
+          ]
         },
         {
           "id": "lhan-cig-dmigs-pa-nges-par-grub-pa",
@@ -27678,7 +27960,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/lhan-cig-dmigs-pa-nges-par-grub-pa_fake-6e4ba.txt",
+            "_works/translations/tibetan/lhan-cig-dmigs-pa-nges-par-grub-pa_fake-79c73.xml"
+          ]
         },
         {
           "id": "madhyapramanyakarika",
@@ -27701,7 +27986,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/madhyapramanyakarika_fake-60148.txt",
+            "_works/sankaranandana/madhyapramanyakarika_fake-c75a4.xml"
+          ]
         },
         {
           "id": "nairatmyasiddhi-jitari",
@@ -27724,7 +28012,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/nairatmyasiddhi-jitari_fake-1fe24.txt",
+            "_works/jitari/nairatmyasiddhi-jitari_fake-b7308.xml"
+          ]
         },
         {
           "id": "nairatmyasiddhi-karnakagomin",
@@ -27753,7 +28044,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/karnakagomin/nairatmyasiddhi-karnakagomin_fake-07512.xml",
+            "_works/karnakagomin/nairatmyasiddhi-karnakagomin_fake-6ca65.txt"
+          ]
         },
         {
           "id": "nairatmyasiddhi-subhagupta",
@@ -27776,7 +28070,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/subhagupta/nairatmyasiddhi-subhagupta_fake-510fb.txt",
+            "_works/subhagupta/nairatmyasiddhi-subhagupta_fake-c9a2c.xml"
+          ]
         },
         {
           "id": "nang-gi-khyab-pa",
@@ -27806,7 +28103,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/nang-gi-khyab-pa_fake-5beb7.txt",
+            "_works/translations/tibetan/nang-gi-khyab-pa_fake-71b8d.xml"
+          ]
         },
         {
           "id": "notes-appendix-to-manorathanandinqs-pramanavarttikavrtti",
@@ -27835,7 +28135,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/vibhuticandra/notes-appendix-to-manorathanandinqs-pramanavarttikavrtti_fake-2eef6.xml",
+            "_works/vibhuticandra/notes-appendix-to-manorathanandinqs-pramanavarttikavrtti_fake-c8faf.txt"
+          ]
         },
         {
           "id": "nyayabindu",
@@ -27858,7 +28161,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmakirti/nyayabindu_fake-7361a.txt",
+            "_works/dharmakirti/nyayabindu_fake-c8031.xml"
+          ]
         },
         {
           "id": "nyayabindupindartha",
@@ -27888,7 +28194,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jinamitra/nyayabindupindartha_fake-d1890.xml",
+            "_works/jinamitra/nyayabindupindartha_fake-f048c.txt"
+          ]
         },
         {
           "id": "nyayabindupurvapaksasanksipta",
@@ -27911,7 +28220,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/kamalasila/nyayabindupurvapaksasanksipta_fake-3732b.xml",
+            "_works/kamalasila/nyayabindupurvapaksasanksipta_fake-73491.txt"
+          ]
         },
         {
           "id": "nyayabindutika-dharmottara",
@@ -27941,7 +28253,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmottara/nyayabindutika-dharmottara_fake-84c1e.xml",
+            "_works/dharmottara/nyayabindutika-dharmottara_fake-d7031.txt"
+          ]
         },
         {
           "id": "nyayabindutika-vinitadeva",
@@ -27971,7 +28286,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/vinitadeva/nyayabindutika-vinitadeva_fake-072fd.txt",
+            "_works/vinitadeva/nyayabindutika-vinitadeva_fake-a2ca3.xml"
+          ]
         },
         {
           "id": "nyayabindutikatippanaka-tatparyanibandhana",
@@ -28007,7 +28325,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/anonymous/nyayabindutikatippanaka-tatparyanibandhana_fake-c034a.txt",
+            "_works/anonymous/nyayabindutikatippanaka-tatparyanibandhana_fake-f4571.xml"
+          ]
         },
         {
           "id": "nyayabindutikatippani",
@@ -28043,7 +28364,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/anonymous/nyayabindutikatippani_fake-34eb5.xml",
+            "_works/anonymous/nyayabindutikatippani_fake-8e94f.txt"
+          ]
         },
         {
           "id": "nyayamukha",
@@ -28072,7 +28396,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/nyayamukha_fake-ab8a1.txt",
+            "_works/dignaga/nyayamukha_fake-ffac4.xml"
+          ]
         },
         {
           "id": "nyayamukhatika",
@@ -28108,7 +28435,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/nyayamukhatikakara/nyayamukhatika_fake-8b42a.xml",
+            "_works/nyayamukhatikakara/nyayamukhatika_fake-eef34.txt"
+          ]
         },
         {
           "id": "nyayapariksa",
@@ -28137,7 +28467,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/nyayapariksa_fake-42a05.xml",
+            "_works/dignaga/nyayapariksa_fake-bfcb1.txt"
+          ]
         },
         {
           "id": "nyayapravesakasutra",
@@ -28160,7 +28493,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankarasvamin/nyayapravesakasutra_fake-2fefe.txt",
+            "_works/sankarasvamin/nyayapravesakasutra_fake-b8645.xml"
+          ]
         },
         {
           "id": "nyayapravesakasutra-mongolian",
@@ -28190,7 +28526,10 @@
               "mongolian"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/mongolian/nyayapravesakasutra-mongolian_fake-130e8.xml",
+            "_works/translations/mongolian/nyayapravesakasutra-mongolian_fake-d33e7.txt"
+          ]
         },
         {
           "id": "nyayapravesatika-sisyahita",
@@ -28226,7 +28565,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/haribhadra-suri/nyayapravesatika-sisyahita_fake-0ab50.xml",
+            "_works/haribhadra-suri/nyayapravesatika-sisyahita_fake-fe454.txt"
+          ]
         },
         {
           "id": "nyayapravesavrttipanjika",
@@ -28262,7 +28604,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/candra-suri/nyayapravesavrttipanjika_fake-e1e95.xml",
+            "_works/candra-suri/nyayapravesavrttipanjika_fake-fd396.txt"
+          ]
         },
         {
           "id": "nyayasiddhyaloka",
@@ -28285,7 +28630,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/candragomin/nyayasiddhyaloka_fake-a1273.xml",
+            "_works/candragomin/nyayasiddhyaloka_fake-fa308.txt"
+          ]
         },
         {
           "id": "paralokasiddhi",
@@ -28308,7 +28656,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmottara/paralokasiddhi_fake-41737.xml",
+            "_works/dharmottara/paralokasiddhi_fake-6d3d3.txt"
+          ]
         },
         {
           "id": "phyi-rol-gyi-don-grub-pa-zhes-bya-baqi-tshig-lequr-byas-pa",
@@ -28338,7 +28689,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/phyi-rol-gyi-don-grub-pa-zhes-bya-baqi-tshig-lequr-byas-pa_fake-1c5e0.xml",
+            "_works/translations/tibetan/phyi-rol-gyi-don-grub-pa-zhes-bya-baqi-tshig-lequr-byas-pa_fake-bb73d.txt"
+          ]
         },
         {
           "id": "prajnalankarakarika",
@@ -28361,7 +28715,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/prajnalankarakarika_fake-13f0f.xml",
+            "_works/sankaranandana/prajnalankarakarika_fake-62e41.txt"
+          ]
         },
         {
           "id": "pramanadvitvasiddhi",
@@ -28390,7 +28747,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/arcata/pramanadvitvasiddhi_fake-0f3e9.txt",
+            "_works/arcata/pramanadvitvasiddhi_fake-78aaa.xml"
+          ]
         },
         {
           "id": "pramanantarbhava",
@@ -28419,7 +28779,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/anonymous/pramanantarbhava_fake-195c9.xml",
+            "_works/anonymous/pramanantarbhava_fake-7972e.txt"
+          ]
         },
         {
           "id": "pramanantarbhavaprakarana",
@@ -28442,7 +28805,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/ratnakirti/pramanantarbhavaprakarana_fake-84439.txt",
+            "_works/ratnakirti/pramanantarbhavaprakarana_fake-a9aca.xml"
+          ]
         },
         {
           "id": "pramanasamuccaya",
@@ -28471,7 +28837,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/pramanasamuccaya_fake-286ae.xml",
+            "_works/dignaga/pramanasamuccaya_fake-b3562.txt"
+          ]
         },
         {
           "id": "pramanasamuccayatika-visalamalavati",
@@ -28501,7 +28870,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jinendrabuddhi/pramanasamuccayatika-visalamalavati_fake-38ce9.xml",
+            "_works/jinendrabuddhi/pramanasamuccayatika-visalamalavati_fake-f9322.txt"
+          ]
         },
         {
           "id": "pramanasamuccayavrtti",
@@ -28537,7 +28909,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/pramanasamuccayavrtti_fake-1b49f.xml",
+            "_works/dignaga/pramanasamuccayavrtti_fake-61d7c.txt"
+          ]
         },
         {
           "id": "pramanavarttika",
@@ -28566,7 +28941,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmakirti/pramanavarttika_fake-89b2f.txt",
+            "_works/dharmakirti/pramanavarttika_fake-c3f26.xml"
+          ]
         },
         {
           "id": "pramanavarttikalankara",
@@ -28596,7 +28974,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/prajnakaragupta/pramanavarttikalankara_fake-4a267.xml",
+            "_works/prajnakaragupta/pramanavarttikalankara_fake-ebabc.txt"
+          ]
         },
         {
           "id": "pramanavarttikalankaratika",
@@ -28626,7 +29007,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jayanta/pramanavarttikalankaratika_fake-1cc07.xml",
+            "_works/jayanta/pramanavarttikalankaratika_fake-9b98e.txt"
+          ]
         },
         {
           "id": "pramanavarttikalankaratika-suparisuddha",
@@ -28662,7 +29046,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/yamari/pramanavarttikalankaratika-suparisuddha_fake-a4d8a.xml",
+            "_works/yamari/pramanavarttikalankaratika-suparisuddha_fake-de709.txt"
+          ]
         },
         {
           "id": "pramanavarttikanusara",
@@ -28698,7 +29085,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/pramanavarttikanusara_fake-36840.xml",
+            "_works/sankaranandana/pramanavarttikanusara_fake-87b40.txt"
+          ]
         },
         {
           "id": "pramanavarttikapanjika",
@@ -28734,7 +29124,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/devendrabuddhi/pramanavarttikapanjika_fake-2cf7f.txt",
+            "_works/devendrabuddhi/pramanavarttikapanjika_fake-90d5d.xml"
+          ]
         },
         {
           "id": "pramanavarttikatika",
@@ -28764,7 +29157,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sakyabuddhi/pramanavarttikatika_fake-588e4.xml",
+            "_works/sakyabuddhi/pramanavarttikatika_fake-a36f1.txt"
+          ]
         },
         {
           "id": "pramanavarttikavrtti-manorathanandin",
@@ -28794,7 +29190,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/manorathanandin/pramanavarttikavrtti-manorathanandin_fake-17d57.xml",
+            "_works/manorathanandin/pramanavarttikavrtti-manorathanandin_fake-5e8e0.txt"
+          ]
         },
         {
           "id": "pramanavarttikavrtti-ravigupta",
@@ -28830,7 +29229,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/ravigupta/pramanavarttikavrtti-ravigupta_fake-080f0.xml",
+            "_works/ravigupta/pramanavarttikavrtti-ravigupta_fake-9c73b.txt"
+          ]
         },
         {
           "id": "pramanavarttikavrtti-svavrtti",
@@ -28859,7 +29261,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmakirti/pramanavarttikavrtti-svavrtti_fake-17074.xml",
+            "_works/dharmakirti/pramanavarttikavrtti-svavrtti_fake-20cb4.txt"
+          ]
         },
         {
           "id": "pramanavarttikavrttitika",
@@ -28889,7 +29294,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/karnakagomin/pramanavarttikavrttitika_fake-329e8.txt",
+            "_works/karnakagomin/pramanavarttikavrttitika_fake-cc769.xml"
+          ]
         },
         {
           "id": "pramanaviniscaya",
@@ -28912,7 +29320,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmakirti/pramanaviniscaya_fake-0756d.txt",
+            "_works/dharmakirti/pramanaviniscaya_fake-40a6f.xml"
+          ]
         },
         {
           "id": "pramanaviniscayanusarini",
@@ -28941,7 +29352,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/pramanaviniscayanusarini_fake-3d400.xml",
+            "_works/sankaranandana/pramanaviniscayanusarini_fake-40849.txt"
+          ]
         },
         {
           "id": "pramanaviniscayatika-dharmottara",
@@ -28971,7 +29385,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmottara/pramanaviniscayatika-dharmottara_fake-25e09.xml",
+            "_works/dharmottara/pramanaviniscayatika-dharmottara_fake-cd5c9.txt"
+          ]
         },
         {
           "id": "pramanaviniscayatika-jnanasribhadra",
@@ -29001,7 +29418,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jnanasribhadra/pramanaviniscayatika-jnanasribhadra_fake-24edf.txt",
+            "_works/jnanasribhadra/pramanaviniscayatika-jnanasribhadra_fake-279b9.xml"
+          ]
         },
         {
           "id": "pramanyapariksa-i-brhatpramanyapariksa",
@@ -29030,7 +29450,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmottara/pramanyapariksa-i-brhatpramanyapariksa_fake-68986.txt",
+            "_works/dharmottara/pramanyapariksa-i-brhatpramanyapariksa_fake-7fda8.xml"
+          ]
         },
         {
           "id": "pramanyapariksa-ii-laghupramanyapariksa",
@@ -29053,7 +29476,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmottara/pramanyapariksa-ii-laghupramanyapariksa_fake-cba36.txt",
+            "_works/dharmottara/pramanyapariksa-ii-laghupramanyapariksa_fake-d89cf.xml"
+          ]
         },
         {
           "id": "pratibandhasiddhikarika",
@@ -29076,7 +29502,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/pratibandhasiddhikarika_fake-a8ca4.xml",
+            "_works/sankaranandana/pratibandhasiddhikarika_fake-b29e4.txt"
+          ]
         },
         {
           "id": "qbrel-ba-brtag-pa-rgyan-gyi-me-tog",
@@ -29112,7 +29541,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri/qbrel-ba-brtag-pa-rgyan-gyi-me-tog_fake-635e7.xml",
+            "_works/dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri/qbrel-ba-brtag-pa-rgyan-gyi-me-tog_fake-76f32.txt"
+          ]
         },
         {
           "id": "qbrel-ba-brtag-paqi-rab-tu-qbyed-paqi-don-bsdus",
@@ -29142,7 +29574,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri/qbrel-ba-brtag-paqi-rab-tu-qbyed-paqi-don-bsdus_fake-b9da8.xml",
+            "_works/dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri/qbrel-ba-brtag-paqi-rab-tu-qbyed-paqi-don-bsdus_fake-f9d8b.txt"
+          ]
         },
         {
           "id": "qbrel-ba-brtag-paqi-rab-tu-qbyed-paqi-mchan",
@@ -29178,7 +29613,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri/qbrel-ba-brtag-paqi-rab-tu-qbyed-paqi-mchan_fake-2dd9f.txt",
+            "_works/dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri/qbrel-ba-brtag-paqi-rab-tu-qbyed-paqi-mchan_fake-cd267.xml"
+          ]
         },
         {
           "id": "qbrel-ba-brtag-paqi-rnam-bshad-nyi-maqi-snying-po",
@@ -29214,7 +29652,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/rgyal-tshab-dar-ma-rin-chen/qbrel-ba-brtag-paqi-rnam-bshad-nyi-maqi-snying-po_fake-66f8d.xml",
+            "_works/rgyal-tshab-dar-ma-rin-chen/qbrel-ba-brtag-paqi-rnam-bshad-nyi-maqi-snying-po_fake-a7af7.txt"
+          ]
         },
         {
           "id": "qbrel-pa-brtag-paqi-qgrel-pa",
@@ -29244,7 +29685,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/qbrel-pa-brtag-paqi-qgrel-pa_fake-c6d44.xml",
+            "_works/translations/tibetan/qbrel-pa-brtag-paqi-qgrel-pa_fake-dc6ba.txt"
+          ]
         },
         {
           "id": "qbrel-pa-brtag-paqi-rab-tu-byed-pa",
@@ -29274,7 +29718,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/qbrel-pa-brtag-paqi-rab-tu-byed-pa_fake-1021d.txt",
+            "_works/translations/tibetan/qbrel-pa-brtag-paqi-rab-tu-byed-pa_fake-9b917.xml"
+          ]
         },
         {
           "id": "qbrel-pa-brtag-paqi-rgya-cher-bshad-pa",
@@ -29304,7 +29751,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/qbrel-pa-brtag-paqi-rgya-cher-bshad-pa_fake-77f04.xml",
+            "_works/translations/tibetan/qbrel-pa-brtag-paqi-rgya-cher-bshad-pa_fake-dbab0.txt"
+          ]
         },
         {
           "id": "qbrel-pa-brtag-paqi-rjes-su-qbrang-ba",
@@ -29334,7 +29784,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/qbrel-pa-brtag-paqi-rjes-su-qbrang-ba_fake-b7f9b.xml",
+            "_works/translations/tibetan/qbrel-pa-brtag-paqi-rjes-su-qbrang-ba_fake-dccdf.txt"
+          ]
         },
         {
           "id": "qbrel-pa-grub-pa",
@@ -29364,7 +29817,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/qbrel-pa-grub-pa_fake-48a18.txt",
+            "_works/translations/tibetan/qbrel-pa-grub-pa_fake-b0063.xml"
+          ]
         },
         {
           "id": "qjig-rten-pha-rol-grub-pa",
@@ -29394,7 +29850,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/qjig-rten-pha-rol-grub-pa_fake-75f8a.xml",
+            "_works/translations/tibetan/qjig-rten-pha-rol-grub-pa_fake-ee614.txt"
+          ]
         },
         {
           "id": "qu-yin-jia-she-lun",
@@ -29424,7 +29883,10 @@
               "chinese"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/chinese/qu-yin-jia-she-lun_fake-18a20.xml",
+            "_works/translations/chinese/qu-yin-jia-she-lun_fake-5dbfe.txt"
+          ]
         },
         {
           "id": "refutation-of-the-pratyabhijna-system",
@@ -29453,7 +29915,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/refutation-of-the-pratyabhijna-system_fake-74ffa.xml",
+            "_works/jitari/refutation-of-the-pratyabhijna-system_fake-bcae9.txt"
+          ]
         },
         {
           "id": "rgyu-dang-qbras-buqi-ngo-bo-grub-pa",
@@ -29483,7 +29948,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/rgyu-dang-qbras-buqi-ngo-bo-grub-pa_fake-02da5.xml",
+            "_works/translations/tibetan/rgyu-dang-qbras-buqi-ngo-bo-grub-pa_fake-f6741.txt"
+          ]
         },
         {
           "id": "rgyud-gzhan-grub-pa-zhes-bya-baqi-rab-tu-byed-pa",
@@ -29513,7 +29981,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/rgyud-gzhan-grub-pa-zhes-bya-baqi-rab-tu-byed-pa_fake-ca097.txt",
+            "_works/translations/tibetan/rgyud-gzhan-grub-pa-zhes-bya-baqi-rab-tu-byed-pa_fake-f95e0.xml"
+          ]
         },
         {
           "id": "rgyud-gzhan-grub-paqi-qgrel-bshad",
@@ -29543,7 +30014,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/rgyud-gzhan-grub-paqi-qgrel-bshad_fake-3d78e.txt",
+            "_works/translations/tibetan/rgyud-gzhan-grub-paqi-qgrel-bshad_fake-579ab.xml"
+          ]
         },
         {
           "id": "rigs-pa-grub-paqi-sgron-ma",
@@ -29573,7 +30047,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/rigs-pa-grub-paqi-sgron-ma_fake-02529.xml",
+            "_works/translations/tibetan/rigs-pa-grub-paqi-sgron-ma_fake-10e77.txt"
+          ]
         },
         {
           "id": "rigs-paqi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa",
@@ -29603,7 +30080,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/rigs-paqi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa_fake-12900.xml",
+            "_works/translations/tibetan/rigs-paqi-thigs-pa-zhes-bya-baqi-rab-tu-byed-pa_fake-b5acd.txt"
+          ]
         },
         {
           "id": "rigs-paqi-thigs-paqi-don-bsdus-pa",
@@ -29633,7 +30113,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/rigs-paqi-thigs-paqi-don-bsdus-pa_fake-2e8a0.xml",
+            "_works/translations/tibetan/rigs-paqi-thigs-paqi-don-bsdus-pa_fake-ed884.txt"
+          ]
         },
         {
           "id": "rigs-paqi-thigs-paqi-phyogs-snga-ma-mdor-bsdus-pa",
@@ -29663,7 +30146,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/rigs-paqi-thigs-paqi-phyogs-snga-ma-mdor-bsdus-pa_fake-9584f.xml",
+            "_works/translations/tibetan/rigs-paqi-thigs-paqi-phyogs-snga-ma-mdor-bsdus-pa_fake-f6a20.txt"
+          ]
         },
         {
           "id": "rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4230",
@@ -29693,7 +30179,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4230_fake-21563.xml",
+            "_works/translations/tibetan/rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4230_fake-8c721.txt"
+          ]
         },
         {
           "id": "rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4231",
@@ -29723,7 +30212,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4231_fake-4ae8c.txt",
+            "_works/translations/tibetan/rigs-paqi-thigs-paqi-rgya-cher-qgrel-pa-derge4231_fake-deb1e.xml"
+          ]
         },
         {
           "id": "rigs-thigs-brjed-byang",
@@ -29759,7 +30251,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/rigs-thigs-brjed-byang_fake-267d4.txt",
+            "_works/translations/tibetan/rigs-thigs-brjed-byang_fake-5088d.xml"
+          ]
         },
         {
           "id": "rigs-thigs-qgrel-paqi-don-bsdus",
@@ -29795,7 +30290,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/rngog-blo-ldan-shes-rab/rigs-thigs-qgrel-paqi-don-bsdus_fake-1e488.xml",
+            "_works/rngog-blo-ldan-shes-rab/rigs-thigs-qgrel-paqi-don-bsdus_fake-ece3a.txt"
+          ]
         },
         {
           "id": "rnam-par-rig-pa-tsam-nyid-du-grub-pa",
@@ -29825,7 +30323,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/rnam-par-rig-pa-tsam-nyid-du-grub-pa_fake-3f023.xml",
+            "_works/translations/tibetan/rnam-par-rig-pa-tsam-nyid-du-grub-pa_fake-b2d01.txt"
+          ]
         },
         {
           "id": "rtog-geqi-skad",
@@ -29855,7 +30356,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/rtog-geqi-skad_fake-8563f.xml",
+            "_works/translations/tibetan/rtog-geqi-skad_fake-bf33d.txt"
+          ]
         },
         {
           "id": "rtsod-paqi-rigs-pa-la-qbru-qjoms",
@@ -29891,7 +30395,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri/rtsod-paqi-rigs-pa-la-qbru-qjoms_fake-4c547.txt",
+            "_works/dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri/rtsod-paqi-rigs-pa-la-qbru-qjoms_fake-f3a14.xml"
+          ]
         },
         {
           "id": "rtsod-paqi-rigs-pa-rgyan-gyi-me-tog",
@@ -29927,7 +30434,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri/rtsod-paqi-rigs-pa-rgyan-gyi-me-tog_fake-5e9d1.txt",
+            "_works/dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri/rtsod-paqi-rigs-pa-rgyan-gyi-me-tog_fake-b303a.xml"
+          ]
         },
         {
           "id": "rtsod-paqi-rigs-pa-zhes-bya-baqi-rab-tu-byed-pa",
@@ -29957,7 +30467,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/rtsod-paqi-rigs-pa-zhes-bya-baqi-rab-tu-byed-pa_fake-6d794.txt",
+            "_works/translations/tibetan/rtsod-paqi-rigs-pa-zhes-bya-baqi-rab-tu-byed-pa_fake-e1aeb.xml"
+          ]
         },
         {
           "id": "rtsod-paqi-rigs-paqi-bsdus-don",
@@ -29993,7 +30506,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri/rtsod-paqi-rigs-paqi-bsdus-don_fake-0009e.txt",
+            "_works/dar-ma-rgyal-mtshan-bcom-ldan-rigs-paqi-ral-gri/rtsod-paqi-rigs-paqi-bsdus-don_fake-e5f97.xml"
+          ]
         },
         {
           "id": "rtsod-paqi-rigs-paqi-qgrel-pa",
@@ -30023,7 +30539,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/rtsod-paqi-rigs-paqi-qgrel-pa_fake-9fad9.txt",
+            "_works/translations/tibetan/rtsod-paqi-rigs-paqi-qgrel-pa_fake-cbb0e.xml"
+          ]
         },
         {
           "id": "rtsod-paqi-rigs-paqi-qgrel-pa-don-rnam-par-qbyed-pa",
@@ -30053,7 +30572,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/rtsod-paqi-rigs-paqi-qgrel-pa-don-rnam-par-qbyed-pa_fake-92787.txt",
+            "_works/translations/tibetan/rtsod-paqi-rigs-paqi-qgrel-pa-don-rnam-par-qbyed-pa_fake-9ef69.xml"
+          ]
         },
         {
           "id": "sahopalambha",
@@ -30082,7 +30604,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/sahopalambha_fake-a7f25.txt",
+            "_works/jitari/sahopalambha_fake-c8d43.xml"
+          ]
         },
         {
           "id": "sahopalambhaniyamasiddhi",
@@ -30111,7 +30636,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/prajnakaragupta/sahopalambhaniyamasiddhi_fake-1f785.txt",
+            "_works/prajnakaragupta/sahopalambhaniyamasiddhi_fake-59fa3.xml"
+          ]
         },
         {
           "id": "sakarasangrahasutra",
@@ -30134,7 +30662,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jnanasrimitra/sakarasangrahasutra_fake-2dc19.txt",
+            "_works/jnanasrimitra/sakarasangrahasutra_fake-d53d7.xml"
+          ]
         },
         {
           "id": "sakarasiddhisastra",
@@ -30157,7 +30688,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jnanasrimitra/sakarasiddhisastra_fake-484ee.xml",
+            "_works/jnanasrimitra/sakarasiddhisastra_fake-c61d0.txt"
+          ]
         },
         {
           "id": "samagribhanga",
@@ -30180,7 +30714,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/samagribhanga_fake-6ecf7.xml",
+            "_works/jitari/samagribhanga_fake-a466e.txt"
+          ]
         },
         {
           "id": "samanyadusana",
@@ -30209,7 +30746,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/pandita-asoka/samanyadusana_fake-3618e.txt",
+            "_works/pandita-asoka/samanyadusana_fake-dc5ac.xml"
+          ]
         },
         {
           "id": "samanyalaksanapariksa",
@@ -30238,7 +30778,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/samanyalaksanapariksa_fake-7c6d7.txt",
+            "_works/dignaga/samanyalaksanapariksa_fake-cf4cf.xml"
+          ]
         },
         {
           "id": "samanyalaksanapariksa-old-chinese",
@@ -30268,7 +30811,10 @@
               "chinese"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/chinese/samanyalaksanapariksa-old-chinese_fake-19241.txt",
+            "_works/translations/chinese/samanyalaksanapariksa-old-chinese_fake-b46df.xml"
+          ]
         },
         {
           "id": "samanyapariksa",
@@ -30297,7 +30843,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/samanyapariksa_fake-e6067.xml",
+            "_works/dignaga/samanyapariksa_fake-ed41f.txt"
+          ]
         },
         {
           "id": "sambandhapariksa",
@@ -30320,7 +30869,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmakirti/sambandhapariksa_fake-4211f.txt",
+            "_works/dharmakirti/sambandhapariksa_fake-f4f4a.xml"
+          ]
         },
         {
           "id": "sambandhapariksanusara",
@@ -30350,7 +30902,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/sambandhapariksanusara_fake-5f317.txt",
+            "_works/sankaranandana/sambandhapariksanusara_fake-723a8.xml"
+          ]
         },
         {
           "id": "sambandhapariksatika",
@@ -30380,7 +30935,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/vinitadeva/sambandhapariksatika_fake-3240f.xml",
+            "_works/vinitadeva/sambandhapariksatika_fake-b43b3.txt"
+          ]
         },
         {
           "id": "sambandhapariksavrtti",
@@ -30416,7 +30974,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/devendrabuddhi/sambandhapariksavrtti_fake-01b61.txt",
+            "_works/devendrabuddhi/sambandhapariksavrtti_fake-d8346.xml"
+          ]
         },
         {
           "id": "sankhyapariksa",
@@ -30445,7 +31006,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/sankhyapariksa_fake-34243.xml",
+            "_works/dignaga/sankhyapariksa_fake-e1641.txt"
+          ]
         },
         {
           "id": "sanksiptesvarapakaranakarika",
@@ -30474,7 +31038,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/sanksiptesvarapakaranakarika_fake-40770.xml",
+            "_works/sankaranandana/sanksiptesvarapakaranakarika_fake-48e29.txt"
+          ]
         },
         {
           "id": "santanantaradusana",
@@ -30497,7 +31064,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/ratnakirti/santanantaradusana_fake-0d0c8.txt",
+            "_works/ratnakirti/santanantaradusana_fake-4b442.xml"
+          ]
         },
         {
           "id": "santanantarasiddhi",
@@ -30520,7 +31090,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmakirti/santanantarasiddhi_fake-268ba.xml",
+            "_works/dharmakirti/santanantarasiddhi_fake-54500.txt"
+          ]
         },
         {
           "id": "santanantarasiddhitika",
@@ -30550,7 +31123,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/vinitadeva/santanantarasiddhitika_fake-25883.txt",
+            "_works/vinitadeva/santanantarasiddhitika_fake-a60d0.xml"
+          ]
         },
         {
           "id": "sarvajnasiddhi-jitari",
@@ -30573,7 +31149,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/sarvajnasiddhi-jitari_fake-9458a.xml",
+            "_works/jitari/sarvajnasiddhi-jitari_fake-f0b50.txt"
+          ]
         },
         {
           "id": "sarvajnasiddhi-jnanasrimitra",
@@ -30602,7 +31181,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jnanasrimitra/sarvajnasiddhi-jnanasrimitra_fake-86ab4.xml",
+            "_works/jnanasrimitra/sarvajnasiddhi-jnanasrimitra_fake-8e452.txt"
+          ]
         },
         {
           "id": "sarvajnasiddhi-ratnakirti",
@@ -30625,7 +31207,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/ratnakirti/sarvajnasiddhi-ratnakirti_fake-89509.xml",
+            "_works/ratnakirti/sarvajnasiddhi-ratnakirti_fake-a4c5e.txt"
+          ]
         },
         {
           "id": "sarvajnasiddhikarika-sankaranandana",
@@ -30654,7 +31239,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/sarvajnasiddhikarika-sankaranandana_fake-11bd5.txt",
+            "_works/sankaranandana/sarvajnasiddhikarika-sankaranandana_fake-c472f.xml"
+          ]
         },
         {
           "id": "sarvajnasiddhikarika-subhagupta",
@@ -30677,7 +31265,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/subhagupta/sarvajnasiddhikarika-subhagupta_fake-39f14.txt",
+            "_works/subhagupta/sarvajnasiddhikarika-subhagupta_fake-a3bc7.xml"
+          ]
         },
         {
           "id": "sarvasabdabhavacarca",
@@ -30700,7 +31291,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jnanasrimitra/sarvasabdabhavacarca_fake-36007.xml",
+            "_works/jnanasrimitra/sarvasabdabhavacarca_fake-54c5a.txt"
+          ]
         },
         {
           "id": "skad-cig-ma-qjig-pa-grub-pa",
@@ -30730,7 +31324,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/skad-cig-ma-qjig-pa-grub-pa_fake-c0957.xml",
+            "_works/translations/tibetan/skad-cig-ma-qjig-pa-grub-pa_fake-f15fb.txt"
+          ]
         },
         {
           "id": "skad-cig-ma-qjig-pa-grub-paqi-rnam-par-qgrel-pa",
@@ -30760,7 +31357,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/skad-cig-ma-qjig-pa-grub-paqi-rnam-par-qgrel-pa_fake-0debe.xml",
+            "_works/translations/tibetan/skad-cig-ma-qjig-pa-grub-paqi-rnam-par-qgrel-pa_fake-70144.txt"
+          ]
         },
         {
           "id": "srutikartrsiddhi",
@@ -30783,7 +31383,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/srutikartrsiddhi_fake-2422d.txt",
+            "_works/jitari/srutikartrsiddhi_fake-5bcf4.xml"
+          ]
         },
         {
           "id": "srutipariksakarika",
@@ -30806,7 +31409,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/subhagupta/srutipariksakarika_fake-882a2.txt",
+            "_works/subhagupta/srutipariksakarika_fake-99324.xml"
+          ]
         },
         {
           "id": "sthirasiddhidusana",
@@ -30829,7 +31435,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/ratnakirti/sthirasiddhidusana_fake-962e5.txt",
+            "_works/ratnakirti/sthirasiddhidusana_fake-deea0.xml"
+          ]
         },
         {
           "id": "suksmapramanyakarika",
@@ -30852,7 +31461,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/suksmapramanyakarika_fake-22c30.txt",
+            "_works/sankaranandana/suksmapramanyakarika_fake-6fa12.xml"
+          ]
         },
         {
           "id": "svalpasarvajnasiddhikarika",
@@ -30881,7 +31493,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/sankaranandana/svalpasarvajnasiddhikarika_fake-46e78.txt",
+            "_works/sankaranandana/svalpasarvajnasiddhikarika_fake-74082.xml"
+          ]
         },
         {
           "id": "svasamvedanasiddhi",
@@ -30910,7 +31525,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/anonymous/svasamvedanasiddhi_fake-410ff.txt",
+            "_works/anonymous/svasamvedanasiddhi_fake-4c88b.xml"
+          ]
         },
         {
           "id": "svayuthyavicara",
@@ -30939,7 +31557,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/durvekamisra/svayuthyavicara_fake-1a658.xml",
+            "_works/durvekamisra/svayuthyavicara_fake-82617.txt"
+          ]
         },
         {
           "id": "tarkabhasa",
@@ -30968,7 +31589,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/moksakaragupta/tarkabhasa_fake-834fd.txt",
+            "_works/moksakaragupta/tarkabhasa_fake-ca41a.xml"
+          ]
         },
         {
           "id": "tarkarahasya",
@@ -30997,7 +31621,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/anonymous/tarkarahasya_fake-5a15e.xml",
+            "_works/anonymous/tarkarahasya_fake-f89ff.txt"
+          ]
         },
         {
           "id": "tarkasastra",
@@ -31026,7 +31653,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/anonymous/tarkasastra_fake-20908.txt",
+            "_works/anonymous/tarkasastra_fake-2e3b3.xml"
+          ]
         },
         {
           "id": "tarkasopana",
@@ -31049,7 +31679,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/vidyakarasanti/tarkasopana_fake-09488.xml",
+            "_works/vidyakarasanti/tarkasopana_fake-cfcc7.txt"
+          ]
         },
         {
           "id": "tattvasangraha",
@@ -31078,7 +31711,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/santaraksita/tattvasangraha_fake-67335.xml",
+            "_works/santaraksita/tattvasangraha_fake-eba5b.txt"
+          ]
         },
         {
           "id": "tattvasangrahapanjika",
@@ -31114,7 +31750,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/kamalasila/tattvasangrahapanjika_fake-88cc9.txt",
+            "_works/kamalasila/tattvasangrahapanjika_fake-ff8e3.xml"
+          ]
         },
         {
           "id": "thams-cad-mkhyen-pa-grub-paqi-tshig-lequr-byas-pa",
@@ -31144,7 +31783,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/thams-cad-mkhyen-pa-grub-paqi-tshig-lequr-byas-pa_fake-c2e7d.xml",
+            "_works/translations/tibetan/thams-cad-mkhyen-pa-grub-paqi-tshig-lequr-byas-pa_fake-c5540.txt"
+          ]
         },
         {
           "id": "thos-pa-brtag-paqi-tshig-lequr-byas-pa",
@@ -31174,7 +31816,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/thos-pa-brtag-paqi-tshig-lequr-byas-pa_fake-649e1.txt",
+            "_works/translations/tibetan/thos-pa-brtag-paqi-tshig-lequr-byas-pa_fake-af37b.xml"
+          ]
         },
         {
           "id": "tibetan-text-of-hetucakradamaru-b",
@@ -31204,7 +31849,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tibetan-text-of-hetucakradamaru-b_fake-0027c.txt",
+            "_works/translations/tibetan/tibetan-text-of-hetucakradamaru-b_fake-a8da2.xml"
+          ]
         },
         {
           "id": "tshad-ma-brtag-pa",
@@ -31234,7 +31882,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-brtag-pa_fake-01c48.xml",
+            "_works/translations/tibetan/tshad-ma-brtag-pa_fake-a0230.txt"
+          ]
         },
         {
           "id": "tshad-ma-brtag-pa-chung-ba",
@@ -31264,7 +31915,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-brtag-pa-chung-ba_fake-239b3.xml",
+            "_works/translations/tibetan/tshad-ma-brtag-pa-chung-ba_fake-3220e.txt"
+          ]
         },
         {
           "id": "tshad-ma-kun-las-btus-pa",
@@ -31294,7 +31948,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-kun-las-btus-pa_fake-7d74d.xml",
+            "_works/translations/tibetan/tshad-ma-kun-las-btus-pa_fake-df1bc.txt"
+          ]
         },
         {
           "id": "tshad-ma-kun-las-btus-paqi-qgrel-pa",
@@ -31324,7 +31981,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-kun-las-btus-paqi-qgrel-pa_fake-539f2.txt",
+            "_works/translations/tibetan/tshad-ma-kun-las-btus-paqi-qgrel-pa_fake-69e5a.xml"
+          ]
         },
         {
           "id": "tshad-ma-rigs-par-qjug-paqi-sgo-zhes-bya-baqi-rab-tu-byed-pa",
@@ -31354,7 +32014,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-rigs-par-qjug-paqi-sgo-zhes-bya-baqi-rab-tu-byed-pa_fake-661e6.xml",
+            "_works/translations/tibetan/tshad-ma-rigs-par-qjug-paqi-sgo-zhes-bya-baqi-rab-tu-byed-pa_fake-bb0fb.txt"
+          ]
         },
         {
           "id": "tshad-ma-rigs-thigs-kyi-qgrel-pa-legs-bshad-snying-poqi-gter",
@@ -31390,7 +32053,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/rgyal-tshab-dar-ma-rin-chen/tshad-ma-rigs-thigs-kyi-qgrel-pa-legs-bshad-snying-poqi-gter_fake-097f1.xml",
+            "_works/rgyal-tshab-dar-ma-rin-chen/tshad-ma-rigs-thigs-kyi-qgrel-pa-legs-bshad-snying-poqi-gter_fake-9135f.txt"
+          ]
         },
         {
           "id": "tshad-ma-rigs-thigs-kyi-qgrel-pa-zur-bkol",
@@ -31420,7 +32086,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/karma-blo-gros-chos-dpal-bzang-po/tshad-ma-rigs-thigs-kyi-qgrel-pa-zur-bkol_fake-c8fc3.txt",
+            "_works/karma-blo-gros-chos-dpal-bzang-po/tshad-ma-rigs-thigs-kyi-qgrel-pa-zur-bkol_fake-dccc8.xml"
+          ]
         },
         {
           "id": "tshad-ma-rnam-nges-kyi-rnam-bshad-chen-po",
@@ -31449,7 +32118,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/gro-lung-pa-blo-gros-qbyung-gnas/tshad-ma-rnam-nges-kyi-rnam-bshad-chen-po_fake-a37f2.txt",
+            "_works/gro-lung-pa-blo-gros-qbyung-gnas/tshad-ma-rnam-nges-kyi-rnam-bshad-chen-po_fake-f150e.xml"
+          ]
         },
         {
           "id": "tshad-ma-rnam-par-nges-pa",
@@ -31479,7 +32151,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-rnam-par-nges-pa_fake-0d3ca.xml",
+            "_works/translations/tibetan/tshad-ma-rnam-par-nges-pa_fake-9765e.txt"
+          ]
         },
         {
           "id": "tshad-ma-rnam-par-nges-paqi-bsdus-don",
@@ -31515,7 +32190,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/phywa-pa-chos-kyi-seng-ge/tshad-ma-rnam-par-nges-paqi-bsdus-don_fake-06721.txt",
+            "_works/phywa-pa-chos-kyi-seng-ge/tshad-ma-rnam-par-nges-paqi-bsdus-don_fake-9f96a.xml"
+          ]
         },
         {
           "id": "tshad-ma-rnam-par-nges-paqi-dkaq-gnas-rnam-par-bshad-pa",
@@ -31551,7 +32229,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/rngog-blo-ldan-shes-rab/tshad-ma-rnam-par-nges-paqi-dkaq-gnas-rnam-par-bshad-pa_fake-39766.txt",
+            "_works/rngog-blo-ldan-shes-rab/tshad-ma-rnam-par-nges-paqi-dkaq-gnas-rnam-par-bshad-pa_fake-54791.xml"
+          ]
         },
         {
           "id": "tshad-ma-rnam-par-nges-paqi-qgrel-bshad-derge4227",
@@ -31581,7 +32262,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-rnam-par-nges-paqi-qgrel-bshad-derge4227_fake-6fcc1.xml",
+            "_works/translations/tibetan/tshad-ma-rnam-par-nges-paqi-qgrel-bshad-derge4227_fake-c767b.txt"
+          ]
         },
         {
           "id": "tshad-ma-rnam-par-nges-paqi-qgrel-bshad-derge4228",
@@ -31611,7 +32295,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-rnam-par-nges-paqi-qgrel-bshad-derge4228_fake-2bcdd.xml",
+            "_works/translations/tibetan/tshad-ma-rnam-par-nges-paqi-qgrel-bshad-derge4228_fake-6e812.txt"
+          ]
         },
         {
           "id": "tshad-ma-rnam-par-nges-paqi-qgrel-bshad-shes-rab-kyi-qod-zer",
@@ -31641,7 +32328,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/phywa-pa-chos-kyi-seng-ge/tshad-ma-rnam-par-nges-paqi-qgrel-bshad-shes-rab-kyi-qod-zer_fake-12f64.txt",
+            "_works/phywa-pa-chos-kyi-seng-ge/tshad-ma-rnam-par-nges-paqi-qgrel-bshad-shes-rab-kyi-qod-zer_fake-1dbe3.xml"
+          ]
         },
         {
           "id": "tshad-ma-rnam-qgrel-gyi-dkaq-qgrel",
@@ -31671,7 +32361,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-dkaq-qgrel_fake-5c817.xml",
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-dkaq-qgrel_fake-5d3c5.txt"
+          ]
         },
         {
           "id": "tshad-ma-rnam-qgrel-gyi-qgrel-bshad-derge4220",
@@ -31701,7 +32394,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-qgrel-bshad-derge4220_fake-3d19c.xml",
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-qgrel-bshad-derge4220_fake-57a32.txt"
+          ]
         },
         {
           "id": "tshad-ma-rnam-qgrel-gyi-qgrel-bshad-derge4223",
@@ -31731,7 +32427,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-qgrel-bshad-derge4223_fake-ac5ab.txt",
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-qgrel-bshad-derge4223_fake-d5304.xml"
+          ]
         },
         {
           "id": "tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4216",
@@ -31761,7 +32460,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4216_fake-96910.xml",
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4216_fake-fff02.txt"
+          ]
         },
         {
           "id": "tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4224",
@@ -31791,7 +32493,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4224_fake-3c3f2.xml",
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-qgrel-pa-derge4224_fake-cce04.txt"
+          ]
         },
         {
           "id": "tshad-ma-rnam-qgrel-gyi-qgrel-pa-las-lequ-gsum-pa",
@@ -31821,7 +32526,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-qgrel-pa-las-lequ-gsum-pa_fake-3f036.xml",
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-qgrel-pa-las-lequ-gsum-pa_fake-f8fc1.txt"
+          ]
         },
         {
           "id": "tshad-ma-rnam-qgrel-gyi-rgyan",
@@ -31851,7 +32559,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-rgyan_fake-b7f06.txt",
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-rgyan_fake-ef9da.xml"
+          ]
         },
         {
           "id": "tshad-ma-rnam-qgrel-gyi-rgyan-gyi-qgrel-bshad",
@@ -31881,7 +32592,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-rgyan-gyi-qgrel-bshad_fake-4340f.xml",
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-rgyan-gyi-qgrel-bshad_fake-8762d.txt"
+          ]
         },
         {
           "id": "tshad-ma-rnam-qgrel-gyi-rgyan-gyi-qgrel-bshad-shin-tu-yongs-su-dag-pa",
@@ -31911,7 +32625,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-rgyan-gyi-qgrel-bshad-shin-tu-yongs-su-dag-pa_fake-ab98d.xml",
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-rgyan-gyi-qgrel-bshad-shin-tu-yongs-su-dag-pa_fake-dc1a1.txt"
+          ]
         },
         {
           "id": "tshad-ma-rnam-qgrel-gyi-rnam-par-bshad-pa-gnas-gsum-gsal-ba-gangs-can-gyi-rgyan",
@@ -31941,7 +32658,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/btsun-pa-ston-gzhon/tshad-ma-rnam-qgrel-gyi-rnam-par-bshad-pa-gnas-gsum-gsal-ba-gangs-can-gyi-rgyan_fake-b6eea.txt",
+            "_works/btsun-pa-ston-gzhon/tshad-ma-rnam-qgrel-gyi-rnam-par-bshad-pa-gnas-gsum-gsal-ba-gangs-can-gyi-rgyan_fake-e464c.xml"
+          ]
         },
         {
           "id": "tshad-ma-rnam-qgrel-gyi-tshig-lequr-byas-pa",
@@ -31971,7 +32691,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-tshig-lequr-byas-pa_fake-18b03.xml",
+            "_works/translations/tibetan/tshad-ma-rnam-qgrel-gyi-tshig-lequr-byas-pa_fake-48880.txt"
+          ]
         },
         {
           "id": "tshad-ma-yid-kyi-mun-sel",
@@ -31994,7 +32717,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/phywa-pa-chos-kyi-seng-ge/tshad-ma-yid-kyi-mun-sel_fake-b98ee.txt",
+            "_works/phywa-pa-chos-kyi-seng-ge/tshad-ma-yid-kyi-mun-sel_fake-ff941.xml"
+          ]
         },
         {
           "id": "upadayaprajnaptiprakarana",
@@ -32023,7 +32749,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/upadayaprajnaptiprakarana_fake-5bbf1.txt",
+            "_works/dignaga/upadayaprajnaptiprakarana_fake-6b66f.xml"
+          ]
         },
         {
           "id": "upayahrdayasastra-prayogasarasastra",
@@ -32046,7 +32775,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/anonymous/upayahrdayasastra-prayogasarasastra_fake-2bdcb.txt",
+            "_works/anonymous/upayahrdayasastra-prayogasarasastra_fake-aef2a.xml"
+          ]
         },
         {
           "id": "vadanyaya",
@@ -32069,7 +32801,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dharmakirti/vadanyaya_fake-0d74a.xml",
+            "_works/dharmakirti/vadanyaya_fake-dbe2d.txt"
+          ]
         },
         {
           "id": "vadanyayatika",
@@ -32099,7 +32834,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/vinitadeva/vadanyayatika_fake-545b0.txt",
+            "_works/vinitadeva/vadanyayatika_fake-b7c5a.xml"
+          ]
         },
         {
           "id": "vadanyayatika-vipancitartha",
@@ -32129,7 +32867,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/santaraksita/vadanyayatika-vipancitartha_fake-454af.xml",
+            "_works/santaraksita/vadanyayatika-vipancitartha_fake-ca952.txt"
+          ]
         },
         {
           "id": "vadarahasya",
@@ -32158,7 +32899,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/anonymous/vadarahasya_fake-2392c.txt",
+            "_works/anonymous/vadarahasya_fake-ccd98.xml"
+          ]
         },
         {
           "id": "vadasara-or-vadahrdaya",
@@ -32187,7 +32931,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/vasubandhu-the-younger/vadasara-or-vadahrdaya_fake-203f8.txt",
+            "_works/vasubandhu-the-younger/vadasara-or-vadahrdaya_fake-50ca4.xml"
+          ]
         },
         {
           "id": "vadasthanani",
@@ -32216,7 +32963,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/vadasthanani_fake-15af1.xml",
+            "_works/jitari/vadasthanani_fake-19985.txt"
+          ]
         },
         {
           "id": "vadavidhana",
@@ -32245,7 +32995,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/vasubandhu-the-younger/vadavidhana_fake-6c10b.txt",
+            "_works/vasubandhu-the-younger/vadavidhana_fake-9e613.xml"
+          ]
         },
         {
           "id": "vadavidhanatika",
@@ -32274,7 +33027,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/vadavidhanatika_fake-0cf9d.xml",
+            "_works/dignaga/vadavidhanatika_fake-54e61.txt"
+          ]
         },
         {
           "id": "vadavidhanavrtti",
@@ -32303,7 +33059,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/vasubandhu-the-younger/vadavidhanavrtti_fake-0f079.xml",
+            "_works/vasubandhu-the-younger/vadavidhanavrtti_fake-e51a3.txt"
+          ]
         },
         {
           "id": "vadavidhi",
@@ -32326,7 +33085,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/vasubandhu-the-younger/vadavidhi_fake-58112.xml",
+            "_works/vasubandhu-the-younger/vadavidhi_fake-c9720.txt"
+          ]
         },
         {
           "id": "vaisesikapariksa",
@@ -32355,7 +33117,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/dignaga/vaisesikapariksa_fake-0faad.txt",
+            "_works/dignaga/vaisesikapariksa_fake-db65f.xml"
+          ]
         },
         {
           "id": "vedapramanyasiddhi",
@@ -32378,7 +33143,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/vedapramanyasiddhi_fake-4cee2.txt",
+            "_works/jitari/vedapramanyasiddhi_fake-dd7b2.xml"
+          ]
         },
         {
           "id": "vijnaptimatratasiddhi-jitari",
@@ -32401,7 +33169,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/vijnaptimatratasiddhi-jitari_fake-789bc.xml",
+            "_works/jitari/vijnaptimatratasiddhi-jitari_fake-c487d.txt"
+          ]
         },
         {
           "id": "vijnaptimatratasiddhi-ratnakarasanti",
@@ -32424,7 +33195,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/ratnakarasanti/vijnaptimatratasiddhi-ratnakarasanti_fake-23294.txt",
+            "_works/ratnakarasanti/vijnaptimatratasiddhi-ratnakarasanti_fake-e0500.xml"
+          ]
         },
         {
           "id": "visesakhyana",
@@ -32453,7 +33227,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/durvekamisra/visesakhyana_fake-e0f55.xml",
+            "_works/durvekamisra/visesakhyana_fake-e5d58.txt"
+          ]
         },
         {
           "id": "vyapakanupalambha",
@@ -32476,7 +33253,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jitari/vyapakanupalambha_fake-27821.txt",
+            "_works/jitari/vyapakanupalambha_fake-5750e.xml"
+          ]
         },
         {
           "id": "vyapticarca",
@@ -32499,7 +33279,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jnanasrimitra/vyapticarca_fake-28f5c.xml",
+            "_works/jnanasrimitra/vyapticarca_fake-9ba47.txt"
+          ]
         },
         {
           "id": "vyaptinirnaya",
@@ -32522,7 +33305,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/ratnakirti/vyaptinirnaya_fake-aa6b2.xml",
+            "_works/ratnakirti/vyaptinirnaya_fake-b631e.txt"
+          ]
         },
         {
           "id": "yangs-ba-dang-dri-ma-med-pa-dang-ldang-pa",
@@ -32552,7 +33338,10 @@
               "tibetan"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/tibetan/yangs-ba-dang-dri-ma-med-pa-dang-ldang-pa_fake-03445.xml",
+            "_works/translations/tibetan/yangs-ba-dang-dri-ma-med-pa-dang-ldang-pa_fake-e0694.txt"
+          ]
         },
         {
           "id": "yin-ming-ru-zheng-li-lun",
@@ -32582,7 +33371,10 @@
               "chinese"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/chinese/yin-ming-ru-zheng-li-lun_fake-5ee57.xml",
+            "_works/translations/chinese/yin-ming-ru-zheng-li-lun_fake-c07d4.txt"
+          ]
         },
         {
           "id": "yin-ming-zheng-li-men-lun",
@@ -32612,7 +33404,10 @@
               "chinese"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/translations/chinese/yin-ming-zheng-li-men-lun_fake-0f694.xml",
+            "_works/translations/chinese/yin-ming-zheng-li-men-lun_fake-edfac.txt"
+          ]
         },
         {
           "id": "yoginirnayaprakarana",
@@ -32635,7 +33430,10 @@
               "sanskrit"
             ]
           },
-          "attachments": []
+          "attachments": [
+            "_works/jnanasrimitra/yoginirnayaprakarana_fake-39790.xml",
+            "_works/jnanasrimitra/yoginirnayaprakarana_fake-bf5e5.txt"
+          ]
         }
       ]
     }
