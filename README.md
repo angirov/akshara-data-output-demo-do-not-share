@@ -12,9 +12,8 @@ It is regenerated wholesale on each deploy; nothing here is hand-edited.
 - `index.html`, `site.css`, `bibs/`, `persons/`, `works/` — the deployable static site (what
   `make deploy` leaves behind after cleaning up intermediates). This is what actually gets
   served, e.g. via GitHub Pages.
-- `INTERMEDIATE_OUTPUT/` — normally deleted by `make deploy`; kept here once, renamed from its
-  build-time name `OUTPUT/`, purely to show what the pipeline produces along the way before the
-  final HTML render:
+- `INTERMEDIATE_OUTPUT/` — normally deleted by `make deploy`;
+- kept here purely to show what the pipeline produces along the way before the final HTML render:
   - `collections.json` — the validated collections map: every item in every collection, keyed
     by its filename stem, as parsed from the YAML docs.
   - `db.sqlite` — the same data materialized into a relational SQLite DB, with foreign-key
